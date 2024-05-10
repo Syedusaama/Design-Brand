@@ -573,13 +573,11 @@ ul.tabs-ul-04 i {
 .header-btn{
     background-color: #FD5605;
     font-family: "Poppins", sans-serif;
-    /* font-weight: 700; */
     padding: 15px 35px;
     text-decoration: none;
     text-align: center;
     transition: 0.5s;
-    color: #282C4B;
-    /* border: 1px solid #FF698D80; */
+    color: #fff;
     border-radius: 26px 0px 26px 26px;
 }
 .header-btn:hover{

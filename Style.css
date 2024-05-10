@@ -54,7 +54,7 @@
 }
 
 body {
-    font-family: "Roboto";
+    font-family: "Poppins", sans-serif;
     overflow-x: hidden;
     font-size: 16px;
     line-height: 1;
@@ -67,7 +67,7 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: 'Jost';
+    font-family: "Poppins", sans-serif;
     display: block;
     font-weight: normal;
 }
@@ -83,7 +83,7 @@ img {
     height: auto;
 }
 a{
-    font-family: "Roboto"; 
+    font-family: "Poppins", sans-serif; 
 }
 a,
 input[type="submit"] {
@@ -112,7 +112,7 @@ button {
     background: transparent;
     border: none;
     border-radius: 0px;
-    font-family: "Roboto";
+    font-family: "Poppins", sans-serif;
     font-weight: 400;
 }
 
@@ -350,10 +350,9 @@ header {
 /* Menu Css */
 
 .menu {
-    font-family: "Jost";
+    font-family: "Poppins", sans-serif;
     font-size: 0px;
     display: inline-block;
-    vertical-align: middle;
     padding-right: 40px;
 }
 
@@ -361,6 +360,7 @@ header {
     display: inline-block;
     vertical-align: middle;
     padding-left: 35px;
+    
 }
 
 .menu li a {
@@ -370,6 +370,7 @@ header {
     color: #363636;
     text-transform: uppercase;
     font-weight: 600;
+    text-decoration: none;
 }
 
 .menu li:hover a,
@@ -559,23 +560,27 @@ ul.tabs-ul-04 i {
 
 
 .header-color{
-    background-color: red;
+    background-color: #fff;
     border-radius: 6px;
     padding: 10px;
     width: 1110px !important;
     text-align: center;
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+-webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
 }
 
 .header-btn{
-    background-color: transparent;
-    font-family: "Ubunto";
-    font-weight: 700;
+    background-color: #FD5605;
+    font-family: "Poppins", sans-serif;
+    /* font-weight: 700; */
     padding: 15px 35px;
+    text-decoration: none;
     text-align: center;
     transition: 0.5s;
     color: #282C4B;
-    border: 1px solid #FF698D80;
-    border-radius: 26px;
+    /* border: 1px solid #FF698D80; */
+    border-radius: 26px 0px 26px 26px;
 }
 .header-btn:hover{
     background-color: transparent;

@@ -687,10 +687,6 @@ ul.tabs-ul-04 i {
 }
 /* -----------------------Service Css------------------- */
 
-
-
-
-
 .main-footer{
     background-image: url(/assets/images/footer-background.png);
     background-position: center center;
@@ -700,17 +696,25 @@ ul.tabs-ul-04 i {
 }
 
 .footer-body{
-    padding: 50px 0px;
+    padding-top: 50px;
+    max-width: 1110px;
+    margin: 0 auto;
+}
+.footer-body p{
+    color: #fff;
 }
 
+.footer-inner-box{
+    padding-left: 40px;
+}
 .footer-inner-box h3{
     color: #FD5605;
 }
+
 .footer-inner-box ul li a{
     color: #fff;
     text-decoration: none;
 }
-
 
 .list-style{
     list-style: none;

@@ -715,6 +715,9 @@ ul.tabs-ul-04 i {
     color: #fff;
     text-decoration: none;
 }
+.footer-inner-box ul li a:hover{
+    color:#FD5605;
+}
 
 .list-style{
     list-style: none;
@@ -722,8 +725,15 @@ ul.tabs-ul-04 i {
     line-height: 1.7;
 }
 
-
-
+.footer-end{
+    background-color: #000;
+    text-align: center;
+    padding: 15px 0px;
+}
+.footer-end p{
+    margin: 0px;
+    color: #fff;
+}
 
 /* Dropdown CSS*/
 

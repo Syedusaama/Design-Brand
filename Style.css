@@ -565,9 +565,6 @@ ul.tabs-ul-04 i {
     padding: 10px;
     width: 1110px !important;
     text-align: center;
-    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
--webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
--moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
 }
 
 .header-btn{
@@ -590,8 +587,18 @@ ul.tabs-ul-04 i {
 /* -----------------------Header Css------------------- */
 
 /* -----------------------Banner Css------------------- */
+
+.banner{
+}
 .main-banner{
-    background-image: url();
+    background-image: url(/assets/images/Main-banner.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: -153px;
+    padding-top: 250px;
+    text-align: center;
+    line-height: 0px;
 }
 
 

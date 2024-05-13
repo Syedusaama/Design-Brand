@@ -688,8 +688,20 @@ ul.tabs-ul-04 i {
 /* -----------------------Service Css------------------- */
 
 /* -----------------------Call section Css------------------- */
+.call-banner{
+    background-image: url(/assets/images/call-background.png);
+    background-position: top left;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.call-btn-sec {
+    display: flex;
+    align-items: center;
+}
 
-
+.call-btn-sec img{
+    width: 50px;
+}
 .call-text-sec h3{
     font-size: 50px;
     font-weight: bold;
@@ -700,11 +712,35 @@ ul.tabs-ul-04 i {
     font-weight: 400;
 }
 
+.call-btn-sec a{
+    text-decoration: none;
+    align-items: center;
+}
 
+.call-text-color{
+    color: #000;
+}
 
+.call-btn-sec a span{
+    font-size: 20px;
+    font-weight: bold;
+}
 
-
-
+.call-btn{
+    background-color: #FD5605;
+    font-family: "Poppins", sans-serif;
+    padding: 15px 35px;
+    text-decoration: none;
+    text-align: center;
+    transition: 0.5s;
+    color: #fff;
+    border-radius: 26px 0px 26px 26px;
+    margin-right: 20px;
+}
+.call-btn:hover{
+    background-color: transparent;
+    color: #f22f3b;
+}
 
 
 

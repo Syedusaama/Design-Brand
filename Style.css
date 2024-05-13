@@ -687,6 +687,35 @@ ul.tabs-ul-04 i {
 }
 /* -----------------------Service Css------------------- */
 
+/* -----------------------Call section Css------------------- */
+
+
+.call-text-sec h3{
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.call-text-sec p{
+    font-size: 16px;
+    font-weight: 400;
+}
+
+
+
+
+
+
+
+
+
+/* -----------------------Call section Css------------------- */
+
+
+
+
+
+
+/* -----------------------Footer Css------------------- */
 .main-footer{
     background-image: url(/assets/images/footer-background.png);
     background-position: center center;
@@ -734,6 +763,14 @@ ul.tabs-ul-04 i {
     margin: 0px;
     color: #fff;
 }
+
+
+
+/* -----------------------Footer Css------------------- */
+
+
+
+
 
 /* Dropdown CSS*/
 

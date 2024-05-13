@@ -691,15 +691,32 @@ ul.tabs-ul-04 i {
 
 
 
+.main-footer{
+    background-image: url(/assets/images/footer-background.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 100px 0px;
+}
+
+.footer-body{
+    padding: 50px 0px;
+}
+
+.footer-inner-box h3{
+    color: #FD5605;
+}
+.footer-inner-box ul li a{
+    color: #fff;
+    text-decoration: none;
+}
 
 
-
-
-
-
-
-
-
+.list-style{
+    list-style: none;
+    padding-left: 0px;
+    line-height: 1.7;
+}
 
 
 

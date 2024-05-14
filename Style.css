@@ -436,10 +436,42 @@ ul.dropdown li a:hover {
     z-index: 9;
 }
 
+/* -----------------------Page Headings Css------------------- */
 
+
+.title-heading{
+    font-size: 50px;
+    font-weight: bold;
+    color: #000;
+}
+
+.title-heading-white{
+    font-size: 50px;
+    font-weight: bold;
+    color: #fff;
+}
+
+.title-p{
+    font-size: 20px;
+    font-weight: 500;
+    color: #000;
+}
+
+.title-p-white{
+    font-size: 20px;
+    font-weight: 500;
+    color: #fff;
+}
+
+
+
+
+
+
+
+/* -----------------------Page Headings Css------------------- */
 
 /* -----------------------Header Css------------------- */
-
 
 .header-color{
     background-color: #fff;
@@ -572,7 +604,11 @@ ul.dropdown li a:hover {
 
 /* ----------------servicesTabs------------ */
 
+
+
+
 .bg-servicesTabs{
+    background-image: url(/assets/images/pricing-back.png);
     padding-top: 150px;
     padding-bottom: 140px;
     background-repeat: no-repeat;
@@ -591,7 +627,7 @@ ul.dropdown li a:hover {
 
 .tabnav-projects>li {
     display: inline-block;
-    padding: 0px 10px;
+    padding: 0px 6px;
 }
 .tabnav-projects>li>a:hover{
     background-color: #FD5605;
@@ -647,10 +683,19 @@ ul.dropdown li a:hover {
 .project-item-body {
     z-index: 2;
     min-height: 100px;
-    padding: 20px;
+    padding: 30px 20px;
     background-color: #D4D4D4;
     text-align: center;
     border-radius: 40px;
+    transition: 0.8s ease;
+
+}
+
+.project-item-body:hover{
+    background-image: url(/assets/images/pricing-background.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    cursor: pointer;
 }
 
 .project-item-body h5 {
@@ -672,18 +717,18 @@ ul.dropdown li a:hover {
 ul.tabs-ul-01{
     background-color: #fff;
     border-radius: 40px;
-    padding: 20px 0px;
+    padding: 20px 10px;
 }
 
 ul.tabs-ul-01 li {
     font-size: 16px;
-    padding-bottom: 5px;
+    padding-bottom: 10px;
     list-style: none;
     padding-left: 22px;
     text-align: left;
 }
 ul.tabs-ul-01 i {
-    color: #5ee1da;
+    color: #FD5605;
     padding-right: 8px;
 }
 ul.tabs-ul-02 li {

@@ -621,7 +621,8 @@ ul.dropdown li a:hover {
 
 .project-items {
     font-size: 0;
-    margin: 0 -15px;
+    margin: 0px 40px;
+    display: flex;
 }
 
 .project-items>li {
@@ -646,26 +647,40 @@ ul.dropdown li a:hover {
 .project-item-body {
     z-index: 2;
     min-height: 100px;
-    padding: 40px;
+    padding: 20px;
+    background-color: #D4D4D4;
+    text-align: center;
+    border-radius: 40px;
 }
 
 .project-item-body h5 {
-    color: #051133;
-    font-size: 36px;
-    font-weight: bold;
-    padding-bottom: 15px;
+    color: #fff;
+    font-size: 30px;
+    font-weight: 600;
+    padding-bottom: 0px;
 }
-
+.project-item-body h4 {
+    color: #fff;
+    font-size: 90px;
+    font-weight: bold;
+    padding-bottom: 0px;
+}
 .project-item-body p {
-    color: #333333;
-    font-size: 16px;
-    line-height: normal;
-    padding-bottom: 25px;
+    color: #fff;
+    font-size: 30px;
+}
+ul.tabs-ul-01{
+    background-color: #fff;
+    border-radius: 40px;
+    padding: 20px 0px;
 }
 
 ul.tabs-ul-01 li {
     font-size: 16px;
     padding-bottom: 5px;
+    list-style: none;
+    padding-left: 22px;
+    text-align: left;
 }
 ul.tabs-ul-01 i {
     color: #5ee1da;

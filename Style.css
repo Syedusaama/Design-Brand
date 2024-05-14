@@ -613,7 +613,7 @@ ul.dropdown li a:hover {
     text-align: center;
     transition: 0.5s;
     color: #fff;
-    box-shadow: 0px 10px 15px 0px #FD5605;
+    box-shadow:  1px 1px 15px 0px #fd5605;
     background: #FD5605;
     text-decoration: none;
 }

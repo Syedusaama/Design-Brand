@@ -763,16 +763,26 @@ ul.tabs-ul-04 i {
     background-image: url(/assets/images/work-background.png);
     padding-top: 150px;
     padding-bottom: 150px;
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 .work-content{
     text-align: center;
+    cursor: pointer;
 }
 
 .work-content h4, p{
     color: #fff;
 }
-
+.work-content p{
+    padding: 0px 30px;
+}
+.line-css{
+    width: 1020px;
+    padding: 50px 0px;
+}
 /* ----------------Work section------------ */
 
 

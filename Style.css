@@ -520,7 +520,21 @@ ul.dropdown li a:hover {
 .banner-hand{
     max-width: 600px;
 }
+.img-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: center;
+}
+.creative-img{
+    width: 200px;
+    margin-bottom: -240px;
+}
 
+.design-img{
+    margin-bottom: -70px;
+    margin-left: -170px;
+}
 .shapes1{
     position: absolute;
     left: 18%;
@@ -529,14 +543,14 @@ ul.dropdown li a:hover {
 
 .shapes2{
     position: absolute;
-    left: 8%;
+    left: 10%;
     bottom: -12%;
 }
 
 .shapes3{
     position: absolute;
-    bottom: -6%;
-    right: 18%;
+    bottom: 0%;
+    right: 16%;
 }
 .banner-btn{
     background-color: #FD5605;
@@ -562,13 +576,9 @@ ul.dropdown li a:hover {
 
 /* -----------------------Banner Css------------------- */
 
-
-.image-creative{
-}
-
-
 /* -----------------------Service Css------------------- */
 .service-sec{
+    background-color: #F6F9F8;
     padding-top: 100px;
     padding-bottom: 100px;
 }
@@ -579,6 +589,7 @@ ul.dropdown li a:hover {
 }
 
 .sevice-body{
+    background-color: #fff;
     border: 1px solid #ededed;
     border-radius: 40px;
     box-shadow: 0px 10px 15px -3px rgba(0, 0, 0, 0.1);
@@ -613,7 +624,7 @@ ul.dropdown li a:hover {
 .bg-servicesTabs{
     background-image: url(/assets/images/pricing-back.png);
     padding-top: 150px;
-    padding-bottom: 140px;
+    padding-bottom: 250px;
     background-repeat: no-repeat;
     background-position: top;
 }
@@ -761,10 +772,19 @@ ul.tabs-ul-04 i {
 /* ----------------servicesTabs------------ */
 
 /* ----------------Work section------------ */
-
+.premium-img{
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-start;
+    padding-right: 50px;
+}
+.premium-img img{
+    width: 210px;
+    margin-top: -280px;
+    margin-bottom: -300px;
+}
 .work-backgroud{
     background-image: url(/assets/images/work-background.png);
-    padding-top: 150px;
     padding-bottom: 150px;
     background-position: center center;
     background-size: cover;

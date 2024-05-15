@@ -207,7 +207,9 @@ button {
 
 
 /* Custom Slick Css */
-
+.slick-track{
+    background-color: #fff;
+}
 .slick-list {
     margin: 0 -15px;
 }
@@ -260,6 +262,30 @@ button {
     width: 11px;
     height: 11px;
 }
+
+/* slick slider */
+
+
+/* slider */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 /*header css*/
@@ -807,6 +833,27 @@ ul.tabs-ul-04 i {
     padding: 50px 0px;
 }
 /* ----------------Work section------------ */
+
+.bg-testimonials{
+    background-image: url(/assets/images/testimonial-background.png);
+    padding-top: 150px;
+    padding-bottom: 150px;
+}
+
+
+
+
+.carousel-inner {
+    background-color: #fff;
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 50px;
+    border-radius: 50px;
+}
+
+
+
+
 
 
 

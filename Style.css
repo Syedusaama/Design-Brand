@@ -847,16 +847,23 @@ ul.tabs-ul-04 i {
     padding: 50px;
     border-radius: 50px;
 }
+
+.tesimonial-inner{
+    padding: 70px 0px;
+}
+
 .tesimonial-content h4{
     font-size: 28px;
     font-weight: 500;
     color: #000;
+    margin-bottom: 0px;
 }
 
-.tesimonial-content p{
+.testimonial-content{
     font-size: 20px;
     font-weight: 400;
     color: #000;
+    margin-bottom: 0px;
 }
 
 
@@ -865,8 +872,16 @@ ul.tabs-ul-04 i {
     font-weight: 300;
     color: #000;
 }
-
-
+.quote-img-left{
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+}
+.quote-img-right{
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+}
 
 
 /* -----------------------Call section Css------------------- */

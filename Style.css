@@ -840,9 +840,6 @@ ul.tabs-ul-04 i {
     padding-bottom: 150px;
 }
 
-
-
-
 .carousel-inner {
     background-color: #fff;
     max-width: 1000px;
@@ -850,12 +847,24 @@ ul.tabs-ul-04 i {
     padding: 50px;
     border-radius: 50px;
 }
+.tesimonial-content h4{
+    font-size: 28px;
+    font-weight: 500;
+    color: #000;
+}
+
+.tesimonial-content p{
+    font-size: 20px;
+    font-weight: 400;
+    color: #000;
+}
 
 
-
-
-
-
+.testimonial-designation{
+    font-size: 15px;
+    font-weight: 300;
+    color: #000;
+}
 
 
 

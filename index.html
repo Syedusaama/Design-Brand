@@ -675,9 +675,11 @@
             <li data-targetit="box-port7"><a href="javascript:;">Brand Marketing</a></li>
         </ul>
 
-        <div class=" box-port1 showfirst">
+        <!-- <div class=" box-port1 showfirst">
             <ul class="project-items">
-                <div>
+                <li>
+                    <div class="project-item-body">
+                <div class="project-item-box">
                     <div class="row">
                         <div class="col-md-6">
                             <img src="assets/images/portfolio/p1.png" alt="">
@@ -694,10 +696,76 @@
                         </div>
                     </div>
                 </div>
-                    
-
+                </div>
+            </li>
             </ul>
+    </div> -->
+
+    <div class="box-port1 showfirst">
+        <ul class="portfolio-items">
+            <li>
+                <div class="portfolio-items-box">
+                    <div class="portfolio-items-body">
+                        <div class="col-md-5">
+                            <div id="myModal" class="modal">
+                                <span class="close">&times;</span>
+                                <img class="modal-content" id="img01">
+                                <div id="caption"></div>
+                              </div>
+                            <img id="portfolio-img" src="assets/images/portfolio/p1.png" alt="">
+                        </div>
+                        <div class="col">
+                            <img src="assets/images/portfolio/p2.png" alt="">
+                            <img src="assets/images/portfolio/p3.png" alt="">
+                        </div>
+                        <div class="col">
+                            <img src="assets/images/portfolio/p4.png" alt="">
+                            <img src="assets/images/portfolio/p5.png" alt="">
+                        </div>
+                        <div class="col">
+                            <img src="assets/images/portfolio/p6.png" alt="">
+                            <img src="assets/images/portfolio/p7.png" alt="">
+                        </div>
+                    </div>
+                    <div class="portfolio-items-body">
+                        <div class="col">
+                            <img src="assets/images/portfolio/p8.png" alt="">
+                        </div>
+                        <div class="col">
+                            <img src="assets/images/portfolio/p9.png" alt="">
+                        </div>
+                        <div class="col">
+                            <img src="assets/images/portfolio/p10.png" alt="">
+                        </div>
+                        <div class="col">
+                            <img src="assets/images/portfolio/p11.png" alt="">
+                        </div>
+                        <div class="col">
+                            <img src="assets/images/portfolio/p12.png" alt="">
+                        </div>
+                        <!-- <div class="col">
+                            <img src="assets/images/portfolio/p13.png" alt="">
+                        </div> -->
+                    </div>
+                    <div class="portfolio-items-body">
+                        <div class="col">
+                            <img src="assets/images/portfolio/p2.png" alt="">
+                        </div>
+                        <div class="col">
+                            <img src="assets/images/portfolio/p4.png" alt="">
+                        </div>
+                        <div class="col">
+                            <img src="assets/images/portfolio/p6.png" alt="">
+                        </div>
+                        <div class="col-md-5">
+                            <img src="assets/images/portfolio/p15.png" alt="">
+                        </div>
+                    </div>
+                </div>
+            </li>
+        </ul>
     </div>
+
 
     <div class="box-port2">
         <ul class="project-items">
@@ -1288,6 +1356,31 @@
     new WOW().init();
 </script>
 <script src="https://cdn.lordicon.com/lordicon.js"></script>
+
+
+<script>
+    // Get the modal
+    var modal = document.getElementById("myModal");
+    
+    // Get the image and insert it inside the modal - use its "alt" text as a caption
+    var img = document.getElementById("portfolio-img");
+    var modalImg = document.getElementById("img01");
+    var captionText = document.getElementById("caption");
+    img.onclick = function(){
+      modal.style.display = "block";
+      modalImg.src = this.src;
+      captionText.innerHTML = this.alt;
+    }
+    
+    // Get the <span> element that closes the modal
+    var span = document.getElementsByClassName("close")[0];
+    
+    // When the user clicks on <span> (x), close the modal
+    span.onclick = function() { 
+      modal.style.display = "none";
+    }
+    </script>
+
 
 </body>
 

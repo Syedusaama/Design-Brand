@@ -834,6 +834,146 @@ ul.tabs-ul-04 i {
 }
 /* ----------------Work section------------ */
 
+/* ----------------Portfolio section------------ */
+
+.box-port1{
+    padding: 0px !important;
+}
+
+
+.portfolio-item-body{
+    z-index: 2;
+    min-height: 100px;
+    /* padding: 30px 20px; */
+    background-color: #D4D4D4;
+    text-align: center;
+    border-radius: 40px;
+    transition: 0.8s ease;
+    display: flex;
+}
+.portfolio-items-body{
+    display: flex;
+}
+
+.portfolio-items>li{
+
+    display: inline-block;
+    vertical-align: top;
+    width: 100%;
+    /* padding: 0 15px;
+    margin-bottom: 30px; */
+}
+
+.portfolio-items{
+    font-size: 0;
+    margin: 0px 0px;
+    /* display: flex; */
+    padding: 0px !important;
+}
+
+
+#portfolio-img{
+    cursor: pointer;
+    transition: 0.3s;
+}
+#portfolio-img:hover {opacity: 0.7;}
+
+.modal {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 1; /* Sit on top */
+    padding-top: 100px; /* Location of the box */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0,0.9); /* Black w/ opacity */
+}
+
+.modal-content {
+    margin: auto;
+    display: block;
+    width: 80%;
+    max-width: 700px;
+  }
+
+  #caption {
+    margin: auto;
+    display: block;
+    width: 80%;
+    max-width: 700px;
+    text-align: center;
+    color: #ccc;
+    padding: 10px 0;
+    height: 150px;
+  }
+
+
+
+
+/* Add Animation */
+.modal-content, #caption {  
+    -webkit-animation-name: zoom;
+    -webkit-animation-duration: 0.6s;
+    animation-name: zoom;
+    animation-duration: 0.6s;
+  }
+  
+  @-webkit-keyframes zoom {
+    from {-webkit-transform:scale(0)} 
+    to {-webkit-transform:scale(1)}
+  }
+  
+  @keyframes zoom {
+    from {transform:scale(0)} 
+    to {transform:scale(1)}
+  }
+  
+  /* The Close Button */
+  .close {
+    position: absolute;
+    top: 15px;
+    right: 35px;
+    color: #f1f1f1;
+    font-size: 40px;
+    font-weight: bold;
+    transition: 0.3s;
+  }
+  
+  .close:hover,
+  .close:focus {
+    color: #bbb;
+    text-decoration: none;
+    cursor: pointer;
+  }
+
+
+
+
+
+
+/* ----------------Portfolio section------------ */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* ----------------Testimonial section------------ */
+
 .bg-testimonials{
     background-image: url(/assets/images/testimonial-background.png);
     padding-top: 150px;
@@ -882,6 +1022,11 @@ ul.tabs-ul-04 i {
     align-items: flex-end;
     justify-content: center;
 }
+
+/* ----------------Testimonial section------------ */
+
+
+
 
 
 /* -----------------------Call section Css------------------- */

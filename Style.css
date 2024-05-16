@@ -835,7 +835,9 @@ ul.tabs-ul-04 i {
 /* ----------------Work section------------ */
 
 /* ----------------Portfolio section------------ */
-
+.portfolio-tabs{
+    padding-top: 100px;
+}
 .box-port1{
     padding: 0px !important;
 }
@@ -872,44 +874,14 @@ ul.tabs-ul-04 i {
 }
 
 
-#portfolio-img{
-    cursor: pointer;
-    transition: 0.3s;
+.portfolio-img{
+    width: 665px;
+    height: 581px;
 }
-#portfolio-img:hover {opacity: 0.7;}
-
-.modal {
-    display: none; /* Hidden by default */
-    position: fixed; /* Stay in place */
-    z-index: 1; /* Sit on top */
-    padding-top: 100px; /* Location of the box */
-    left: 0;
-    top: 0;
-    width: 100%; /* Full width */
-    height: 100%; /* Full height */
-    overflow: auto; /* Enable scroll if needed */
-    background-color: rgb(0,0,0); /* Fallback color */
-    background-color: rgba(0,0,0,0.9); /* Black w/ opacity */
+.portfolio-img15{
+    width: 665px;
+    height: 291px;
 }
-
-.modal-content {
-    margin: auto;
-    display: block;
-    width: 80%;
-    max-width: 700px;
-  }
-
-  #caption {
-    margin: auto;
-    display: block;
-    width: 80%;
-    max-width: 700px;
-    text-align: center;
-    color: #ccc;
-    padding: 10px 0;
-    height: 150px;
-  }
-
 
 
 

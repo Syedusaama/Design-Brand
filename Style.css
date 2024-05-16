@@ -310,6 +310,7 @@ header {
 
 .logo img {
     display: block;
+    width: 220px;
 }
 
 
@@ -1147,6 +1148,9 @@ ul.tabs-ul-04 i {
     padding-top: 50px;
     max-width: 1110px;
     margin: 0 auto;
+}
+.footer-body img{
+    padding-bottom: 20px;
 }
 .footer-body p{
     color: #fff;

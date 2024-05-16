@@ -877,6 +877,12 @@ ul.tabs-ul-04 i {
 .portfolio-img{
     width: 665px;
     height: 581px;
+    transition: 0.6s;
+}
+.portfolio-img:hover{
+    background-size: cover;
+    box-shadow: 0px 10px 15px -3px #000;
+    background: linear-gradient(#F26101, #08AEEA), rgba(0,0,0,0.2);
 }
 .portfolio-img15{
     width: 665px;

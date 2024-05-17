@@ -1106,6 +1106,80 @@ ul.tabs-ul-04 i {
 
 
 /* -----------------------About us section Css------------------- */
+
+.inner-banner1{
+    background-image: url(/assets/images/services/branding.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 300px;
+    padding-bottom: 300px;
+    margin-top: -111px;
+}
+.inner-banner2{
+    background-image: url(/assets/images/services/logo-design.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 300px;
+    padding-bottom: 300px;
+    margin-top: -111px;
+}
+.inner-banner3{
+    background-image: url(/assets/images/services/social-media.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 300px;
+    padding-bottom: 300px;
+    margin-top: -111px;
+}
+.inner-banner4{
+    background-image: url(/assets/images/services/web-development.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 300px;
+    padding-bottom: 300px;
+    margin-top: -111px;
+}
+.inner-banner5{
+    background-image: url(/assets/images/services/animated-video.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 300px;
+    padding-bottom: 300px;
+    margin-top: -111px;
+}
+.inner-banner6{
+    background-image: url(/assets/images/services/animated-video.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 300px;
+    padding-bottom: 300px;
+    margin-top: -111px;
+}
+.inner-banner7{
+    background-image: url(/assets/images/services/marketing.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 300px;
+    padding-bottom: 300px;
+    margin-top: -111px;
+}
+.inner-banner8{
+    background-image: url(/assets/images/services/animated-video.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 300px;
+    padding-bottom: 300px;
+    margin-top: -111px;
+}
+
 .inner-first-secbanner{
     background-color: #F6F9F8;
 }
@@ -1147,15 +1221,7 @@ ul.tabs-ul-04 i {
     padding: 0px !important;
     margin: 0px;
 }
-.inner-banner{
-    background-image: url(/assets/images/services/animated-video.png);
-    background-position: center center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    padding-top: 300px;
-    padding-bottom: 300px;
-    margin-top: -111px;
-}
+
 .inner-bann-heading{
     width: 1110px;
     margin: 0 auto;

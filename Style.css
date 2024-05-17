@@ -2,7 +2,7 @@
 
 /* Main Banner CSS */
 ::selection {
-    background: #f22f3b;
+    background: #FD5605;
     color: #fff;
     text-shadow: none;
 }
@@ -24,7 +24,7 @@
 
 ::-webkit-scrollbar-thumb:vertical {
     border-radius: 10px;
-    background-color: #f22f3b;
+    background-color: #FD5605;
 }
 
 
@@ -202,7 +202,7 @@ button {
 .para {}
 
 .highlighted {
-    color: #f22f3b;
+    color: #FD5605;
 }
 
 
@@ -258,7 +258,7 @@ button {
 }
 
 .slick-dots li.slick-active button {
-    background: #f22f3b;
+    background: #FD5605;
     width: 11px;
     height: 11px;
 }
@@ -385,7 +385,7 @@ header {
 
 .menu li {
     display: inline-block;
-    vertical-align: middle;
+    /* vertical-align: middle; */
     padding-left: 35px;
     
 }
@@ -402,7 +402,7 @@ header {
 
 .menu li:hover a,
 .menu li.active a {
-    color: #f22f3b;
+    color: #FD5605;
 }
 
 
@@ -507,8 +507,8 @@ ul.dropdown li a:hover {
 
 .header-color{
     background-color: #fff;
-    border-radius: 6px;
-    padding: 10px;
+    border-radius: 12px;
+    padding: 12px;
     width: 1110px !important;
     text-align: center;
 }
@@ -525,7 +525,7 @@ ul.dropdown li a:hover {
 }
 .header-btn:hover{
     background-color: transparent;
-    color: #f22f3b;
+    color: #FD5605;
 }
 
 
@@ -1096,7 +1096,7 @@ ul.tabs-ul-04 i {
 }
 .call-btn:hover{
     background-color: transparent;
-    color: #f22f3b;
+    color: #FD5605;
 }
 
 

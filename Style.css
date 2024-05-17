@@ -469,6 +469,7 @@ ul.dropdown li a:hover {
     max-width: 1000px;
     margin: 0 auto;
     padding-bottom: 50px;
+    text-align: center;
 }
 .title-heading{
     font-size: 50px;
@@ -638,6 +639,14 @@ ul.dropdown li a:hover {
     background-color: #FC5C06;
     
 }
+.sevice-body:hover h2{
+    color: #fff
+}
+
+.sevice-body:hover p{
+    color: #fff
+}
+
 .sevice-body img{
     width: 110px;
 }
@@ -733,7 +742,7 @@ ul.dropdown li a:hover {
     text-align: center;
     border-radius: 40px;
     transition: 0.8s ease;
-
+    color: #000;
 }
 
 .project-item-body:hover{
@@ -744,20 +753,32 @@ ul.dropdown li a:hover {
 }
 
 .project-item-body h5 {
-    color: #fff;
+    color: #000;
     font-size: 30px;
     font-weight: 600;
     padding-bottom: 0px;
 }
-.project-item-body h4 {
+.project-item-body:hover h5 {
     color: #fff;
+}
+
+.project-item-body h4 {
+    color: #000;
     font-size: 90px;
     font-weight: bold;
     padding-bottom: 0px;
 }
-.project-item-body p {
+.project-item-body:hover h4 {
     color: #fff;
+}
+
+.project-item-body p {
+    color: #000;
     font-size: 30px;
+}
+
+.project-item-body:hover p {
+    color: #fff;
 }
 ul.tabs-ul-01{
     background-color: #fff;
@@ -1018,20 +1039,20 @@ ul.tabs-ul-04 i {
 
 .bg-testimonials{
     background-image: url(/assets/images/testimonial-background.png);
-    padding-top: 150px;
-    padding-bottom: 150px;
+    padding-top: 100px;
+    padding-bottom: 100px;
 }
 
 .carousel-inner {
     background-color: #fff;
     max-width: 1000px;
     margin: 0 auto;
-    padding: 50px;
+    padding: 50px 20px;
     border-radius: 50px;
 }
 
 .tesimonial-inner{
-    padding: 70px 0px;
+    padding: 50px 0px;
 }
 
 .tesimonial-content h4{
@@ -1046,6 +1067,7 @@ ul.tabs-ul-04 i {
     font-weight: 400;
     color: #000;
     margin-bottom: 0px;
+    padding-bottom: 30px;
 }
 
 
@@ -1077,6 +1099,7 @@ ul.tabs-ul-04 i {
     background-position: top left;
     background-repeat: no-repeat;
     background-size: contain;
+    padding: 50px 0px;
 }
 .call-btn-sec {
     display: flex;

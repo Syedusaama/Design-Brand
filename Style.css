@@ -639,10 +639,19 @@ ul.dropdown li a:hover {
     background-color: #FC5C06;
     
 }
+.sevice-body h2{
+    font-size: 25px;
+    font-weight: bold;
+    padding: 10px 0px;
+    margin: 0;
+}
 .sevice-body:hover h2{
     color: #fff
 }
+.sevice-body p{
+    margin: 0;
 
+}
 .sevice-body:hover p{
     color: #fff
 }
@@ -861,7 +870,45 @@ ul.tabs-ul-04 i {
 /* ----------------Work section------------ */
 
 
-
+.gallery {
+    --s: 150px;
+     /* control the size */
+    /* --g: 10px; */
+      /* control the gap */
+    --f: 1.5;   /* control the scale factor */
+    
+    display: grid;
+    gap: var(--g);
+    width: calc(3*var(--s) + 2*var(--g));
+    aspect-ratio: 1;
+    grid-template-columns: repeat(3,auto);
+  }
+  
+  .gallery > img {
+    width: 0;
+    height: 0;
+    min-height: 100%;
+    min-width: 100%;
+    object-fit: cover;
+    cursor: pointer;
+    filter: grayscale(80%);
+    transition: .35s linear;
+  }
+  
+  .gallery img:hover{
+    filter: grayscale(0);
+    width:  calc(var(--s)*var(--f));
+    height: calc(var(--s)*var(--f));
+  }
+  
+  
+  /* body {
+    margin: 0;
+    min-height: 100vh;
+    display: grid;
+    place-content: center;
+    background: #60c4ff;
+  } */
 
 
 /* ----------------Portfolio section------------ */
@@ -919,120 +966,8 @@ ul.tabs-ul-04 i {
     height: 291px;
 }
 
-
-
-
-
-/* *, *:before, *:after{
-    margin: 0;
-    padding: 0;
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing:border-box;
-    box-sizing: border-box;
-  }
-  
-  
-  @media screen and (max-width: 640px){
-    .container{
-      display: block;
-      width: 100%;
-    }
-  }
-  
-  @media screen and (min-width: 900px){
-    .container{
-      width: 33.33333%;
-    }
-  }
-  
-  .content {
-    position: relative;
-    width: 90%;
-    max-width: 400px;
-    margin: auto;
-    overflow: hidden;
-  }
-  
-  .content .content-overlay {
-    background: rgba(0,0,0,0.7);
-    position: absolute;
-    height: 99%;
-    width: 100%;
-    left: 0;
-    top: 0;
-    bottom: 0;
-    right: 0;
-    opacity: 0;
-    -webkit-transition: all 0.4s ease-in-out 0s;
-    -moz-transition: all 0.4s ease-in-out 0s;
-    transition: all 0.4s ease-in-out 0s;
-  }
-  
-  .content:hover .content-overlay{
-    opacity: 1;
-  }
-  
-  .content-image{
-    width: 100%;
-  }
-  
-  .content-details {
-    position: absolute;
-    text-align: center;
-    padding-left: 1em;
-    padding-right: 1em;
-    width: 100%;
-    top: 50%;
-    left: 50%;
-    opacity: 0;
-    -webkit-transform: translate(-50%, -50%);
-    -moz-transform: translate(-50%, -50%);
-    transform: translate(-50%, -50%);
-    -webkit-transition: all 0.3s ease-in-out 0s;
-    -moz-transition: all 0.3s ease-in-out 0s;
-    transition: all 0.3s ease-in-out 0s;
-  }
-  
-  .content:hover .content-details{
-    top: 50%;
-    left: 50%;
-    opacity: 1;
-  }
-  
-  .content-details h3{
-    color: #fff;
-    font-weight: 500;
-    letter-spacing: 0.15em;
-    margin-bottom: 0.5em;
-    text-transform: uppercase;
-  }
-  
-  .content-details p{
-    color: #fff;
-    font-size: 0.8em;
-  }
-  
-  .fadeIn-bottom{
-    top: 80%;
-  } */
-  
   
 /* ----------------Portfolio section------------ */
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 /* ----------------Testimonial section------------ */
@@ -1154,9 +1089,21 @@ ul.tabs-ul-04 i {
 /* -----------------------Call section Css------------------- */
 
 
+/* -----------------------About us section Css------------------- */
+
+.inner-banner{
+    background-image: url(/assets/images/inner-background.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px;
+    display: flex;
+    align-items: center;
+    margin-top: -111px;
+}
 
 
-
+/* -----------------------About us section Css------------------- */
 
 /* -----------------------Footer Css------------------- */
 .main-footer{

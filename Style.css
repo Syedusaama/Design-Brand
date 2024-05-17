@@ -1180,10 +1180,15 @@ ul.tabs-ul-04 i {
     display: flex;
     justify-content: flex-end;
 } 
+.innerpage-leftimg{
+    display: flex;
+    justify-content: start;
+} 
 .innerpage-rightimg img{
-    /* border-radius: 12px; */
     max-width: 500px;
-    /* box-shadow: 0px 10px 15px -3px rgba(0,0,0,0.1); */
+}
+.innerpage-leftimg img{
+    max-width: 500px;
 }
 
 /* -----------------------About us section Css------------------- */

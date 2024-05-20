@@ -410,7 +410,7 @@ header {
     color: #fff;
 }
 .main-banner{
-    background-image: url(/assets/images/Main-banner.png);
+    background-image: url(./assets/images/Main-banner.png);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -545,7 +545,7 @@ header {
 /* ----------------servicesTabs------------ */
 
 .bg-servicesTabs{
-    background-image: url(/assets/images/pricing-back.png);
+    background-image: url(./assets/images/pricing-back.png);
     padding-top: 150px;
     padding-bottom: 250px;
     background-repeat: no-repeat;
@@ -628,7 +628,7 @@ header {
 }
 
 .project-item-body:hover{
-    background-image: url(/assets/images/pricing-background.png);
+    background-image: url(./assets/images/pricing-background.png);
     background-repeat: no-repeat;
     background-size: cover;
     cursor: pointer;
@@ -718,7 +718,7 @@ ul.tabs-ul-04 i {
     margin-bottom: -300px;
 }
 .work-backgroud{
-    background-image: url(/assets/images/work-background.png);
+    background-image: url(./assets/images/work-background.png);
     padding-bottom: 150px;
     background-position: center center;
     background-size: cover;
@@ -835,7 +835,7 @@ ul.tabs-ul-04 i {
 /* ----------------Testimonial section------------ */
 
 .bg-testimonials{
-    background-image: url(/assets/images/testimonial-background.png);
+    background-image: url(./assets/images/testimonial-background.png);
     padding-top: 100px;
     padding-bottom: 100px;
 }
@@ -887,7 +887,7 @@ ul.tabs-ul-04 i {
 
 /* -----------------------Call section Css------------------- */
 .call-banner{
-    background-image: url(/assets/images/call-background.png);
+    background-image: url(./assets/images/call-background.png);
     background-position: top left;
     background-repeat: no-repeat;
     background-size: contain;
@@ -951,7 +951,7 @@ ul.tabs-ul-04 i {
 /* -----------------------About us section Css------------------- */
 
 .inner-banner1{
-    background-image: url(/assets/images/services/branding.png);
+    background-image: url(./assets/images/services/branding.png);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -960,7 +960,7 @@ ul.tabs-ul-04 i {
     margin-top: -120px;
 }
 .inner-banner2{
-    background-image: url(/assets/images/services/logo-design.png);
+    background-image: url(./assets/images/services/logo-design.png);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -969,7 +969,7 @@ ul.tabs-ul-04 i {
     margin-top: -120px;
 }
 .inner-banner3{
-    background-image: url(/assets/images/services/social-media.png);
+    background-image: url(./assets/images/services/social-media.png);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -978,7 +978,7 @@ ul.tabs-ul-04 i {
     margin-top: -120px;
 }
 .inner-banner4{
-    background-image: url(/assets/images/services/web-development.png);
+    background-image: url(./assets/images/services/web-development.png);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -987,7 +987,7 @@ ul.tabs-ul-04 i {
     margin-top: -120px;
 }
 .inner-banner5{
-    background-image: url(/assets/images/services/animated-video.png);
+    background-image: url(./assets/images/services/animated-video.png);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -996,7 +996,7 @@ ul.tabs-ul-04 i {
     margin-top: -120px;
 }
 .inner-banner6{
-    background-image: url(/assets/images/services/animated-video.png);
+    background-image: url(./assets/images/services/animated-video.png);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -1005,7 +1005,7 @@ ul.tabs-ul-04 i {
     margin-top: -120px;
 }
 .inner-banner7{
-    background-image: url(/assets/images/services/marketing.png);
+    background-image: url(./assets/images/services/marketing.png);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -1014,7 +1014,7 @@ ul.tabs-ul-04 i {
     margin-top: -120px;
 }
 .inner-banner8{
-    background-image: url(/assets/images/services/animated-video.png);
+    background-image: url(./assets/images/services/animated-video.png);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -1032,14 +1032,14 @@ ul.tabs-ul-04 i {
     margin: 0;
 }
 .inner-third-secbanner{
-    background-image: url(/assets/images/pricing-back.png);
+    background-image: url(./assets/images/pricing-back.png);
     padding-top: 100px;
     padding-bottom: 100px;
     background-repeat: no-repeat;
     background-position: top;
 }
 .inner-fourth-secbanner {
-    background-image: url(/assets/images/work-background.png);
+    background-image: url(./assets/images/work-background.png);
     padding-top: 100px;
     padding-bottom: 100px;
     background-position: center center;
@@ -1048,7 +1048,7 @@ ul.tabs-ul-04 i {
 }
 
 .inner-fifth-secbanner {
-    background-image: url(/assets/images/call-background.png);
+    background-image: url(./assets/images/call-background.png);
     background-position: top left;
     background-repeat: no-repeat;
     background-size: contain;
@@ -1206,7 +1206,7 @@ ul.tabs-ul-04 i {
 
 /* -----------------------Footer Css------------------- */
 .main-footer{
-    background-image: url(/assets/images/footer-background.png);
+    background-image: url(./assets/images/footer-background.png);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;

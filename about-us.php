@@ -37,7 +37,7 @@
                 </div>
             </div>
             <div class="col-md-6 innerpage-rightimg">
-                <img src="/assets/images/services/right-sec.png" alt="">
+            <img src="./assets/images/services/first-section/animated.png" alt="">
             </div>
         </div>
     </div>
@@ -49,7 +49,7 @@
     <div class="container py-5">
         <div class="row align-items-center">
             <div class="col-md-6 innerpage-leftimg">
-                <img src="/assets/images/services/right-sec.png" alt="">
+            <img src="./assets/images/services/first-section/animated.png" alt="">
             </div>
             <div class="col-md-6 innerban-content">
                 <h2>Web Design & Development</h2>
@@ -87,7 +87,7 @@
                 </div>
             </div>
             <div class="col-md-6 innerpage-rightimg">
-                <img src="/assets/images/services/right-sec.png" alt="">
+            <img src="./assets/images/services/first-section/animated.png" alt="">
             </div>
         </div>
     </div>

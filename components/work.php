@@ -1,9 +1,4 @@
-<section class="work-backgroud">
-    <div>
-        <div class="premium-img">
-            <img src="./assets/images/Premium.png" alt="">
-        </div>
-    </div>
+<section class="inner-work-backgroud">
     <div class="container">
         <div class="row text-center">
         <h2 class="title-heading-white">Our Work Process</h2>

@@ -74,10 +74,7 @@
     </div>
     </div>
 </section>
-
-
- <!-- Second Section -->
-
+<!-- Second Section -->
 
 <!-- Third section-->
 <section class="inner-third-secbanner">
@@ -160,55 +157,9 @@
 </section>
 <!-- Third section-->
 
-
-<!-- Fourth section-->
-<section class="inner-fourth-secbanner">
-    <!-- <div>
-        <div class="premium-img">
-            <img src="/assets/images/Premium.png" alt="">
-        </div>
-    </div> -->
-    <div class="container">
-        <div class="row text-center">
-        <h2 class="title-heading-white">Our Work Process</h2>
-        <p class="title-p-white">We are well aware of the competition. That is the reason why we have a fair pricing<br> model. We ensure quality over quantity on each order.</p>
-    </div>
-    </div>
-    <div class="col text-center">
-        <img class="line-css" src="/assets/images/line.png" alt="">
-    </div>
-    <div class="container">
-        <div class="row">
-            <div class="col-md-3 work-content">
-                <lord-icon src="https://cdn.lordicon.com/wzwygmng.json" trigger="hover" colors="primary:#fd5605,secondary:#fd5605" style="width:150px;height:150px">
-                </lord-icon>
-                <h4 class="">Design Brief</h4>
-                <p class="">Lorem Ipsum is simply dummy text of the printing and typesetting industry. </p>
-            </div>
-            <div class="col-md-3 work-content">
-                <lord-icon src="https://cdn.lordicon.com/rehjpyyh.json" trigger="hover" colors="primary:#fd5605,secondary:#fd5605" style="width:150px;height:150px">
-                </lord-icon>
-                <h4 class="">Sketch</h4>
-                <p class="">Lorem Ipsum is simply dummy text of the printing and typesetting industry. </p>
-            </div>
-            <div class="col-md-3 work-content">
-                <lord-icon src="https://cdn.lordicon.com/uecgmesg.json" trigger="hover" colors="primary:#fd5605,secondary:#fd5605" style="width:150px;height:150px">
-                </lord-icon>
-                <h4 class="">Revision</h4>
-                <p class="">Lorem Ipsum is simply dummy text of the printing and typesetting industry. </p>
-            </div>
-            <div class="col-md-3 work-content">
-                <lord-icon src="https://cdn.lordicon.com/ofwxettw.json" trigger="hover" colors="primary:#fd5605,secondary:#fd5605" style="width:150px;height:150px">
-                </lord-icon>
-                <h4 class="">Final Delivery</h4>
-                <p class="">Lorem Ipsum is simply dummy text of the printing and typesetting industry. </p>
-            </div>
-        </div>
-    </div>
-</section>
-<!-- Fourth section-->
-
-
+<!-- Work section-->
+<?php include "./components/work.php"?>
+<!-- Work section-->
 
 <!-- Contact Section -->
 <section class="inner-fifth-secbanner">
@@ -233,62 +184,7 @@
 <!-- Contact Section -->
 
 <!-- Footer Section -->
-<section class="main-footer">
-    <div class="footer-body">
-        <div class="row">
-            <div class="col">
-                <img src="/assets/images/footer-logo.png" alt="">
-                <p>We are a fully in-house digital agency focusing on branding, marketing, web design and development with clients ranging from start-ups.</p>
-            </p>
-        </div>
-            <div class="col">
-                <div class="footer-inner-box">
-                    <h3 class="">Menu</h3>
-                    <ul class="list-style">
-                    <li><a href="#">About Us</a></li>
-                    <li><a href="#">Portfolio</a></li>
-                    <li><a href="#">Pricing</a></li>
-                    <li><a href="#">Combo Packages</a></li>
-                    <li><a href="#">Contact us</a></li>
-                    <li><a href="#">Terms & Condition</a></li>
-                    <li><a href="#">Privacy Policy</a></li>
-                    </ul>
-                </div>
-            </div>
-            <div class="col">
-                <div class="footer-inner-box">
-                    <h3 class="">Services</h3>
-                    <ul class="list-style">
-                    <li><a href="#">Logo design</a></li>
-                    <li><a href="#">Branding</a></li>
-                    <li><a href="#">Web design & development</a></li>
-                    <li><a href="#">Video animation</a></li>
-                    <li><a href="#">Brand marketing</a></li>
-                    <li><a href="#">Content writing</a></li>
-                    </ul>
-                </div>
-            </div>
-            <div class="col">
-                <div class="footer-inner-box">
-                    <h3 class="">Quick Links</h3>
-                    <ul class="list-style">
-                    <li><a href="#">1999 Broadway, Denver, CO 80202, USA</a></li>
-                    <li><a href="#">info@globalpublishingagency.com</a></li>
-                    <li><a href="#">562-614-1989</a></li>
-                    <img src="/assets/images/US-Payments-2.png" alt="">
-                    </ul>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-<section>
-    <div class="footer-end">
-        <p>© Copyright 2024 by Global <span style="color:#FF7400">Design</span> Agency</p>
-    </div>
-
-</section>
-
+<?php include "./components/footer.php"?>
 <!-- Footer Section -->
 
 <script src="/assets/js/jquery.js"></script>

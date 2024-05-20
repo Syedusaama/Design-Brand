@@ -271,28 +271,6 @@ button {
 /* slick slider */
 
 
-/* slider */
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 /*header css*/
 
 header {
@@ -320,66 +298,7 @@ header {
     width: 220px;
 }
 
-
-/* Hamburger Menu */
-
-.menu-Bar {
-    width: 30px;
-    height: 20px;
-    cursor: pointer;
-    position: absolute;
-    right: 15px;
-    top: 0;
-    bottom: 0px;
-    margin: auto;
-    z-index: 22;
-    display: none;
-}
-
-.menu-Bar span {
-    display: block;
-    height: 4px;
-    width: 100%;
-    background: #0f4c97;
-    position: absolute;
-    transition: 0.6s all;
-    border-radius: 100px;
-}
-
-.menu-Bar span:nth-child(1) {
-    top: 0;
-}
-
-.menu-Bar span:nth-child(2) {
-    top: 8px;
-    transform-origin: left;
-}
-
-.menu-Bar span:nth-child(3) {
-    top: 16px;
-}
-
-.menu-Bar.open span {
-    background: #b70404;
-}
-
-.menu-Bar.open span:nth-child(1) {
-    transform: rotate(45deg);
-    top: 12px;
-    transform-origin: right-center;
-}
-
-.menu-Bar.open span:nth-child(2) {
-    width: 0;
-    opacity: 0;
-}
-
-.menu-Bar.open span:nth-child(3) {
-    transform: rotate(-45deg);
-    top: 12px;
-    transform-origin: right-center;
-}
-
+/*header css*/
 
 /* Menu Css */
 
@@ -411,92 +330,7 @@ header {
     margin-bottom: 5px !important;
     padding: 8px 10px !important;
 }
-.menu {
-    font-family: "Poppins", sans-serif;
-    font-size: 0px;
-    display: inline-block;
-    padding-right: 40px;
-}
-
-.menu li {
-    display: inline-block;
-    /* vertical-align: middle; */
-    padding-left: 35px;
-    
-}
-
-.menu li a {
-    display: block;
-    /* font-family: 'jost'; */
-    font-size: 16px;
-    color: #363636;
-    text-transform: uppercase;
-    font-weight: 600;
-    text-decoration: none;
-}
-
-.menu li:hover a,
-.menu li.active a {
-    color: #FD5605;
-}
-
-
-/* Menu Dropdown CSS */
-
-.dropdown-nav {
-    position: relative;
-    overflow: hidden;
-    vertical-align: middle;
-}
-
-.dropdown-nav:hover {
-    overflow: visible;
-}
-
-ul.dropdown {
-    position: absolute;
-    width: 100%;
-    left: -0px;
-    margin: auto;
-    background: #fff;
-    padding: 20px;
-    text-align: left;
-    border-radius: 2px;
-    box-shadow: 0 0 10px 3px #00000014;
-    opacity: 0;
-    animation: btotreverse 0.5s forwards;
-}
-
-ul.dropdown li {
-    width: 100%;
-    display: inline-block;
-    vertical-align: middle;
-}
-
-ul.dropdown li a {
-    padding: 0;
-    font-size: 14px;
-    color: #000 !important;
-    display: block;
-    width: 100%;
-    margin: 0px 0 15px;
-    text-align: center;
-    font-weight: 600;
-    background: transparent !important;
-}
-
-ul.dropdown li.last a {
-    margin-bottom: 0px;
-}
-
-ul.dropdown li a:hover {
-    color: #000 !important;
-}
-
-.dropdown-nav:hover ul.dropdown {
-    animation: btot 0.5s forwards;
-    z-index: 9;
-}
+/* Menu Css */
 
 /* -----------------------Page Headings Css------------------- */
 
@@ -530,12 +364,6 @@ ul.dropdown li a:hover {
     color: #fff;
 }
 
-
-
-
-
-
-
 /* -----------------------Page Headings Css------------------- */
 
 /* -----------------------Header Css------------------- */
@@ -563,8 +391,6 @@ ul.dropdown li a:hover {
     background-color: transparent;
     color: #FD5605;
 }
-
-
 
 /* -----------------------Header Css------------------- */
 
@@ -718,9 +544,6 @@ ul.dropdown li a:hover {
 
 /* ----------------servicesTabs------------ */
 
-
-
-
 .bg-servicesTabs{
     background-image: url(/assets/images/pricing-back.png);
     padding-top: 150px;
@@ -767,7 +590,6 @@ ul.dropdown li a:hover {
     background: #FD5605;
     text-decoration: none;
 }
-
 
 .project-items {
     font-size: 0;
@@ -960,7 +782,6 @@ ul.tabs-ul-04 i {
     padding: 0px !important;
 }
 
-
 .portfolio-item-body{
     z-index: 2;
     min-height: 100px;
@@ -1046,7 +867,6 @@ ul.tabs-ul-04 i {
     padding-bottom: 30px;
 }
 
-
 .testimonial-designation{
     font-size: 15px;
     font-weight: 300;
@@ -1064,10 +884,6 @@ ul.tabs-ul-04 i {
 }
 
 /* ----------------Testimonial section------------ */
-
-
-
-
 
 /* -----------------------Call section Css------------------- */
 .call-banner{
@@ -1130,10 +946,7 @@ ul.tabs-ul-04 i {
     color: #FD5605;
 }
 
-
-
 /* -----------------------Call section Css------------------- */
-
 
 /* -----------------------About us section Css------------------- */
 
@@ -1144,7 +957,7 @@ ul.tabs-ul-04 i {
     background-size: cover;
     padding-top: 300px;
     padding-bottom: 300px;
-    margin-top: -111px;
+    margin-top: -120px;
 }
 .inner-banner2{
     background-image: url(/assets/images/services/logo-design.png);
@@ -1153,7 +966,7 @@ ul.tabs-ul-04 i {
     background-size: cover;
     padding-top: 300px;
     padding-bottom: 300px;
-    margin-top: -111px;
+    margin-top: -120px;
 }
 .inner-banner3{
     background-image: url(/assets/images/services/social-media.png);
@@ -1162,7 +975,7 @@ ul.tabs-ul-04 i {
     background-size: cover;
     padding-top: 300px;
     padding-bottom: 300px;
-    margin-top: -111px;
+    margin-top: -120px;
 }
 .inner-banner4{
     background-image: url(/assets/images/services/web-development.png);
@@ -1171,7 +984,7 @@ ul.tabs-ul-04 i {
     background-size: cover;
     padding-top: 300px;
     padding-bottom: 300px;
-    margin-top: -111px;
+    margin-top: -120px;
 }
 .inner-banner5{
     background-image: url(/assets/images/services/animated-video.png);
@@ -1180,7 +993,7 @@ ul.tabs-ul-04 i {
     background-size: cover;
     padding-top: 300px;
     padding-bottom: 300px;
-    margin-top: -111px;
+    margin-top: -120px;
 }
 .inner-banner6{
     background-image: url(/assets/images/services/animated-video.png);
@@ -1189,7 +1002,7 @@ ul.tabs-ul-04 i {
     background-size: cover;
     padding-top: 300px;
     padding-bottom: 300px;
-    margin-top: -111px;
+    margin-top: -120px;
 }
 .inner-banner7{
     background-image: url(/assets/images/services/marketing.png);
@@ -1198,7 +1011,7 @@ ul.tabs-ul-04 i {
     background-size: cover;
     padding-top: 300px;
     padding-bottom: 300px;
-    margin-top: -111px;
+    margin-top: -120px;
 }
 .inner-banner8{
     background-image: url(/assets/images/services/animated-video.png);
@@ -1207,7 +1020,7 @@ ul.tabs-ul-04 i {
     background-size: cover;
     padding-top: 300px;
     padding-bottom: 300px;
-    margin-top: -111px;
+    margin-top: -120px;
 }
 
 .inner-first-secbanner{
@@ -1288,7 +1101,6 @@ ul.tabs-ul-04 i {
 }
 
 /* -----------------------About us section Css------------------- */
-
 
 /* -----------------------Contact section Css------------------- */
 .contact-page{
@@ -1398,18 +1210,7 @@ ul.tabs-ul-04 i {
     color: #fff;
 }
 
-
-
 /* -----------------------Footer Css------------------- */
-
-
-
-
-
-/* Dropdown CSS*/
-
-
-
 
 /* Mobile Opitimise */
 
@@ -1429,13 +1230,6 @@ ul.tabs-ul-04 i {
         justify-content: flex-end;
     }
 }
-
-
-
-
-
-
-
 
 @keyframes btotreverse {
     0% {
@@ -1458,3 +1252,5 @@ ul.tabs-ul-04 i {
         opacity: 1;
     }
 }
+
+/* Mobile Opitimise */

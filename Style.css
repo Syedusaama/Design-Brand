@@ -1264,13 +1264,14 @@ ul.tabs-ul-04 i {
 .contact-page{
     padding-top: 100px;
     padding-bottom: 100px;
+    background-color: #f7f5f5;
 }
 
 .comment-form__input-box input[type="text"], .comment-form__input-box input[type="email"] {
     height: 60px;
     width: 100%;
     border: none;
-    background: #f1f2f6;
+    background: #f3f3f3a8;
     padding: 0 30px;
     margin-bottom: 30px;
     border-radius: 8px;
@@ -1285,7 +1286,7 @@ ul.tabs-ul-04 i {
     color: var(--thm-gray);
     height: 200px;
     width: 100%;
-    background: #f1f2f6;
+    background: #f3f3f3a8;
     padding: 22px 30px 30px;
     border: none;
     border-radius: 8px;
@@ -1304,6 +1305,15 @@ ul.tabs-ul-04 i {
     font-weight: 400;
     color: #000;
 }
+
+.color-contact {
+    border: 1px solid #f7f7f7;
+    border-radius: 26px;
+    padding: 40px 30px;
+    background-color: #fff;
+    box-shadow: 0px 0px 15px -3px rgba(0,0,0,0.1);
+}
+
 /* -----------------------Contact section Css------------------- */
 
 /* -----------------------Footer Css------------------- */

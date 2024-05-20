@@ -14,30 +14,30 @@
         <div class="row">
             <div class="col-md-3 img-container">
                 <div class="col logos">
-                    <a href="www.facebook.com"><img src="/assets/images/logos/facebook.png" alt=""></a>
-                    <a href="www.instagram.com"><img src="/assets/images/logos/instagram.png" alt=""></a>
-                    <a href="www.twitter.com"><img src="/assets/images/logos/twitter.png" alt=""></a>
-                    <a href="www.linkinden.com"><img src="/assets/images/logos/linkinden.png" alt=""></a>
+                    <a href="www.facebook.com"><img src="./assets/images/logos/facebook.png" alt=""></a>
+                    <a href="www.instagram.com"><img src="./assets/images/logos/instagram.png" alt=""></a>
+                    <a href="www.twitter.com"><img src="./assets/images/logos/twitter.png" alt=""></a>
+                    <a href="www.linkinden.com"><img src="./assets/images/logos/linkinden.png" alt=""></a>
                 </div>
-                <img class="creative-img" src="/assets/images/Creative.png" alt="">
+                <img class="creative-img" src="./assets/images/Creative.png" alt="">
                 <!-- <div class="col left-shapes">
-                    <img class="shapes1" src="/assets/images/cube_3d_shape.png" alt="">
-                    <img class="shapes2" src="/assets/images/cone_3d_shape.png" alt="">
+                    <img class="shapes1" src="./assets/images/cube_3d_shape.png" alt="">
+                    <img class="shapes2" src="./assets/images/cone_3d_shape.png" alt="">
                 </div> -->
             </div>
             <div class="col-md-6">
                 <h1 class="banner-h1">GROW YOUR BRAND<br> WITH US</h1>
-                <img class="banner-hand" src="/assets/images/hold.png" alt="">
+                <img class="banner-hand" src="./assets/images/hold.png" alt="">
                 <a href="#" class="banner-btn">Explore More</a>    
-                <img class="shapes1" src="/assets/images/cube_3d_shape.png" alt="">
-                <img class="shapes2" src="/assets/images/cone_3d_shape.png" alt=""> -->
-                <img class="shapes3" src="/assets/images/donut_3d_shape.png" alt="">
+                <img class="shapes1" src="./assets/images/cube_3d_shape.png" alt="">
+                <img class="shapes2" src="./assets/images/cone_3d_shape.png" alt=""> -->
+                <img class="shapes3" src="./assets/images/donut_3d_shape.png" alt="">
             </div>
             <div class="col-md-3 right-img-container">
               <!-- <div class="col left-shapes">
-                    <img class="shapes3" src="/assets/images/donut_3d_shape.png" alt="">
+                    <img class="shapes3" src="./assets/images/donut_3d_shape.png" alt="">
                 </div>  -->
-                <img class="design-img" src="/assets/images/Design.png" alt="">
+                <img class="design-img" src="./assets/images/Design.png" alt="">
             </div>
         </div>
     </div>
@@ -55,19 +55,19 @@
             <div class="col-md-12">
                 <div class="row mx-5 pb-3">
                 <div class="col sevice-body">
-                    <img src="/assets/images/branding.png" alt="">
+                    <img src="./assets/images/branding.png" alt="">
                     <h2>Branding</h2>
                     <p>Lorem Ipsum is simply dummy text of
                         the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
                 </div>
                 <div class="col sevice-body">
-                    <img src="/assets/images/logo-design.png" alt="">
+                    <img src="./assets/images/logo-design.png" alt="">
                     <h2>Logo Design</h2>
                     <p>Lorem Ipsum is simply dummy text of
                         the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
                 </div>
                 <div class="col sevice-body">
-                    <img src="/assets/images/social-media.png" alt="">
+                    <img src="./assets/images/social-media.png" alt="">
                     <h2>Social Media</h2>
                     <p>Lorem Ipsum is simply dummy text of
                         the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
@@ -75,19 +75,19 @@
             </div>
             <div class="row mx-5 pb-3">
                 <div class="col sevice-body">
-                    <img src="/assets/images/Web Design-Development.png" alt="">
+                    <img src="./assets/images/Web Design-Development.png" alt="">
                     <h2>Web Design And Development</h2>
                     <p>Lorem Ipsum is simply dummy text of
                         the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
                 </div>
                 <div class="col sevice-body">
-                    <img src="/assets/images/Animated-Video.png" alt="">
+                    <img src="./assets/images/Animated-Video.png" alt="">
                     <h2>Animated Video</h2>
                     <p>Lorem Ipsum is simply dummy text of
                         the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
                 </div>
                 <div class="col sevice-body">
-                    <img src="/assets/images/Brand-Marketing.png" alt="">
+                    <img src="./assets/images/Brand-Marketing.png" alt="">
                     <h2>Brand Marketing</h2>
                     <p>Lorem Ipsum is simply dummy text of
                         the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
@@ -556,7 +556,7 @@
 <section class="work-backgroud">
     <div>
         <div class="premium-img">
-            <img src="/assets/images/Premium.png" alt="">
+            <img src="./assets/images/Premium.png" alt="">
         </div>
     </div>
     <div class="container">
@@ -566,7 +566,7 @@
     </div>
     </div>
     <div class="col text-center">
-        <img class="line-css" src="/assets/images/line.png" alt="">
+        <img class="line-css" src="./assets/images/line.png" alt="">
     </div>
     <div class="container">
         <div class="row">
@@ -820,48 +820,48 @@
           <div class="carousel-item active" alt="First slide">
             <div class="row">
                 <div class="col-md-2 quote-img-left">
-                    <img src="/assets/images/quote-1-1.png" alt="">
+                    <img src="./assets/images/quote-1-1.png" alt="">
                 </div>
                 <div class="col-md-8 tesimonial-inner">
                     <p class="testimonial-content">Penatibus etlectus quis sapien nibh fringilla varius elemenm blandit dui miestulum pretium cursusa augue praesent proin justo netus tar vestibulum taciti fringilla ultrices donec netus luctus mus sapien turpis varius libero lines</p>
-                    <img src="/assets/images/testimonial-line.png" alt="">
+                    <img src="./assets/images/testimonial-line.png" alt="">
                     <h4>Andrew Smith</h4>
                     <p class="testimonial-designation">CEO at Company</p>
                 </div>
                 <div class="col-md-2 quote-img-right">
-                    <img src="/assets/images/quote-1-2.png" alt="">
+                    <img src="./assets/images/quote-1-2.png" alt="">
                 </div>
             </div>        
           </div>
           <div class="carousel-item" alt="second slide">
             <div class="row">
                 <div class="col-md-2 quote-img-left">
-                    <img src="/assets/images/quote-1-1.png" alt="">
+                    <img src="./assets/images/quote-1-1.png" alt="">
                 </div>
                 <div class="col-md-8 tesimonial-inner">
                     <p class="testimonial-content">Penatibus etlectus quis sapien nibh fringilla varius elemenm blandit dui miestulum pretium cursusa augue praesent proin justo netus tar vestibulum taciti fringilla ultrices donec netus luctus mus sapien turpis varius libero lines</p>
-                    <img src="/assets/images/testimonial-line.png" alt="">
+                    <img src="./assets/images/testimonial-line.png" alt="">
                     <h4>Andrew Smith</h4>
                     <p class="testimonial-designation">CEO at Company</p>
                 </div>
                 <div class="col-md-2 quote-img-right">
-                    <img src="/assets/images/quote-1-2.png" alt="">
+                    <img src="./assets/images/quote-1-2.png" alt="">
                 </div>
             </div>        
           </div>
           <div class="carousel-item" alt="third slide">
             <div class="row">
                 <div class="col-md-2 quote-img-left">
-                    <img src="/assets/images/quote-1-1.png" alt="">
+                    <img src="./assets/images/quote-1-1.png" alt="">
                 </div>
                 <div class="col-md-8 tesimonial-inner">
                     <p class="testimonial-content">Penatibus etlectus quis sapien nibh fringilla varius elemenm blandit dui miestulum pretium cursusa augue praesent proin justo netus tar vestibulum taciti fringilla ultrices donec netus luctus mus sapien turpis varius libero lines</p>
-                    <img src="/assets/images/testimonial-line.png" alt="">
+                    <img src="./assets/images/testimonial-line.png" alt="">
                     <h4>Andrew Smith</h4>
                     <p class="testimonial-designation">CEO at Company</p>
                 </div>
                 <div class="col-md-2 quote-img-right">
-                    <img src="/assets/images/quote-1-2.png" alt="">
+                    <img src="./assets/images/quote-1-2.png" alt="">
                 </div>
             </div>        
           </div>
@@ -885,92 +885,15 @@
 
 
 <!-- Contact Section -->
-<section class="call-banner">
-    <div>
-        <div class="row align-items-center">
-            <div class="col-md-2"></div>
-            <div class="col-md-4 call-text-sec">
-                <h3 class="title-heading">Let's write your story, together.</h3>
-                <p class="title-p">We do not tell you our story. We write it together. Partnering with us means a seat at the table where you will be heard.</p>
-                <div>
-                    <div class="row">
-                        <div class="col call-btn-sec">
-                            <a href="#" class="call-btn">Let’s Talk</a>
-                            <img src="/assets/images/call.png" alt=""><a class="call-text-color" href="">Call Us 2 4/7<br><span>562-614-1989</span></a>  
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-6">
-                <img src="/assets/images/girl.png" alt="">
-            </div>
-        </div>
-    </div>
-</section>
-
+<?php include "./components/contact.php"?>
 <!-- Contact Section -->
 
 <!-- Footer Section -->
-<section class="main-footer">
-    <div class="footer-body">
-        <div class="row">
-            <div class="col">
-                <img src="/assets/images/footer-logo.png" alt="">
-                <p>We are a fully in-house digital agency focusing on branding, marketing, web design and development with clients ranging from start-ups.</p>
-            </p>
-        </div>
-            <div class="col">
-                <div class="footer-inner-box">
-                    <h3 class="">Menu</h3>
-                    <ul class="list-style">
-                    <li><a href="#">About Us</a></li>
-                    <li><a href="#">Portfolio</a></li>
-                    <li><a href="#">Pricing</a></li>
-                    <li><a href="#">Combo Packages</a></li>
-                    <li><a href="#">Contact us</a></li>
-                    <li><a href="#">Terms & Condition</a></li>
-                    <li><a href="#">Privacy Policy</a></li>
-                    </ul>
-                </div>
-            </div>
-            <div class="col">
-                <div class="footer-inner-box">
-                    <h3 class="">Services</h3>
-                    <ul class="list-style">
-                    <li><a href="/logo-design.html">Logo design</a></li>
-                    <li><a href="/branding.html">Branding</a></li>
-                    <li><a href="/web-design-development.html">Web design & development</a></li>
-                    <li><a href="/animated-video.html">Video animation</a></li>
-                    <li><a href="/brand-marketing.html">Brand marketing</a></li>
-                    <li><a href="/social-media.html">Social Media</a></li>
-                    </ul>
-                </div>
-            </div>
-            <div class="col">
-                <div class="footer-inner-box">
-                    <h3 class="">Quick Links</h3>
-                    <ul class="list-style">
-                    <li><a href="#">1999 Broadway, Denver, CO 80202, USA</a></li>
-                    <li><a href="#">info@globalpublishingagency.com</a></li>
-                    <li><a href="#">562-614-1989</a></li>
-                    <img src="/assets/images/US-Payments-2.png" alt="">
-                    </ul>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-<section>
-    <div class="footer-end">
-        <p>© Copyright 2024 by Global <span style="color:#FF7400">Design</span> Agency</p>
-    </div>
-
-</section>
-
+<?php include "./components/footer.php"?>
 <!-- Footer Section -->
 
-<script src="/assets/js/jquery.js"></script>
-<script src="/assets/js/custom.js"></script>
+<script src="./assets/js/jquery.js"></script>
+<script src="./assets/js/custom.js"></script>
 <script>
     new WOW().init();
 </script>

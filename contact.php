@@ -81,7 +81,7 @@
     </header>
 </section>
 <!-- Banner -->
-<section class="inner-banner1">
+<section class="contact-banner">
     <div>
     <div class="inner-bann-heading">
         <div class="row">
@@ -144,7 +144,7 @@
 					</div>
 					<div class="col-xl-6 col-lg-4">
 						<div class="contact-page__left">
-                            <img src="/assets/images/girl.png" alt="">
+                            <img src="./assets/images/contact-girl.png" alt="">
 						</div>
 					</div>
 				</div>

@@ -10,11 +10,11 @@
                 <div class="footer-inner-box">
                     <h3 class="">Menu</h3>
                     <ul class="list-style">
-                    <li><a href="#">About Us</a></li>
+                    <li><a href="./about-us.php">About Us</a></li>
                     <li><a href="#">Portfolio</a></li>
                     <li><a href="#">Pricing</a></li>
                     <li><a href="#">Combo Packages</a></li>
-                    <li><a href="#">Contact us</a></li>
+                    <li><a href="./contact.php">Contact us</a></li>
                     <li><a href="#">Terms & Condition</a></li>
                     <li><a href="#">Privacy Policy</a></li>
                     </ul>
@@ -24,12 +24,12 @@
                 <div class="footer-inner-box">
                     <h3 class="">Services</h3>
                     <ul class="list-style">
-                    <li><a href="/logo-design.html">Logo design</a></li>
-                    <li><a href="/branding.html">Branding</a></li>
-                    <li><a href="/web-design-development.html">Web design & development</a></li>
-                    <li><a href="/animated-video.html">Video animation</a></li>
-                    <li><a href="/brand-marketing.html">Brand marketing</a></li>
-                    <li><a href="/social-media.html">Social Media</a></li>
+                    <li><a href="./logo-design.php">Logo design</a></li>
+                    <li><a href="./branding.php">Branding</a></li>
+                    <li><a href="./web-design-development.php">Web design & development</a></li>
+                    <li><a href="./animated-video.php">Video animation</a></li>
+                    <li><a href="./brand-marketing.php">Brand marketing</a></li>
+                    <li><a href="./social-media.php">Social Media</a></li>
                     </ul>
                 </div>
             </div>
@@ -51,5 +51,4 @@
     <div class="footer-end">
         <p>© Copyright 2024 by Global <span style="color:#FF7400">Design</span> Agency</p>
     </div>
-
 </section>

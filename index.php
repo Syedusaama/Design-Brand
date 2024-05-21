@@ -28,7 +28,7 @@
             <div class="col-md-6">
                 <h1 class="banner-h1">GROW YOUR BRAND<br> WITH US</h1>
                 <img class="banner-hand" src="./assets/images/hold.png" alt="">
-                <a href="#" class="banner-btn">Explore More</a>    
+                <a href="./about-us.php" class="banner-btn">Discover More</a>    
                 <img class="shapes1" src="./assets/images/cube_3d_shape.png" alt="">
                 <img class="shapes2" src="./assets/images/cone_3d_shape.png" alt=""> -->
                 <img class="shapes3" src="./assets/images/donut_3d_shape.png" alt="">

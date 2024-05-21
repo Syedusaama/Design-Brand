@@ -8,12 +8,14 @@
 <?php include "./components/header.php"?>
 <!-- Main Header -->
 
-<section class="inner-banner3">
+<section class="reviews-banner">
     <div>
     <div class="inner-bann-heading">
         <div class="row">
-            <div class="col-md-12 inner-bann-heading">
-                <h1>Reviews</h1>
+        <div class="col-md-8 inner-bann-heading">
+                <h1>Lorem ipsum dolor sit amet, consectetur <span class="subheading-clr">Lorem ipsum,</span></h1>
+            </div>
+            <div class="col-md-4">
             </div>
         </div>
     </div>
@@ -71,6 +73,24 @@
 </div>
 </section>
 <!-- First Section -->
+
+
+<div class="wrapper">
+        <div class="container py-5">
+            <div class="row py-5">
+                <div class="col-md-6 d-flex align-items-center justify-content-center">
+                    <div class="youtube-back">
+                        <video autoplay="" muted="" controls="" poster="" class="youtube">
+                            <source src="./assets/images/Jeff_Atwood_-_video_trailer.mp4" type="video/mp4">
+                            Your browser does not support the video tag.
+                        </video>
+                    </div>
+                </div>
+            </div>
+        </div>
+</div>
+
+
 
 <!-- Footer Section -->
 <?php include "./components/footer.php"?>

@@ -12,8 +12,10 @@
     <div>
     <div class="inner-bann-heading">
         <div class="row">
-            <div class="col-md-12 inner-bann-heading">
-                <h1>Logo Design</h1>
+            <div class="col-md-8 inner-bann-heading">
+                <h1>Lorem ipsum dolor sit amet, consectetur <span class="subheading-clr">Lorem ipsum,</span></h1>
+            </div>
+            <div class="col-md-4">
             </div>
         </div>
     </div>
@@ -38,7 +40,7 @@
                 </div>
             </div>
             <div class="col-md-6 innerpage-rightimg">
-            <img src="./assets/images/services/first-section/animated.png" alt="">
+            <img src="./assets/images/services/first-section/logo.png" alt="">
             </div>
         </div>
     </div>

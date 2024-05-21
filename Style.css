@@ -409,6 +409,10 @@ header {
     font-weight: bold;
     color: #fff;
 }
+.focus-in-contract-bck, h1{animation:focus-in-contract-bck 1s cubic-bezier(.25,.46,.45,.94) both}
+
+@keyframes focus-in-contract-bck{0%{letter-spacing:1em;transform:translateZ(300px);filter:blur(12px);opacity:0}100%{transform:translateZ(12px);filter:blur(0);opacity:1}}
+  
 .main-banner{
     background-image: url(./assets/images/Main-banner.png);
     background-position: center center;
@@ -962,8 +966,8 @@ ul.tabs-ul-04 i {
 /* -----------------------Call section Css------------------- */
 
 /* -----------------------About section Css------------------- */
-.inner-banner1{
-    background-image: url(./assets/images/services/branding.png);
+.about-banner{
+    background-image: url(./assets/images/services/About.png);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -1135,6 +1139,13 @@ ul.tabs-ul-04 i {
 .inner-bann-heading h1{
     color: #fff;
 }
+.subheading-clr {
+    display: inline-block;
+    color: #fff;
+    background-color: #fd5805b0;
+    padding: 6px 12px;
+    border-radius: 4px;
+}
 
 .innerban-content h2{
     font-size: 44px;
@@ -1167,6 +1178,15 @@ ul.tabs-ul-04 i {
 
 
 /* -----------------------Reviews section Css------------------- */
+.reviews-banner{
+    background-image: url(./assets/images/services/Reviews.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 300px;
+    padding-bottom: 300px;
+    margin-top: -120px;
+}
 .reviews-section{
     padding-top: 100px;
     padding-bottom: 100px;
@@ -1333,6 +1353,25 @@ ul.tabs-ul-04 i {
 }
 
 /* -----------------------Footer Css------------------- */
+
+.youtube {
+    position: relative;
+    width: 445px;
+    height: 255px;
+    z-index: 99;
+  }
+  .youtube-back::after {
+    content: " ";
+    position: absolute;
+    background: url(./assets/images/banner-frame.png) 0 0 / cover;
+    width: 480px;
+    height: 399px;
+    left: 660px;
+    top: 130px;
+    right: 0;
+    margin: auto;
+  }
+
 
 /* Mobile Opitimise */
 

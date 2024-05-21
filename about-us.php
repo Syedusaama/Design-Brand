@@ -8,12 +8,14 @@
 <?php include "./components/header.php"?>
 <!-- Main Header -->
 <!-- Banner -->
-<section class="inner-banner1">
+<section class="about-banner">
     <div>
     <div class="inner-bann-heading">
         <div class="row">
-            <div class="col-md-12 inner-bann-heading">
-                <h1>About Us</h1>
+        <div class="col-md-8 inner-bann-heading">
+                <h1>Lorem ipsum dolor sit amet, consectetur <span class="subheading-clr">Lorem ipsum,</span></h1>
+            </div>
+            <div class="col-md-4">
             </div>
         </div>
     </div>

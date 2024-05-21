@@ -429,6 +429,7 @@ header {
     position: relative;
     z-index: 2;
     max-width: 600px;
+    margin-bottom: -63px;
 }
 .img-container{
     display: flex;
@@ -468,7 +469,7 @@ header {
     bottom: 0%;
     right: 16%;
 }
-.banner-btn{
+.banner-btn {
     background-color: #FD5605;
     border: 2px solid #FD5605;
     font-family: "Poppins", sans-serif;
@@ -480,10 +481,10 @@ header {
     transition: 0.5s;
     color: #fff;
     border-radius: 26px 0px 26px 26px;
-    position: absolute;
-    left: 45%;
-    bottom: 3%;
-    margin-left: -21px;
+    position: relative;
+    z-index: 3;
+    margin-top: -32px;
+    margin-bottom: 30px;
 }
 
 .banner-btn:hover{
@@ -1365,8 +1366,8 @@ ul.tabs-ul-04 i {
 
 .youtube {
     position: relative;
-    width: 64vh;
-    bottom: 7vh;
+    width: 63vh;
+    bottom: 8vh;
     z-index: 1;
     margin-bottom: -51%;
   }

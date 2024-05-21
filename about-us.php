@@ -49,7 +49,7 @@
     <div class="container py-5">
         <div class="row align-items-center">
             <div class="col-md-6 about-left">
-            <img src="./assets/images/services/first-section/animated.png" alt="">
+            <img src="./assets/images/about-second.webp" alt="">
             </div>
             <div class="col-md-6 innerban-content">
                 <h2>Web Design & Development</h2>
@@ -87,7 +87,7 @@
                 </div>
             </div>
             <div class="col-md-6 about-right">
-            <img src="./assets/images/services/first-section/animated.png" alt="">
+            <img src="./assets/images/about-third.webp" alt="">
             </div>
         </div>
     </div>

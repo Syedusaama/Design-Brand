@@ -972,16 +972,25 @@ ul.tabs-ul-04 i {
     margin-top: -120px;
 }
 
+.about-right{
+    display: flex;
+    justify-content: flex-end;
+} 
+.about-left{
+    display: flex;
+    justify-content: start;
+} 
 .about-right img{
-    max-width: 560px;
+    max-width: 600px;
     border-radius: 12px;
     box-shadow: 0px 0px 15px -3px rgba(0,0,0,0.1);
 }
 .about-left img{
-    max-width: 560px;
+    max-width: 600px;
     border-radius: 12px;
     box-shadow: 0px 0px 15px -3px rgba(0,0,0,0.1);
 }
+
 
 /* -----------------------About section Css------------------- */
 
@@ -1139,13 +1148,9 @@ ul.tabs-ul-04 i {
 } 
 .innerpage-rightimg img{
     max-width: 560px;
-    border-radius: 12px;
-    box-shadow: 0px 0px 15px -3px rgba(0,0,0,0.1);
 }
 .innerpage-leftimg img{
     max-width: 560px;
-    border-radius: 12px;
-    box-shadow: 0px 0px 15px -3px rgba(0,0,0,0.1);
 }
 
 /* -----------------------Services section Css------------------- */

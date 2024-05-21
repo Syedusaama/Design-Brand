@@ -49,7 +49,7 @@
     <div class="container-fluid">
         <div class="row">
             <div class="col-md-12 text-center py-5">
-                <h2 class="title-heading">Animated Videos</h2>
+                <h2 class="title-heading">Animated Portfolio</h2>
                 <p class="title-p">We are well aware of the competition. That is the reason why we have a fair pricing<br> model. We ensure quality over quantity on each order.</p>   
             </div>
             <div class="portfolio-items-box">

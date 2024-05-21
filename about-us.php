@@ -25,8 +25,8 @@
 <section class="inner-first-secbanner">
     <div class="container py-5">
         <div class="row align-items-center">
-            <div class="col-md-6 innerban-content">
-                <h2>Web Design & Development</h2>
+            <div class="col-md-6 about-content">
+                <h2>About Global Design Agency</h2>
                 <p>McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero<br><br>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard</p>
                 <div class="col">
                     <div class="row">
@@ -51,8 +51,8 @@
             <div class="col-md-6 about-left">
             <img src="./assets/images/about-second.webp" alt="">
             </div>
-            <div class="col-md-6 innerban-content">
-                <h2>Web Design & Development</h2>
+            <div class="col-md-6 about-content">
+                <h2>Lorem ipsum dolor sit amet.</h2>
                 <p>McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero<br><br>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard</p>
                 <div class="col">
                     <div class="row">
@@ -75,8 +75,8 @@
 <section class="inner-first-secbanner">
     <div class="container py-5">
         <div class="row align-items-center">
-            <div class="col-md-6 innerban-content">
-                <h2>Web Design & Development</h2>
+            <div class="col-md-6 about-content">
+                <h2>Lorem ipsum dolor sit amet.</h2>
                 <p>McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero<br><br>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard</p>
                 <div class="col">
                     <div class="row">

@@ -541,7 +541,6 @@ header {
 }
 /* -----------------------Service Css------------------- */
 
-
 /* ----------------servicesTabs------------ */
 
 .bg-servicesTabs{
@@ -742,7 +741,6 @@ ul.tabs-ul-04 i {
 }
 /* ----------------Work section------------ */
 
-
 .gallery {
     --s: 150px;
      /* control the size */
@@ -815,7 +813,6 @@ ul.tabs-ul-04 i {
 }
 
 .portfolio-items>li{
-
     display: inline-block;
     vertical-align: top;
     width: 100%;
@@ -845,10 +842,7 @@ ul.tabs-ul-04 i {
     width: 665px;
     height: 291px;
 }
-
-  
 /* ----------------Portfolio section------------ */
-
 
 /* ----------------Testimonial section------------ */
 
@@ -967,7 +961,31 @@ ul.tabs-ul-04 i {
 
 /* -----------------------Call section Css------------------- */
 
-/* -----------------------About us section Css------------------- */
+/* -----------------------About section Css------------------- */
+.inner-banner1{
+    background-image: url(./assets/images/services/branding.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 300px;
+    padding-bottom: 300px;
+    margin-top: -120px;
+}
+
+.about-right img{
+    max-width: 560px;
+    border-radius: 12px;
+    box-shadow: 0px 0px 15px -3px rgba(0,0,0,0.1);
+}
+.about-left img{
+    max-width: 560px;
+    border-radius: 12px;
+    box-shadow: 0px 0px 15px -3px rgba(0,0,0,0.1);
+}
+
+/* -----------------------About section Css------------------- */
+
+/* -----------------------Services section Css------------------- */
 
 .inner-banner1{
     background-image: url(./assets/images/services/branding.png);
@@ -1120,13 +1138,17 @@ ul.tabs-ul-04 i {
     justify-content: start;
 } 
 .innerpage-rightimg img{
-    max-width: 500px;
+    max-width: 560px;
+    border-radius: 12px;
+    box-shadow: 0px 0px 15px -3px rgba(0,0,0,0.1);
 }
 .innerpage-leftimg img{
-    max-width: 500px;
+    max-width: 560px;
+    border-radius: 12px;
+    box-shadow: 0px 0px 15px -3px rgba(0,0,0,0.1);
 }
 
-/* -----------------------About us section Css------------------- */
+/* -----------------------Services section Css------------------- */
 
 
 /* -----------------------Reviews section Css------------------- */

@@ -36,8 +36,8 @@
                     </div>
                 </div>
             </div>
-            <div class="col-md-6 innerpage-rightimg">
-            <img src="./assets/images/services/first-section/animated.png" alt="">
+            <div class="col-md-6 about-right">
+            <img src="./assets/images/about-first.webp" alt="">
             </div>
         </div>
     </div>
@@ -48,7 +48,7 @@
 <section class="inner-first-secbanner">
     <div class="container py-5">
         <div class="row align-items-center">
-            <div class="col-md-6 innerpage-leftimg">
+            <div class="col-md-6 about-left">
             <img src="./assets/images/services/first-section/animated.png" alt="">
             </div>
             <div class="col-md-6 innerban-content">
@@ -86,7 +86,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-md-6 innerpage-rightimg">
+            <div class="col-md-6 about-right">
             <img src="./assets/images/services/first-section/animated.png" alt="">
             </div>
         </div>

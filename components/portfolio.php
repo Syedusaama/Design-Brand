@@ -12,7 +12,7 @@
             <li data-targetit="box-port4"><a href="javascript:;">Social Media</a></li>
             <li data-targetit="box-port5"><a href="javascript:;">Web Design and Development</a></li>
             <li data-targetit="box-port6"><a href="javascript:;">Animation Video</a></li>
-            <li data-targetit="box-port7"><a href="javascript:;">Brand Marketing</a></li>
+            <!-- <li data-targetit="box-port7"><a href="javascript:;">Brand Marketing</a></li> -->
         </ul>
     <div class="box-port1 showfirst">
         <ul class="portfolio-items">
@@ -46,7 +46,7 @@
                 <div class="portfolio-items-box">
                     <div class="gallery">
                         <img src="./assets/images/portfolio/p1.png" alt="a forest after an apocalypse">
-                        <img src="./assets/images/portfolio/p2.png" alt="a waterfall and many rocks">
+                        <img src="./assets/images/portfolio/P2.jpg" alt="a waterfall and many rocks">
                         <img src="./assets/images/portfolio/p3.png" alt="a house on a mountain">
                         <img src="./assets/images/portfolio/p4.png" alt="sime pink flowers">
                         <img src="./assets/images/portfolio/p5.png" alt="big rocks with some trees">
@@ -71,7 +71,7 @@
                 <div class="portfolio-items-box">
                     <div class="gallery">
                         <img src="./assets/images/portfolio/p1.png" alt="a forest after an apocalypse">
-                        <img src="./assets/images/portfolio/p2.png" alt="a waterfall and many rocks">
+                        <img src="./assets/images/portfolio/P2.jpg" alt="a waterfall and many rocks">
                         <img src="./assets/images/portfolio/p3.png" alt="a house on a mountain">
                         <img src="./assets/images/portfolio/p4.png" alt="sime pink flowers">
                         <img src="./assets/images/portfolio/p5.png" alt="big rocks with some trees">
@@ -98,7 +98,7 @@
                 <div class="portfolio-items-box">
                     <div class="gallery">
                         <img src="./assets/images/portfolio/p1.png" alt="a forest after an apocalypse">
-                        <img src="./assets/images/portfolio/p2.png" alt="a waterfall and many rocks">
+                        <img src="./assets/images/portfolio/P2.jpg" alt="a waterfall and many rocks">
                         <img src="./assets/images/portfolio/p3.png" alt="a house on a mountain">
                         <img src="./assets/images/portfolio/p4.png" alt="sime pink flowers">
                         <img src="./assets/images/portfolio/p5.png" alt="big rocks with some trees">
@@ -127,7 +127,7 @@
                 <div class="portfolio-items-box">
                     <div class="gallery">
                         <img src="./assets/images/portfolio/p1.png" alt="a forest after an apocalypse">
-                        <img src="./assets/images/portfolio/p2.png" alt="a waterfall and many rocks">
+                        <img src="./assets/images/portfolio/P2.jpg" alt="a waterfall and many rocks">
                         <img src="./assets/images/portfolio/p3.png" alt="a house on a mountain">
                         <img src="./assets/images/portfolio/p4.png" alt="sime pink flowers">
                         <img src="./assets/images/portfolio/p5.png" alt="big rocks with some trees">
@@ -154,7 +154,7 @@
                 <div class="portfolio-items-box">
                     <div class="gallery">
                         <img src="./assets/images/portfolio/p1.png" alt="a forest after an apocalypse">
-                        <img src="./assets/images/portfolio/p2.png" alt="a waterfall and many rocks">
+                        <img src="./assets/images/portfolio/P2.jpg" alt="a waterfall and many rocks">
                         <img src="./assets/images/portfolio/p3.png" alt="a house on a mountain">
                         <img src="./assets/images/portfolio/p4.png" alt="sime pink flowers">
                         <img src="./assets/images/portfolio/p5.png" alt="big rocks with some trees">
@@ -180,7 +180,7 @@
                 <div class="portfolio-items-box">
                     <div class="gallery">
                         <img src="./assets/images/portfolio/p1.png" alt="a forest after an apocalypse">
-                        <img src="./assets/images/portfolio/p2.png" alt="a waterfall and many rocks">
+                        <img src="./assets/images/portfolio/P2.jpg" alt="a waterfall and many rocks">
                         <img src="./assets/images/portfolio/p3.png" alt="a house on a mountain">
                         <img src="./assets/images/portfolio/p4.png" alt="sime pink flowers">
                         <img src="./assets/images/portfolio/p5.png" alt="big rocks with some trees">

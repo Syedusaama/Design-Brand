@@ -421,10 +421,13 @@ header {
     background-size: cover;
     margin-top: -153px;
     padding-top: 190px;
+    /* padding-bottom: 200px; */
     text-align: center;
     line-height: 0px;
 }
 .banner-hand{
+    position: relative;
+    z-index: 2;
     max-width: 600px;
 }
 .img-container{
@@ -1362,20 +1365,22 @@ ul.tabs-ul-04 i {
 
 .youtube {
     position: relative;
-    width: 445px;
-    height: 255px;
-    z-index: 99;
+    width: 64vh;
+    bottom: 7vh;
+    z-index: 1;
+    margin-bottom: -51%;
   }
   .youtube-back::after {
     content: " ";
     position: absolute;
     background: url(./assets/images/banner-frame.png) 0 0 / cover;
-    width: 480px;
-    height: 399px;
-    left: 660px;
-    top: 130px;
+    width: 100%;
+    height: 100%;
+    left: 0%;
+    top: 30%;
     right: 0;
     margin: auto;
+    z-index: 2;
   }
 
 

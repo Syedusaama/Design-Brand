@@ -27,15 +27,11 @@
             </div>
             <div class="col-md-6">
                 <h1 class="banner-h1">GROW YOUR BRAND<br> WITH US</h1>
-                <img class="banner-hand" src="./assets/images/hold.png" alt="">
-                
-                    <!-- <div class="youtube-back">
-                        <video autoplay="" muted="" controls="" poster="" class="youtube">
-                            <source src="./assets/images/Jeff_Atwood_-_video_trailer.mp4" type="video/mp4">
+                <video autoplay muted controls poster="" class="youtube">
+                            <source src="./assets/images/video.mp4" type="video/mp4">
                             Your browser does not support the video tag.
                         </video>
-                    </div> -->
-                
+                <img class="banner-hand" src="./assets/images/banner-frame.png" alt="">
                 <a href="./about-us.php" class="banner-btn">Discover More</a>    
                 <img class="shapes1" src="./assets/images/cube_3d_shape.png" alt="">
                 <img class="shapes2" src="./assets/images/cone_3d_shape.png" alt=""> 
@@ -62,21 +58,21 @@
             <div class="col-md-12">
                 <div class="row mx-5 pb-3">
                 <div class="col sevice-body">
-                    <a href="./branding.php"><img src="./assets/images/branding.png" alt="">
+                    <a href="./branding.php" target=”_blank”><img src="./assets/images/branding.png" alt="">
                     <h2>Branding</h2>
                     <p>Lorem Ipsum is simply dummy text of
                         the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
                         </a>
                     </div>
                 <div class="col sevice-body">
-                <a href="./logo-design.php" ><img src="./assets/images/logo-design.png" alt="">
+                <a href="./logo-design.php" target=”_blank”><img src="./assets/images/logo-design.png" alt="">
                     <h2>Logo Design</h2>
                     <p>Lorem Ipsum is simply dummy text of
                         the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
                         </a>
                 </div>
                 <div class="col sevice-body">
-                    <a href="./social-media.php"><img src="./assets/images/social-media.png" alt="">
+                    <a href="./social-media.php" target=”_blank”><img src="./assets/images/social-media.png" alt="">
                     <h2>Social Media</h2>
                     <p>Lorem Ipsum is simply dummy text of
                         the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
@@ -85,21 +81,21 @@
             </div>
             <div class="row mx-5 pb-3">
                 <div class="col sevice-body">
-                    <a href="./web-design-development.php"><img src="./assets/images/Web Design-Development.png" alt="">
+                    <a href="./web-design-development.php" target=”_blank”><img src="./assets/images/Web Design-Development.png" alt="">
                     <h2>Web Design And Development</h2>
                     <p>Lorem Ipsum is simply dummy text of
                         the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
                         </a>
                 </div>
                 <div class="col sevice-body">
-                    <a href="./animated-video.php"><img src="./assets/images/Animated-Video.png" alt="">
+                    <a href="./animated-video.php" target=”_blank”><img src="./assets/images/Animated-Video.png" alt="">
                     <h2>Animated Video</h2>
                     <p>Lorem Ipsum is simply dummy text of
                         the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
                         </a>
                 </div>
                 <div class="col sevice-body">
-                    <a href="./brand-marketing.php"><img src="./assets/images/Brand-Marketing.png" alt="">
+                    <a href="./brand-marketing.php" target=”_blank”><img src="./assets/images/Brand-Marketing.png" alt="">
                     <h2>Brand Marketing</h2>
                     <p>Lorem Ipsum is simply dummy text of
                         the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>

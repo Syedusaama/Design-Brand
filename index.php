@@ -27,10 +27,10 @@
             </div>
             <div class="col-md-6">
                 <h1 class="banner-h1">GROW YOUR BRAND<br> WITH US</h1>
-                <video autoplay loop muted controls poster="" class="youtube">
-                            <source src="./assets/images/main-video.mp4" type="video/mp4">
-                            Your browser does not support the video tag.
-                        </video>
+                <video autoplay loop muted poster="" class="youtube">
+                    <source src="./assets/images/main-video.mp4" type="video/mp4">
+                    Your browser does not support the video tag.
+                </video>
                 <img class="banner-hand" src="./assets/images/banner-frame.png" alt="">
                 <a href="./about-us.php" class="banner-btn">Discover More</a>    
                 <img class="shapes1" src="./assets/images/cube_3d_shape.png" alt="">

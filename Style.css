@@ -995,7 +995,7 @@ ul.tabs-ul-04 i {
     line-height: 1.4;
     font-size: 18px;
     color: #000;
-    padding: 20px 0px;
+    /* padding: 10px 0px; */
 }
 .about-right{
     display: flex;

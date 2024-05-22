@@ -26,7 +26,7 @@
                 </div> -->
             </div>
             <div class="col-md-6">
-                <h1 class="banner-h1">GROW YOUR BRAND<br> WITH US</h1>
+                <h1 class="banner-h1">MPOWER YOUR BRAND <br> PARTNER WITH US FOR GROWTH</h1>
                 <video autoplay loop muted poster="" class="youtube">
                     <source src="./assets/images/main-video.mp4" type="video/mp4">
                     Your browser does not support the video tag.
@@ -52,53 +52,27 @@
 <section class="service-sec">
     <div class="container">
             <div class="col">
-                <h2 class="sercvice-heading">Conceptualization, Transformation <br>And Creativity</h2>
+                <h2 class="sercvice-heading">Shape Tomorrow: Conceptualize, <br>Evolve, Innovate</h2>
             </div>
         <div class="row text-center">  
             <div class="col-md-12">
-                <!-- <div class="row">
-                    <div class="col sevice-body">
-                        <a href="./branding.php" target=”_blank”><img src="./assets/images/branding.png" alt="">
-                        <h2>Branding</h2>
-                        <p>Lorem Ipsum is simply dummy text of
-                            the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
-                            </a>
-                    </div>
-                    <div class="col sevice-body">
-                        <a href="./logo-design.php" target=”_blank”><img src="./assets/images/logo-design.png" alt="">
-                        <h2>Logo Design</h2>
-                        <p>Lorem Ipsum is simply dummy text of
-                            the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
-                            </a>
-                    </div>                    
-                    <div class="col sevice-body">
-                        <a href="./social-media.php" target=”_blank”><img src="./assets/images/social-media.png" alt="">
-                        <h2>Social Media</h2>
-                        <p>Lorem Ipsum is simply dummy text of
-                            the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
-                            </a>
-                    </div>
-                </div> -->
                 <div class="row">
                     <div class="col sevice-body">
                         <a href="./web-design-development.php" target=”_blank”><img src="./assets/images/branding.png" alt="">
                         <h2>Branding</h2>
-                        <p>Lorem Ipsum is simply dummy text of
-                            the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+                        <p>Craft Your Unique Brand: Discover the essence of your brand with our design website. Join forces with us to create a standout identity that deeply connects with your audience. Together, let's transform your vision into reality.</p>
                             </a>
                     </div>
                     <div class="col sevice-body">
-                        <a href="./animated-video.php" target=”_blank”><img src="./assets/images/Animated-Video.png" alt="">
+                        <a href="./animated-video.php" target=”_blank”><img src="./assets/images/logo-design.png" alt="">
                         <h2>Logo Design</h2>
-                        <p>Lorem Ipsum is simply dummy text of
-                            the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+                        <p>Designing logos that capture your brand's essence is our specialty. Let's collaborate to create one that not only stands out but also speaks volumes about your brand. Enhance your brand's identity and leave a lasting impression with our expert design services.</p>
                             </a>
                     </div>
                     <div class="col sevice-body">
-                        <a href="./brand-marketing.php" target=”_blank”><img src="./assets/images/Brand-Marketing.png" alt="">
+                        <a href="./brand-marketing.php" target=”_blank”><img src="./assets/images/social-media.png" alt="">
                         <h2>Social Media</h2>
-                        <p>Lorem Ipsum is simply dummy text of
-                            the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+                        <p>Expand Your Brand's Influence: Dive into social media with us. Our expert team crafts engaging content to spark conversations and drive your brand forward. Together, let's cultivate a loyal community and elevate your brand's impact online.</p>
                             </a>
                     </div>
                 </div>
@@ -106,22 +80,19 @@
                     <div class="col sevice-body">
                         <a href="./web-design-development.php" target=”_blank”><img src="./assets/images/Web Design-Development.png" alt="">
                         <h2>Web Design And Development</h2>
-                        <p>Lorem Ipsum is simply dummy text of
-                            the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+                        <p>Empower Your Online Presence: Explore our design website for cutting-edge web design and development. Together, let's craft a digital platform that speaks volumes about your brand and captivates your audience. Ready to make your mark online?</p>
                             </a>
                     </div>
                     <div class="col sevice-body">
                         <a href="./animated-video.php" target=”_blank”><img src="./assets/images/Animated-Video.png" alt="">
                         <h2>Animated Video</h2>
-                        <p>Lorem Ipsum is simply dummy text of
-                            the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+                        <p>Animate Your Narrative: Explore animated video with our design website. We specialize in crafting captivating visuals that breathe life into your story. Let's collaborate to create an unforgettable animated experience for your brand.</p>
                             </a>
                     </div>
                     <div class="col sevice-body">
                         <a href="./brand-marketing.php" target=”_blank”><img src="./assets/images/Brand-Marketing.png" alt="">
                         <h2>Brand Marketing</h2>
-                        <p>Lorem Ipsum is simply dummy text of
-                            the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+                        <p>Elevate Your Brand's Reach: Explore brand marketing with our design website. From strategic campaigns to engaging content, we'll enhance your brand's visibility and resonance. Let's collaborate on a tailored strategy to propel your brand forward online.</p>
                             </a>
                     </div>
                 </div>
@@ -144,8 +115,8 @@
     </div>
     <div class="container">
         <div class="row text-center">
-        <h2 class="title-heading-white">Our Work Process</h2>
-        <p class="title-p-white">We are well aware of the competition. That is the reason why we have a fair pricing<br> model. We ensure quality over quantity on each order.</p>
+        <h2 class="title-heading-white">Our Work Approach</h2>
+        <p class="title-p-white">Experience Our Design Journey: Our work approach emphasizes top-notch work, teamwork, and attention to <br> detail, ensuring each project exceeds expectations.</p>
     </div>
     </div>
     <div class="col text-center">
@@ -157,25 +128,25 @@
                 <lord-icon src="https://cdn.lordicon.com/wzwygmng.json" trigger="hover" colors="primary:#fd5605,secondary:#fd5605" style="width:150px;height:150px">
                 </lord-icon>
                 <h4 class="">Design Brief</h4>
-                <p class="">Lorem Ipsum is simply dummy text of the printing and typesetting industry. </p>
+                <p class="">Our design brief outlines your vision and project goals, ensuring a clear direction for our collaboration.</p>
             </div>
             <div class="col-md-3 work-content">
                 <lord-icon src="https://cdn.lordicon.com/rehjpyyh.json" trigger="hover" colors="primary:#fd5605,secondary:#fd5605" style="width:150px;height:150px">
                 </lord-icon>
                 <h4 class="">Sketch</h4>
-                <p class="">Lorem Ipsum is simply dummy text of the printing and typesetting industry. </p>
+                <p class="">In this step, we translate your vision into initial design sketches for further directions.</p>
             </div>
             <div class="col-md-3 work-content">
                 <lord-icon src="https://cdn.lordicon.com/uecgmesg.json" trigger="hover" colors="primary:#fd5605,secondary:#fd5605" style="width:150px;height:150px">
                 </lord-icon>
                 <h4 class="">Revision</h4>
-                <p class="">Lorem Ipsum is simply dummy text of the printing and typesetting industry. </p>
+                <p class="">In this step, we translate your vision into initial design sketches for further directions.</p>
             </div>
             <div class="col-md-3 work-content">
                 <lord-icon src="https://cdn.lordicon.com/ofwxettw.json" trigger="hover" colors="primary:#fd5605,secondary:#fd5605" style="width:150px;height:150px">
                 </lord-icon>
                 <h4 class="">Final Delivery</h4>
-                <p class="">Lorem Ipsum is simply dummy text of the printing and typesetting industry. </p>
+                <p class="">After approval, we ensure delivery of polished designs, ready for implementation.</p>
             </div>
         </div>
     </div>
@@ -190,7 +161,7 @@
 <section class="bg-testimonials">
 <div class="container">
     <div class="testimonial-heading">
-        <h2 class="title-heading-white">Customer Feedbacks</h2>
+        <h2 class="title-heading-white">Your Voice Matters: Feedback that Drives Improvement</h2>
     </div>
     <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
         <div class="carousel-inner width">
@@ -200,10 +171,10 @@
                     <img src="./assets/images/quote-1-1.png" alt="">
                 </div>
                 <div class="col-md-8 tesimonial-inner">
-                    <p class="testimonial-content">Penatibus etlectus quis sapien nibh fringilla varius elemenm blandit dui miestulum pretium cursusa augue praesent proin justo netus tar vestibulum taciti fringilla ultrices donec netus luctus mus sapien turpis varius libero lines</p>
+                    <p class="testimonial-content">Finding this design website was a game-changer. Its user-friendly layout, inspiring portfolio, and responsive customer service make it my go-to resource. Highly recommended for anyone seeking top-notch design inspiration.</p>
                     <img src="./assets/images/testimonial-line.png" alt="">
-                    <h4>Andrew Smith</h4>
-                    <p class="testimonial-designation">CEO at Company</p>
+                    <h4>Kellan Chambers</h4>
+                    <p class="testimonial-designation">Web Designer at IT based company</p>
                 </div>
                 <div class="col-md-2 quote-img-right">
                     <img src="./assets/images/quote-1-2.png" alt="">

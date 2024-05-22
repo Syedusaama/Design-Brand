@@ -2,8 +2,8 @@
     <div class="container" >
         <div class="row">
     <div class="text-center">
-        <h2 class="title-heading">Affordable Packages</h2>
-        <p class="title-p">We are well aware of the competition. That is the reason why we have a fair pricing<br> model. We ensure quality over quantity on each order.</p>   
+        <h2 class="title-heading">Value-Packed Solutions</h2>
+        <p class="title-p">In a competitive field, our fair pricing model reflects our commitment to quality. With each project,<br>we prioritize excellence over volume, ensuring your satisfaction every time.</p>   
         </div>
     <ul class="tabnav-projects">
             <li data-targetit="box-bme" class="active first"><a href="javascript:;">Branding</a></li>

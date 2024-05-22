@@ -2,8 +2,8 @@
     <div class="container-fluid" >
         <div class="row">
     <div class="text-center">
-        <h2 class="title-heading">Our Recent Work</h2>
-        <p class="title-p">We are well aware of the competition. That is the reason why we have a fair pricing<br> model. We ensure quality over quantity on each order.</p>   
+        <h2 class="title-heading">Our Latest Projects</h2>
+        <p class="title-p">Browse through our latest design projects, demonstrating our commitment to creativity,<br>  innovation, and client satisfaction.</p>   
         </div>
     <ul class="tabnav-projects">
             <li data-targetit="box-port1" class="active first"><a href="javascript:;">All</a></li>

@@ -1,8 +1,8 @@
 <section class="inner-work-backgroud">
     <div class="container">
         <div class="row text-center">
-        <h2 class="title-heading-white">Our Work Process</h2>
-        <p class="title-p-white">We are well aware of the competition. That is the reason why we have a fair pricing<br> model. We ensure quality over quantity on each order.</p>
+        <h2 class="title-heading-white">Our Work Approach</h2>
+        <p class="title-p-white">Experience Our Design Journey: Our work approach emphasizes top-notch work, teamwork, and attention to <br> detail, ensuring each project exceeds expectations.</p>
     </div>
     </div>
     <div class="col text-center">

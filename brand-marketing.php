@@ -13,7 +13,7 @@
     <div class="inner-bann-heading">
         <div class="row">
         <div class="col-md-8 inner-bann-heading">
-                <h1>Lorem ipsum dolor sit amet, consectetur <span class="subheading-clr">Lorem ipsum,</span></h1>
+                <h1>Transforming Businesses into Icons with Expert  <span class="subheading-clr">Brand Marketing</span></h1>
             </div>
             <div class="col-md-4">
             </div>
@@ -28,8 +28,8 @@
     <div class="container py-5">
         <div class="row align-items-center">
             <div class="col-md-6 innerban-content">
-                <h2>Brand Marketing</h2>
-                <p>McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero<br><br>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard</p>
+                <h2>OUR BRAND MARAKETING HUB</h2>
+                <p>To excel in a competitive market, you need a strategic approach to building your brand and standing out. Creating and maintaining a strong, positive perception of your products or services in consumers' minds is essential. Our brand marketing service is designed to elevate your business and make your brand shine in today's crowded marketplace. We specialize in crafting comprehensive marketing strategies that highlight your unique value and resonate deeply with your target audience.<br>Our team of experts blends creativity with data-driven insights to develop campaigns that drive engagement, increase visibility, and foster customer loyalty. Partner with us to transform your brand's presence and achieve lasting success in your industry. Let us help you tell your story and connect with your audience like never before. </p>
                 <div class="col">
                     <div class="row">
                         <div class="col-md-6">
@@ -51,8 +51,8 @@
     <div class="container-fluid">
         <div class="row">
             <div class="col-md-12 text-center py-5">
-                <h2 class="title-heading">Brand Marketing Portfolio</h2>
-                <p class="title-p">We are well aware of the competition. That is the reason why we have a fair pricing<br> model. We ensure quality over quantity on each order.</p>   
+                <h2 class="title-heading">OUR BRAND MARKETING SHOWCASE</h2>
+                <p class="title-p">To stand out in the competitive market, we operate on a fair pricing model. <br> Our commitment is to provide stellar service, prioritizing quality over quantity in every project, to ensure ultimate satisfaction.</p>   
             </div>
             <div class="portfolio-items-box">
             <div class="gallery">
@@ -86,8 +86,8 @@
     <div class="container" >
         <div class="row">
     <div class="text-center pb-5">
-        <h2 class="title-heading">Affordable Packages</h2>
-        <p class="title-p">We are well aware of the competition. That is the reason why we have a fair pricing<br> model. We ensure quality over quantity on each order.</p>   
+        <h2 class="title-heading">THE AFFORDABLE SOLUTION </h2>
+        <p class="title-p">At our core, we believe in providing affordable services without compromising on quality. Our mission is to help businesses succeed, <br>  offering top-notch solutions that fit within their budget constraints</p>   
         </div>
             <ul class="project-items">
                 <li>

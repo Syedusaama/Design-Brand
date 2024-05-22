@@ -13,7 +13,7 @@
     <div class="inner-bann-heading">
         <div class="row">
             <div class="col-md-8 inner-bann-heading">
-                <h1>Lorem ipsum dolor sit amet, consectetur <span class="subheading-clr">Lorem ipsum,</span></h1>
+                <h1>Shaping Positive Perspectives with <span class="subheading-clr">Our Logo Design</span></h1>
             </div>
             <div class="col-md-4">
             </div>
@@ -30,7 +30,7 @@
         <div class="row align-items-center">
             <div class="col-md-6 innerban-content">
                 <h2>Logo Design</h2>
-                <p>McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero<br><br>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard</p>
+                <p>Discover the transformative touch of our seasoned designers as they meticulously craft logos that capture the essence of your brand. With our collaborative approach, we invite you to delve into the world of logo design, exploring innovative concepts and strategies tailored to elevate your business to unprecedented heights of recognition and success.</p>
                 <div class="col">
                     <div class="row">
                         <div class="col-md-6">
@@ -53,7 +53,7 @@
         <div class="row">
             <div class="col-md-12 text-center py-5">
                 <h2 class="title-heading">Logo Portfolio</h2>
-                <p class="title-p">We are well aware of the competition. That is the reason why we have a fair pricing<br> model. We ensure quality over quantity on each order.</p>   
+                <p class="title-p">In the virtual world teeming with competition, we stand out with our fair pricing model, prioritizing quality over quantity in every order. Your satisfaction is our driving force, ensuring excellence with every project.</p>   
             </div>
             <div class="portfolio-items-box">
             <div class="gallery">

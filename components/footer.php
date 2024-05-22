@@ -3,7 +3,7 @@
         <div class="row">
             <div class="col-lg-3">
                 <img src="./assets/images/footer-logo.png" alt="">
-                <p>We are a fully in-house digital agency focusing on branding, marketing, web design and development with clients ranging from start-ups.</p>
+                <p>We're your all-in-one digital team, specializing in branding, marketing, web design, and development. From startups to established businesses, we've got you covered every step of the way.</p>
             </p>
         </div>
             <div class="col-lg-3">

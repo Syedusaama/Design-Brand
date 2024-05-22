@@ -456,6 +456,8 @@ header {
     position: absolute;
     left: 18%;
     top: 40%;
+    animation: 0.6s ease;
+    will-change: transform; transform: translateX(-1.43998px) translateY(-16.0523px);
 }
 
 .shapes2{
@@ -1391,11 +1393,58 @@ ul.tabs-ul-04 i {
     .header-color {
         background-color: #fff;
         border-radius: 12px;
-        padding: 12px;
+        padding: 12px !important;
         width: auto !important;
         text-align: left;
     
     }
+    .navbar-light .navbar-nav .nav-link{
+        padding: 10px 0px !important;
+    }
+    .header-btn{
+        padding: 8px 30px;
+    }
+    .main-banner{
+        padding-top: 250px;
+        padding-bottom: 100px;
+    }
+    .creative-img{
+        display: none;
+    }
+    .shapes1{
+        display: none;
+    }
+    .shapes2{
+        display: none;
+    }
+    .shapes3{
+        display: none;
+    }
+    .logos{
+        display: none;
+    }
+    .youtube{
+        display: none;
+    }
+    .banner-hand{
+        display: none;
+    }
+    .banner-h1{
+        font-size: 35px;
+        padding-bottom: 20px;
+    }
+    .banner-btn{
+        margin-top: 0px;
+        margin-bottom: 0px;
+        padding: 25px 35px;
+    }
+    .design-img{
+        display: none;
+    }
+    .sercvice-heading{
+        font-size: 35px;
+    }
+
   }
 
   @media (min-width: 992px) {

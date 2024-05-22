@@ -1,12 +1,12 @@
 <section class="main-footer">
     <div class="footer-body">
         <div class="row">
-            <div class="col">
+            <div class="col-lg-3">
                 <img src="./assets/images/footer-logo.png" alt="">
                 <p>We are a fully in-house digital agency focusing on branding, marketing, web design and development with clients ranging from start-ups.</p>
             </p>
         </div>
-            <div class="col">
+            <div class="col-lg-3">
                 <div class="footer-inner-box">
                     <h3 class="">Menu</h3>
                     <ul class="list-style">
@@ -20,7 +20,7 @@
                     </ul>
                 </div>
             </div>
-            <div class="col">
+            <div class="col-lg-3">
                 <div class="footer-inner-box">
                     <h3 class="">Services</h3>
                     <ul class="list-style">
@@ -33,7 +33,7 @@
                     </ul>
                 </div>
             </div>
-            <div class="col">
+            <div class="col-lg-3">
                 <div class="footer-inner-box">
                     <h3 class="">Quick Links</h3>
                     <ul class="list-style">

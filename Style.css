@@ -866,6 +866,8 @@ ul.tabs-ul-04 i {
     background-image: url(./assets/images/testimonial-background.png);
     padding-top: 100px;
     padding-bottom: 100px;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .carousel-inner {
@@ -915,10 +917,7 @@ ul.tabs-ul-04 i {
 
 /* -----------------------Call section Css------------------- */
 .call-banner{
-    background-image: url(./assets/images/call-background.png);
-    background-position: top left;
-    background-repeat: no-repeat;
-    background-size: contain;
+    background-color: #fff;
     padding: 50px 0px;
 }
 .call-btn-sec {
@@ -1101,6 +1100,13 @@ ul.tabs-ul-04 i {
     background-position: center center;
     background-size: cover;
     background-repeat: no-repeat;
+}
+.inner-call-banner{
+    background-image: url(./assets/images/call-background.png);
+    background-position: top left;
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding: 50px 0px;
 }
 .inner-first-secbanner{
     background-color: #F6F9F8;
@@ -1448,24 +1454,28 @@ ul.tabs-ul-04 i {
 
 /* Services section */
     .service-sec{
-        padding-top: 50px;
-        padding-bottom: 50px;
+        padding-top: 20px;
+        padding-bottom: 20px;
     }
     .sercvice-heading{
         font-size: 35px;
+        padding-bottom: 20px;
+    }
+    .sevice-body{
+        margin: 15px;
     }
     .sevice-body h2{
         font-size: 28px;
     }
-  }
+  
 
 /* Services section */
 
 /* Services tab section */
 
   .bg-servicesTabs{
-    padding-top: 50px;
-    padding-bottom: 50px;
+    padding-top: 20px;
+    padding-bottom: 20px;
   }
 
   .title-heading{
@@ -1486,18 +1496,158 @@ ul.tabs-ul-04 i {
     font-size: 12px;
     padding: 10px 18px;
   }
-
+  .project-item-body{
+    padding: 20px 35px;
+  }
   .project-items{
     flex-direction: column;
     margin: 0px 0px;
     padding: 0px;
   }
+  .project-items>li{
+    width: 100%;
+  }
+  .project-item-body h5{
+    font-size: 25px;
+  }
+  .project-item-body h4{
+    font-size: 70px;
+  }
+
+  ul.tabs-ul-01 li{
+    font-size: 14px;
+  }
+/* Services tab section */
+
+/* work section */
+  .work-backgroud{
+    padding: 50px 0px;
+  }
+  .premium-img{
+    display: none;
+  }
+  .title-heading-white{
+    font-size: 35px;
+  }
+  .title-p-white{
+    font-size: 16px;
+  }
+  .line-css{
+    display: none;
+  }
+  .work-content p{
+    padding: 0px 50px;
+  }
+/* work section */
+
+
+/* Portfolio section */
+  .portfolio-tabs{
+    padding-top: 50px;
+  }
+
+  .gallery{
+    aspect-ratio: 0.3;
+    grid-template-columns: repeat(2, auto);
+  }
+
+
+/* Portfolio section */
+
+
+/* testimonial section */
+  .bg-testimonials{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+  .testimonial-heading{
+    padding-bottom: 0px;
+  }
+  .carousel-item{
+    width: 200%;
+  }
+  .carousel-inner{
+    padding: 20px 40px;
+  }
+  .tesimonial-inner{
+    padding: 20px 0px;
+  }
+  .testimonial-content{
+    font-size: 16px;
+  }
+  .quote-img-left{
+    justify-content: flex-start;
+
+  }
+  .quote-img-left img{
+    width: 45px;
+  }
+  
+  .quote-img-right{
+    justify-content: end;
+
+  }
+  .quote-img-right img{
+    width: 45px;
+  }
+
+/* testimonial section */
+
+/* Call section */
+.call-banner{
+    padding: 20px 0px;
+}
+  .call-text-sec{
+    padding: 0px 30px !important;
+  }
+  .call-text-sec h3{
+    font-size: 35px;
+  }
+  .call-btn{
+    padding: 10px 25px;
+  }
+  .call-btn-sec a{
+    font-size: 14px;
+  }
+  .call-btn-sec a span{
+    font-size: 16px;
+  }
+/* Call section */
+
+/* Footer section */
+
+
+.main-footer{
+    padding: 20px 0px 0px 0px;
+}
+.footer-body{
+    padding: 0px 20px;
+}
+.footer-inner-box{
+    padding-left: 0px;
+}
+.footer-body img{
+    width: 220px;
+}
+.footer-body p{
+    font-size: 14px;
+}
+.list-style{
+    font-size: 14px;
+}
+.footer-end p{
+    font-size: 16px;
+}
 
 
 
 
 
+/* Footer section */
 
+
+
+}
 
 
 /* Services tab section */

@@ -427,7 +427,7 @@ header {
 }
 .banner-hand{
     position: relative;
-    z-index: 2;
+    /* z-index: 2; */
     max-width: 600px;
     margin-bottom: -63px;
 }
@@ -506,6 +506,7 @@ header {
     font-size: 50px;
     font-weight: bold;
     padding-bottom: 50px;
+    text-align: center;
 }
 
 .sevice-body{
@@ -1370,7 +1371,7 @@ ul.tabs-ul-04 i {
     position: relative;
     width: 63vh;
     bottom: 8vh;
-    z-index: 1;
+    /* z-index: 1; */
     margin-bottom: -51%;
   }
   .youtube-back::after {
@@ -1390,6 +1391,8 @@ ul.tabs-ul-04 i {
 /* Mobile Opitimise */
 
 @media only screen and (max-width: 600px) {
+
+    /* Header and Banner */
     .header-color {
         background-color: #fff;
         border-radius: 12px;
@@ -1441,11 +1444,64 @@ ul.tabs-ul-04 i {
     .design-img{
         display: none;
     }
+/* Header and Banner */
+
+/* Services section */
+    .service-sec{
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
     .sercvice-heading{
         font-size: 35px;
     }
-
+    .sevice-body h2{
+        font-size: 28px;
+    }
   }
+
+/* Services section */
+
+/* Services tab section */
+
+  .bg-servicesTabs{
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+
+  .title-heading{
+    font-size: 35px;
+  }
+  .title-p{
+    font-size: 16px;
+  }
+  .tabnav-projects{
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+  .tabnav-projects>li{
+    padding: 5px 5px;
+  }
+
+  .tabnav-projects a{
+    font-size: 12px;
+    padding: 10px 18px;
+  }
+
+  .project-items{
+    flex-direction: column;
+    margin: 0px 0px;
+    padding: 0px;
+  }
+
+
+
+
+
+
+
+
+/* Services tab section */
+
 
   @media (min-width: 992px) {
     .navbar-expand-lg .navbar-collapse {

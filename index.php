@@ -51,57 +51,80 @@
 <!-- Service Section -->
 <section class="service-sec">
     <div class="container">
-        <div class="row text-center">
             <div class="col">
                 <h2 class="sercvice-heading">Conceptualization, Transformation <br>And Creativity</h2>
             </div>
+        <div class="row text-center">  
             <div class="col-md-12">
-                <div class="row mx-5 pb-3">
-                <div class="col sevice-body">
-                    <a href="./branding.php" target=”_blank”><img src="./assets/images/branding.png" alt="">
-                    <h2>Branding</h2>
-                    <p>Lorem Ipsum is simply dummy text of
-                        the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
-                        </a>
+                <!-- <div class="row">
+                    <div class="col sevice-body">
+                        <a href="./branding.php" target=”_blank”><img src="./assets/images/branding.png" alt="">
+                        <h2>Branding</h2>
+                        <p>Lorem Ipsum is simply dummy text of
+                            the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+                            </a>
                     </div>
-                <div class="col sevice-body">
-                <a href="./logo-design.php" target=”_blank”><img src="./assets/images/logo-design.png" alt="">
-                    <h2>Logo Design</h2>
-                    <p>Lorem Ipsum is simply dummy text of
-                        the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
-                        </a>
+                    <div class="col sevice-body">
+                        <a href="./logo-design.php" target=”_blank”><img src="./assets/images/logo-design.png" alt="">
+                        <h2>Logo Design</h2>
+                        <p>Lorem Ipsum is simply dummy text of
+                            the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+                            </a>
+                    </div>                    
+                    <div class="col sevice-body">
+                        <a href="./social-media.php" target=”_blank”><img src="./assets/images/social-media.png" alt="">
+                        <h2>Social Media</h2>
+                        <p>Lorem Ipsum is simply dummy text of
+                            the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+                            </a>
+                    </div>
+                </div> -->
+                <div class="row">
+                    <div class="col sevice-body">
+                        <a href="./web-design-development.php" target=”_blank”><img src="./assets/images/branding.png" alt="">
+                        <h2>Branding</h2>
+                        <p>Lorem Ipsum is simply dummy text of
+                            the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+                            </a>
+                    </div>
+                    <div class="col sevice-body">
+                        <a href="./animated-video.php" target=”_blank”><img src="./assets/images/Animated-Video.png" alt="">
+                        <h2>Logo Design</h2>
+                        <p>Lorem Ipsum is simply dummy text of
+                            the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+                            </a>
+                    </div>
+                    <div class="col sevice-body">
+                        <a href="./brand-marketing.php" target=”_blank”><img src="./assets/images/Brand-Marketing.png" alt="">
+                        <h2>Social Media</h2>
+                        <p>Lorem Ipsum is simply dummy text of
+                            the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+                            </a>
+                    </div>
                 </div>
-                <div class="col sevice-body">
-                    <a href="./social-media.php" target=”_blank”><img src="./assets/images/social-media.png" alt="">
-                    <h2>Social Media</h2>
-                    <p>Lorem Ipsum is simply dummy text of
-                        the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
-                        </a>
+                <div class="row">
+                    <div class="col sevice-body">
+                        <a href="./web-design-development.php" target=”_blank”><img src="./assets/images/Web Design-Development.png" alt="">
+                        <h2>Web Design And Development</h2>
+                        <p>Lorem Ipsum is simply dummy text of
+                            the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+                            </a>
+                    </div>
+                    <div class="col sevice-body">
+                        <a href="./animated-video.php" target=”_blank”><img src="./assets/images/Animated-Video.png" alt="">
+                        <h2>Animated Video</h2>
+                        <p>Lorem Ipsum is simply dummy text of
+                            the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+                            </a>
+                    </div>
+                    <div class="col sevice-body">
+                        <a href="./brand-marketing.php" target=”_blank”><img src="./assets/images/Brand-Marketing.png" alt="">
+                        <h2>Brand Marketing</h2>
+                        <p>Lorem Ipsum is simply dummy text of
+                            the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+                            </a>
+                    </div>
                 </div>
-            </div>
-            <div class="row mx-5 pb-3">
-                <div class="col sevice-body">
-                    <a href="./web-design-development.php" target=”_blank”><img src="./assets/images/Web Design-Development.png" alt="">
-                    <h2>Web Design And Development</h2>
-                    <p>Lorem Ipsum is simply dummy text of
-                        the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
-                        </a>
-                </div>
-                <div class="col sevice-body">
-                    <a href="./animated-video.php" target=”_blank”><img src="./assets/images/Animated-Video.png" alt="">
-                    <h2>Animated Video</h2>
-                    <p>Lorem Ipsum is simply dummy text of
-                        the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
-                        </a>
-                </div>
-                <div class="col sevice-body">
-                    <a href="./brand-marketing.php" target=”_blank”><img src="./assets/images/Brand-Marketing.png" alt="">
-                    <h2>Brand Marketing</h2>
-                    <p>Lorem Ipsum is simply dummy text of
-                        the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
-                        </a>
-                </div>
-            </div>
             </div>
         </div>
     </div>

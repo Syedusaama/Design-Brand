@@ -56,7 +56,7 @@
             </div>
             <div class="portfolio-items-box">
             <div class="gallery">
-                <img src="./assets/images/portfolio/b1.png" alt="a forest after an apocalypse">
+                <img src="./assets/images/earth.webp" alt="a forest after an apocalypse">
                 <img src="./assets/images/portfolio/v2.png" alt="a great view of the sea above the mountain">
                 <img src="./assets/images/portfolio/w2.png" alt="a great view of the sea above the mountain">
                 <img src="./assets/images/portfolio/b2.png" alt="a waterfall and many rocks">

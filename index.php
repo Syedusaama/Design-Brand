@@ -41,7 +41,7 @@
             </div>
             <!-- <div class="col-md-6">
                 <video autoplay loop muted>
-                <source src="./assets/images/Sequence.mp4" type="video/mp4">
+                <source src="./assets/images/aaaaa.mp4" type="video/mp4">
                 </video>
             </div> -->
             <div class="col-md-3 right-img-container">
@@ -65,19 +65,19 @@
             <div class="col-md-12">
                 <div class="row">
                     <div class="col sevice-body">
-                        <a href="./web-design-development.php" target=”_blank”><img src="./assets/images/branding.png" alt="">
+                        <a href="./branding.php" target=”_blank”><img src="./assets/images/branding.png" alt="">
                         <h2>Branding</h2>
                         <p>Craft Your Unique Brand: Discover the essence of your brand with our design website. Join forces with us to create a standout identity that deeply connects with your audience. Together, let's transform your vision into reality.</p>
                             </a>
                     </div>
                     <div class="col sevice-body">
-                        <a href="./animated-video.php" target=”_blank”><img src="./assets/images/logo-design.png" alt="">
+                        <a href="./logo-design.php" target=”_blank”><img src="./assets/images/logo-design.png" alt="">
                         <h2>Logo Design</h2>
                         <p>Designing logos that capture your brand's essence is our specialty. Let's collaborate to create one that not only stands out but also speaks volumes about your brand. Enhance your brand's identity and leave a lasting impression with our expert design services.</p>
                             </a>
                     </div>
                     <div class="col sevice-body">
-                        <a href="./brand-marketing.php" target=”_blank”><img src="./assets/images/social-media.png" alt="">
+                        <a href="./social-media.php" target=”_blank”><img src="./assets/images/social-media.png" alt="">
                         <h2>Social Media</h2>
                         <p>Expand Your Brand's Influence: Dive into social media with us. Our expert team crafts engaging content to spark conversations and drive your brand forward. Together, let's cultivate a loyal community and elevate your brand's impact online.</p>
                             </a>

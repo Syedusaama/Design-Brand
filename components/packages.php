@@ -237,7 +237,6 @@
                     <div class="project-item-body">
                         <h5>Instent Basic </h5>
                         <h4>$99</h4>
-                        <p>$200</p>
                         <ul class="tabs-ul-01">
                         <li><i class="fa-solid fa-check"></i>1 Logo Design Concepts</li>
                         <li><i class="fa-solid fa-check"></i>By 1 Experienced Designer</li>
@@ -260,7 +259,6 @@
                     <div class="project-item-body">
                         <h5>Instent Basic </h5>
                         <h4>$99</h4>
-                        <p>$200</p>
                         <ul class="tabs-ul-01">
                         <li><i class="fa-solid fa-check"></i>1 Logo Design Concepts</li>
                         <li><i class="fa-solid fa-check"></i>By 1 Experienced Designer</li>
@@ -283,7 +281,6 @@
                     <div class="project-item-body">
                         <h5>Instent Basic </h5>
                         <h4>$99</h4>
-                        <p>$200</p>
                         <ul class="tabs-ul-01">
                         <li><i class="fa-solid fa-check"></i>1 Logo Design Concepts</li>
                         <li><i class="fa-solid fa-check"></i>By 1 Experienced Designer</li>
@@ -348,7 +345,6 @@
                     <div class="project-item-body">
                         <h5>Instent Basic </h5>
                         <h4>$99</h4>
-                        <p>$200</p>
                         <ul class="tabs-ul-01">
                         <li><i class="fa-solid fa-check"></i>1 Logo Design Concepts</li>
                         <li><i class="fa-solid fa-check"></i>By 1 Experienced Designer</li>

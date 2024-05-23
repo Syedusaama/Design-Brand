@@ -25,8 +25,8 @@
 
 <!-- First Section -->
 <section class="inner-first-secbanner">
-    <div class="container py-5">
-        <div class="row align-items-center">
+    <div class="container">
+        <div class="row align-items-center ">
             <div class="col-md-6 about-content">
                 <h2>About Global Design Agency</h2>
                 <p>Welcome to Global Design Agency, where creativity meets functionality. We are a passionate team of designers, developers, and marketers dedicated to bringing your vision to life. With a focus on innovation and excellence, we strive to exceed expectations and deliver tailored solutions that resonate with your audience. Whether you're a startup looking to establish your brand or an established business seeking to refresh your online presence, we're here to help you navigate the ever-evolving digital landscape. Let's collaborate and create something extraordinary together!</p>
@@ -48,7 +48,7 @@
 
 <!-- First Section -->
 <section class="inner-first-secbanner">
-    <div class="container py-5">
+    <div class="container">
         <div class="row align-items-center">
             <div class="col-md-6 about-left">
             <img src="./assets/images/about-second.webp" alt="">

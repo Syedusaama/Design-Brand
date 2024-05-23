@@ -1109,6 +1109,7 @@ ul.tabs-ul-04 i {
     padding: 50px 0px;
 }
 .inner-first-secbanner{
+    padding: 50px 0px;
     background-color: #F6F9F8;
 }
 
@@ -1316,7 +1317,7 @@ ul.tabs-ul-04 i {
     background-color: #fff;
     box-shadow: 0px 0px 15px -3px rgba(0,0,0,0.1);
 }
-/* ---------------------------------------------- */
+
 /* -----------------------Contact section Css------------------- */
 
 /* -----------------------Footer Css------------------- */
@@ -1639,12 +1640,33 @@ ul.tabs-ul-04 i {
     font-size: 16px;
 }
 
-
-
-
-
 /* Footer section */
-
+/* -----------------------Inner pages Css------------------- */
+.inner-first-secbanner{
+    padding: 20px 0px;
+}
+.about-banner{
+    padding-top: 250px;
+    padding-bottom: 150px;
+}
+.inner-bann-heading{
+    width: auto;
+    padding: 0px 40px;
+    font-size: 25px;
+}
+.about-left img{
+    min-width: 300px;
+}
+.about-right img{
+    min-width: 300px;
+}
+.about-content h2{
+    font-size: 30px;
+}
+.about-content p{
+    font-size: 16px;
+}
+/* -----------------------Inner pages Css------------------- */
 
 
 }

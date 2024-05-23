@@ -13,7 +13,7 @@
     <div class="inner-bann-heading">
         <div class="row">
         <div class="col-md-8 inner-bann-heading">
-                <h1>Lorem ipsum dolor sit amet, consectetur <span class="subheading-clr">Lorem ipsum,</span></h1>
+                <h1>Design Dreams Come True: Follow Us for <span class="subheading-clr">Inspiration!</span></h1>
             </div>
             <div class="col-md-4">
             </div>
@@ -29,7 +29,7 @@
         <div class="row align-items-center">
             <div class="col-md-6 innerban-content">
                 <h2>Social Media</h2>
-                <p>McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero<br><br>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard</p>
+                <p>Welcome to our vibrant social media community, where creativity flourishes and design inspiration abounds! Dive into our world as we share captivating visuals, insightful tips, and behind-the-scenes peeks into our creative process. Whether you're a seasoned designer or an aspiring creative, our page is your go-to destination for all things design. Join us as we explore the latest trends, spark meaningful conversations, and celebrate the boundless possibilities of design. Together, let's unleash our imaginations, inspire one another, and embark on an exciting journey of creativity and discovery. Follow along and be a part of our thriving design community!</p>
                 <div class="col">
                     <div class="row">
                         <div class="col-md-6">
@@ -51,8 +51,8 @@
     <div class="container-fluid">
         <div class="row">
             <div class="col-md-12 text-center py-5">
-                <h2 class="title-heading">Social Media Portfolio</h2>
-                <p class="title-p">We are well aware of the competition. That is the reason why we have a fair pricing<br> model. We ensure quality over quantity on each order.</p>   
+                <h2 class="title-heading">Welcome to our Design Playground</h2>
+                <p class="title-p">Explore our social media portfolio for a curated collection of design inspiration and insights. <br> From captivating visuals to behind-the-scenes glimpses, ignite your creativity and stay ahead of the curve.</p>   
             </div>
             <div class="portfolio-items-box">
             <div class="gallery">
@@ -84,8 +84,8 @@
     <div class="container" >
         <div class="row">
     <div class="text-center pb-5">
-        <h2 class="title-heading">Affordable Packages</h2>
-        <p class="title-p">We are well aware of the competition. That is the reason why we have a fair pricing<br> model. We ensure quality over quantity on each order.</p>   
+        <h2 class="title-heading">Budget-Friendly Solutions</h2>
+        <p class="title-p">Unlock quality design within your budget with our affordable packages.</p>   
         </div>
             <ul class="project-items">
                 <li>

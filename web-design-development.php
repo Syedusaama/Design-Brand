@@ -13,7 +13,7 @@
     <div class="inner-bann-heading">
         <div class="row">
         <div class="col-md-8 inner-bann-heading">
-                <h1>Lorem ipsum dolor sit amet, consectetur <span class="subheading-clr">Lorem ipsum,</span></h1>
+                <h1>Developing Your Online Identity, Bit by Bit - With Our <span class="subheading-clr">Website Design and Development</span></h1>
             </div>
             <div class="col-md-4">
             </div>
@@ -28,8 +28,8 @@
     <div class="container py-5">
         <div class="row align-items-center">
             <div class="col-md-6 innerban-content">
-                <h2>Web Design & Development</h2>
-                <p>McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero<br><br>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard</p>
+                <h2>We Boost Your Online Presence</h2>
+                <p>Your website is the foundation of your brand's identity in the digital age. Our specialty at Global Design Agency is creating user-friendly, engaging web experiences that enthrall users and produce amazing outcomes. Our skilled team is committed to realizing your vision, from sophisticated and contemporary designs to strong and user-friendly functionality. We customize our solutions to meet your specific aims and objectives, whether you're starting from scratch or redesigning an old website. You can rely on us to create a website that looks amazing and produces noticeable commercial results. Together, let's craft a digital masterpiece that distinguishes your company in the online marketplace.</p>
                 <div class="col">
                     <div class="row">
                         <div class="col-md-6">
@@ -51,7 +51,7 @@
     <div class="container-fluid">
         <div class="row">
             <div class="col-md-12 text-center py-5">
-                <h2 class="title-heading">Web Design & Development Portfolio</h2>
+                <h2 class="title-heading">Digital Presence Display</h2>
                 <p class="title-p">We are well aware of the competition. That is the reason why we have a fair pricing<br> model. We ensure quality over quantity on each order.</p>   
             </div>
             <div class="portfolio-items-box">
@@ -83,7 +83,7 @@
     <div class="container" >
         <div class="row">
     <div class="text-center pb-5">
-        <h2 class="title-heading">Affordable Packages</h2>
+        <h2 class="title-heading">Bringing You Quality Solutions at Wallet-Friendly Prices.</h2>
         <p class="title-p">We are well aware of the competition. That is the reason why we have a fair pricing<br> model. We ensure quality over quantity on each order.</p>   
         </div>
             <ul class="project-items">

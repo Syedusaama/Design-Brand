@@ -7,7 +7,7 @@
                 <div>
                     <div class="row align-items-center">
                         <div class="col call-btn-sec fifth-buttons">
-                            <a href="#" class="call-btn">Let’s Talk</a>
+                            <a href="#" class="call-btn">Contact us Now!</a>
                             <img src="./assets/images/call.png" alt=""><a class="call-text-color" href="">Call Us 2 4/7<br><span>562-614-1989</span></a>  
                         </div>
                     </div>

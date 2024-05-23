@@ -13,7 +13,7 @@
     <div class="inner-bann-heading">
         <div class="row">
         <div class="col-md-8 inner-bann-heading">
-                <h1>Lorem ipsum dolor sit amet, consectetur <span class="subheading-clr">Lorem ipsum,</span></h1>
+                <h1>Transform Your Concepts into Captivating Stories with Our Professional <span class="subheading-clr">Video Animation Services</span></h1>
             </div>
             <div class="col-md-4">
             </div>
@@ -28,8 +28,8 @@
     <div class="container py-5">
         <div class="row align-items-center">
             <div class="col-md-6 innerban-content">
-                <h2>Animated Videos</h2>
-                <p>McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero<br><br>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard</p>
+                <h2>VIDEO ANIMATION HUB</h2>
+                <p>Do you have an immaculate imagination and often come up with out-of-the-box concepts that would mesmerize others? What need a way to materialize your thoughts and a platform to transform your creative ideas into a consumable medium? Our team of skilled video animators is dedicated to bringing your visions to life with creativity and precision. From engaging infomercials and dynamic promotional content to immersive storytelling animations, we offer a comprehensive range of services tailored to your unique needs. Focusing on quality and innovation, we ensure each video animation is visually stunning and effectively communicates your message. Let us help you captivate your audience and elevate your brand with our professional video animation services.</p>
                 <div class="col">
                     <div class="row">
                         <div class="col-md-6">
@@ -51,8 +51,8 @@
     <div class="container-fluid">
         <div class="row">
             <div class="col-md-12 text-center py-5">
-                <h2 class="title-heading">Animated Portfolio</h2>
-                <p class="title-p">We are well aware of the competition. That is the reason why we have a fair pricing<br> model. We ensure quality over quantity on each order.</p>   
+                <h2 class="title-heading">OUR ANIMATION SHOWCASE</h2>
+                <p class="title-p">To effectively tackle the ever-growing competition, we adopt a fair pricing model that prioritizes quality over quantity in every project. <br> Our ultimate goal is your satisfaction, which we strive to achieve by providing stellar services.</p>   
             </div>
             <div class="portfolio-items-box">
             <div class="gallery">
@@ -84,8 +84,8 @@
     <div class="container" >
         <div class="row">
     <div class="text-center pb-5">
-        <h2 class="title-heading">Affordable Packages</h2>
-        <p class="title-p">We are well aware of the competition. That is the reason why we have a fair pricing<br> model. We ensure quality over quantity on each order.</p>   
+        <h2 class="title-heading">SOLUTIONS THAT EASY ON THE POCKET</h2>
+        <p class="title-p">We provide top-notch work without compromising on quality or affordability. <br> Acquire our services without breaking the bank.</p>   
         </div>
             <ul class="project-items">
                 <li>

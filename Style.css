@@ -1547,8 +1547,8 @@ ul.tabs-ul-04 i {
   }
 
   .gallery{
-    aspect-ratio: 0.3;
-    grid-template-columns: repeat(2, auto);
+    aspect-ratio: 0.5;
+    grid-template-columns: repeat(3, auto);
   }
 
 

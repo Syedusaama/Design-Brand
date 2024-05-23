@@ -19,23 +19,20 @@
             <li>
                 <div class="portfolio-items-box">
                     <div class="gallery">
-                        <img src="./assets/images/portfolio/p1.png" alt="a forest after an apocalypse">
-                        <img src="./assets/images/portfolio/P2.jpg" alt="a waterfall and many rocks">
-                        <img src="./assets/images/portfolio/p3.png" alt="a house on a mountain">
-                        <img src="./assets/images/portfolio/p4.png" alt="sime pink flowers">
-                        <img src="./assets/images/portfolio/p5.png" alt="big rocks with some trees">
-                        <img src="./assets/images/portfolio/p6.png" alt="a waterfall, a lot of tree and a great view from the sky">
-                        <img src="./assets/images/portfolio/p7.png" alt="a cool landscape">
-                        <img src="./assets/images/portfolio/p8.png" alt="inside a town between two big buildings">
-                        <img src="./assets/images/portfolio/p9.png" alt="a great view of the sea above the mountain">
-                        <img src="./assets/images/portfolio/p10.png" alt="a great view of the sea above the mountain">
-                        <img src="./assets/images/portfolio/p11.png" alt="a great view of the sea above the mountain">
-                        <img src="./assets/images/portfolio/p12.png" alt="a great view of the sea above the mountain">
-                        <img src="./assets/images/portfolio/p13.png" alt="a great view of the sea above the mountain">
-                        <img src="./assets/images/portfolio/p14.png" alt="a great view of the sea above the mountain">
-                        <img src="./assets/images/portfolio/p15.png" alt="a great view of the sea above the mountain">
+                        <img src="./assets/images/portfolio/b1.png" alt="a forest after an apocalypse">
+                        <img src="./assets/images/portfolio/b2.jpg" alt="a waterfall and many rocks">
+                        <img src="./assets/images/portfolio/l1.png" alt="a house on a mountain">
+                        <img src="./assets/images/portfolio/l2.png" alt="sime pink flowers">
+                        <img src="./assets/images/portfolio/l3.png" alt="big rocks with some trees">
+                        <img src="./assets/images/portfolio/s1.png" alt="a waterfall, a lot of tree and a great view from the sky">
+                        <img src="./assets/images/portfolio/s2.png" alt="a cool landscape">
+                        <img src="./assets/images/portfolio/v1.png" alt="inside a town between two big buildings">
+                        <img src="./assets/images/portfolio/v2.png" alt="a great view of the sea above the mountain">
+                        <img src="./assets/images/portfolio/v3.png" alt="a great view of the sea above the mountain">
+                        <img src="./assets/images/portfolio/w1.png" alt="a great view of the sea above the mountain">
+                        <img src="./assets/images/portfolio/w2.png" alt="a great view of the sea above the mountain">
+                        <img src="./assets/images/portfolio/w3.png" alt="a great view of the sea above the mountain">
                       </div>
-
                 </div>
             </li>
         </ul>
@@ -45,21 +42,19 @@
             <li>
                 <div class="portfolio-items-box">
                     <div class="gallery">
-                        <img src="./assets/images/portfolio/p1.png" alt="a forest after an apocalypse">
-                        <img src="./assets/images/portfolio/P2.jpg" alt="a waterfall and many rocks">
-                        <img src="./assets/images/portfolio/p3.png" alt="a house on a mountain">
-                        <img src="./assets/images/portfolio/p4.png" alt="sime pink flowers">
-                        <img src="./assets/images/portfolio/p5.png" alt="big rocks with some trees">
-                        <img src="./assets/images/portfolio/p6.png" alt="a waterfall, a lot of tree and a great view from the sky">
-                        <img src="./assets/images/portfolio/p7.png" alt="a cool landscape">
-                        <img src="./assets/images/portfolio/p8.png" alt="inside a town between two big buildings">
-                        <img src="./assets/images/portfolio/p9.png" alt="a great view of the sea above the mountain">
-                        <img src="./assets/images/portfolio/p10.png" alt="a great view of the sea above the mountain">
-                        <img src="./assets/images/portfolio/p11.png" alt="a great view of the sea above the mountain">
-                        <img src="./assets/images/portfolio/p12.png" alt="a great view of the sea above the mountain">
-                        <img src="./assets/images/portfolio/p13.png" alt="a great view of the sea above the mountain">
-                        <img src="./assets/images/portfolio/p14.png" alt="a great view of the sea above the mountain">
-                        <img src="./assets/images/portfolio/p15.png" alt="a great view of the sea above the mountain">
+                        <img src="./assets/images/portfolio/b1.png" alt="a forest after an apocalypse">
+                        <img src="./assets/images/portfolio/b2.jpg" alt="a waterfall and many rocks">
+                        <img src="./assets/images/portfolio/l1.png" alt="a house on a mountain">
+                        <img src="./assets/images/portfolio/l2.png" alt="sime pink flowers">
+                        <img src="./assets/images/portfolio/l3.png" alt="big rocks with some trees">
+                        <img src="./assets/images/portfolio/s1.png" alt="a waterfall, a lot of tree and a great view from the sky">
+                        <img src="./assets/images/portfolio/s2.png" alt="a cool landscape">
+                        <img src="./assets/images/portfolio/v1.png" alt="inside a town between two big buildings">
+                        <img src="./assets/images/portfolio/v2.png" alt="a great view of the sea above the mountain">
+                        <img src="./assets/images/portfolio/v3.png" alt="a great view of the sea above the mountain">
+                        <img src="./assets/images/portfolio/w1.png" alt="a great view of the sea above the mountain">
+                        <img src="./assets/images/portfolio/w2.png" alt="a great view of the sea above the mountain">
+                        <img src="./assets/images/portfolio/w3.png" alt="a great view of the sea above the mountain">
                       </div>
                 </div>
         </ul>
@@ -70,21 +65,19 @@
             <li>
                 <div class="portfolio-items-box">
                     <div class="gallery">
-                        <img src="./assets/images/portfolio/p1.png" alt="a forest after an apocalypse">
-                        <img src="./assets/images/portfolio/P2.jpg" alt="a waterfall and many rocks">
-                        <img src="./assets/images/portfolio/p3.png" alt="a house on a mountain">
-                        <img src="./assets/images/portfolio/p4.png" alt="sime pink flowers">
-                        <img src="./assets/images/portfolio/p5.png" alt="big rocks with some trees">
-                        <img src="./assets/images/portfolio/p6.png" alt="a waterfall, a lot of tree and a great view from the sky">
-                        <img src="./assets/images/portfolio/p7.png" alt="a cool landscape">
-                        <img src="./assets/images/portfolio/p8.png" alt="inside a town between two big buildings">
-                        <img src="./assets/images/portfolio/p9.png" alt="a great view of the sea above the mountain">
-                        <img src="./assets/images/portfolio/p10.png" alt="a great view of the sea above the mountain">
-                        <img src="./assets/images/portfolio/p11.png" alt="a great view of the sea above the mountain">
-                        <img src="./assets/images/portfolio/p12.png" alt="a great view of the sea above the mountain">
-                        <img src="./assets/images/portfolio/p13.png" alt="a great view of the sea above the mountain">
-                        <img src="./assets/images/portfolio/p14.png" alt="a great view of the sea above the mountain">
-                        <img src="./assets/images/portfolio/p15.png" alt="a great view of the sea above the mountain">
+                        <img src="./assets/images/portfolio/b1.png" alt="a forest after an apocalypse">
+                        <img src="./assets/images/portfolio/b2.jpg" alt="a waterfall and many rocks">
+                        <img src="./assets/images/portfolio/l1.png" alt="a house on a mountain">
+                        <img src="./assets/images/portfolio/l2.png" alt="sime pink flowers">
+                        <img src="./assets/images/portfolio/l3.png" alt="big rocks with some trees">
+                        <img src="./assets/images/portfolio/s1.png" alt="a waterfall, a lot of tree and a great view from the sky">
+                        <img src="./assets/images/portfolio/s2.png" alt="a cool landscape">
+                        <img src="./assets/images/portfolio/v1.png" alt="inside a town between two big buildings">
+                        <img src="./assets/images/portfolio/v2.png" alt="a great view of the sea above the mountain">
+                        <img src="./assets/images/portfolio/v3.png" alt="a great view of the sea above the mountain">
+                        <img src="./assets/images/portfolio/w1.png" alt="a great view of the sea above the mountain">
+                        <img src="./assets/images/portfolio/w2.png" alt="a great view of the sea above the mountain">
+                        <img src="./assets/images/portfolio/w3.png" alt="a great view of the sea above the mountain">
                       </div>
 
                 </div>
@@ -97,21 +90,19 @@
             <li>
                 <div class="portfolio-items-box">
                     <div class="gallery">
-                        <img src="./assets/images/portfolio/p1.png" alt="a forest after an apocalypse">
-                        <img src="./assets/images/portfolio/P2.jpg" alt="a waterfall and many rocks">
-                        <img src="./assets/images/portfolio/p3.png" alt="a house on a mountain">
-                        <img src="./assets/images/portfolio/p4.png" alt="sime pink flowers">
-                        <img src="./assets/images/portfolio/p5.png" alt="big rocks with some trees">
-                        <img src="./assets/images/portfolio/p6.png" alt="a waterfall, a lot of tree and a great view from the sky">
-                        <img src="./assets/images/portfolio/p7.png" alt="a cool landscape">
-                        <img src="./assets/images/portfolio/p8.png" alt="inside a town between two big buildings">
-                        <img src="./assets/images/portfolio/p9.png" alt="a great view of the sea above the mountain">
-                        <img src="./assets/images/portfolio/p10.png" alt="a great view of the sea above the mountain">
-                        <img src="./assets/images/portfolio/p11.png" alt="a great view of the sea above the mountain">
-                        <img src="./assets/images/portfolio/p12.png" alt="a great view of the sea above the mountain">
-                        <img src="./assets/images/portfolio/p13.png" alt="a great view of the sea above the mountain">
-                        <img src="./assets/images/portfolio/p14.png" alt="a great view of the sea above the mountain">
-                        <img src="./assets/images/portfolio/p15.png" alt="a great view of the sea above the mountain">
+                        <img src="./assets/images/portfolio/b1.png" alt="a forest after an apocalypse">
+                        <img src="./assets/images/portfolio/b2.jpg" alt="a waterfall and many rocks">
+                        <img src="./assets/images/portfolio/l1.png" alt="a house on a mountain">
+                        <img src="./assets/images/portfolio/l2.png" alt="sime pink flowers">
+                        <img src="./assets/images/portfolio/l3.png" alt="big rocks with some trees">
+                        <img src="./assets/images/portfolio/s1.png" alt="a waterfall, a lot of tree and a great view from the sky">
+                        <img src="./assets/images/portfolio/s2.png" alt="a cool landscape">
+                        <img src="./assets/images/portfolio/v1.png" alt="inside a town between two big buildings">
+                        <img src="./assets/images/portfolio/v2.png" alt="a great view of the sea above the mountain">
+                        <img src="./assets/images/portfolio/v3.png" alt="a great view of the sea above the mountain">
+                        <img src="./assets/images/portfolio/w1.png" alt="a great view of the sea above the mountain">
+                        <img src="./assets/images/portfolio/w2.png" alt="a great view of the sea above the mountain">
+                        <img src="./assets/images/portfolio/w3.png" alt="a great view of the sea above the mountain">
                       </div>
 
                 </div>
@@ -126,21 +117,19 @@
             <li>
                 <div class="portfolio-items-box">
                     <div class="gallery">
-                        <img src="./assets/images/portfolio/p1.png" alt="a forest after an apocalypse">
-                        <img src="./assets/images/portfolio/P2.jpg" alt="a waterfall and many rocks">
-                        <img src="./assets/images/portfolio/p3.png" alt="a house on a mountain">
-                        <img src="./assets/images/portfolio/p4.png" alt="sime pink flowers">
-                        <img src="./assets/images/portfolio/p5.png" alt="big rocks with some trees">
-                        <img src="./assets/images/portfolio/p6.png" alt="a waterfall, a lot of tree and a great view from the sky">
-                        <img src="./assets/images/portfolio/p7.png" alt="a cool landscape">
-                        <img src="./assets/images/portfolio/p8.png" alt="inside a town between two big buildings">
-                        <img src="./assets/images/portfolio/p9.png" alt="a great view of the sea above the mountain">
-                        <img src="./assets/images/portfolio/p10.png" alt="a great view of the sea above the mountain">
-                        <img src="./assets/images/portfolio/p11.png" alt="a great view of the sea above the mountain">
-                        <img src="./assets/images/portfolio/p12.png" alt="a great view of the sea above the mountain">
-                        <img src="./assets/images/portfolio/p13.png" alt="a great view of the sea above the mountain">
-                        <img src="./assets/images/portfolio/p14.png" alt="a great view of the sea above the mountain">
-                        <img src="./assets/images/portfolio/p15.png" alt="a great view of the sea above the mountain">
+                        <img src="./assets/images/portfolio/b1.png" alt="a forest after an apocalypse">
+                        <img src="./assets/images/portfolio/b2.jpg" alt="a waterfall and many rocks">
+                        <img src="./assets/images/portfolio/l1.png" alt="a house on a mountain">
+                        <img src="./assets/images/portfolio/l2.png" alt="sime pink flowers">
+                        <img src="./assets/images/portfolio/l3.png" alt="big rocks with some trees">
+                        <img src="./assets/images/portfolio/s1.png" alt="a waterfall, a lot of tree and a great view from the sky">
+                        <img src="./assets/images/portfolio/s2.png" alt="a cool landscape">
+                        <img src="./assets/images/portfolio/v1.png" alt="inside a town between two big buildings">
+                        <img src="./assets/images/portfolio/v2.png" alt="a great view of the sea above the mountain">
+                        <img src="./assets/images/portfolio/v3.png" alt="a great view of the sea above the mountain">
+                        <img src="./assets/images/portfolio/w1.png" alt="a great view of the sea above the mountain">
+                        <img src="./assets/images/portfolio/w2.png" alt="a great view of the sea above the mountain">
+                        <img src="./assets/images/portfolio/w3.png" alt="a great view of the sea above the mountain">
                       </div>
 
                 </div>
@@ -153,21 +142,19 @@
             <li>
                 <div class="portfolio-items-box">
                     <div class="gallery">
-                        <img src="./assets/images/portfolio/p1.png" alt="a forest after an apocalypse">
-                        <img src="./assets/images/portfolio/P2.jpg" alt="a waterfall and many rocks">
-                        <img src="./assets/images/portfolio/p3.png" alt="a house on a mountain">
-                        <img src="./assets/images/portfolio/p4.png" alt="sime pink flowers">
-                        <img src="./assets/images/portfolio/p5.png" alt="big rocks with some trees">
-                        <img src="./assets/images/portfolio/p6.png" alt="a waterfall, a lot of tree and a great view from the sky">
-                        <img src="./assets/images/portfolio/p7.png" alt="a cool landscape">
-                        <img src="./assets/images/portfolio/p8.png" alt="inside a town between two big buildings">
-                        <img src="./assets/images/portfolio/p9.png" alt="a great view of the sea above the mountain">
-                        <img src="./assets/images/portfolio/p10.png" alt="a great view of the sea above the mountain">
-                        <img src="./assets/images/portfolio/p11.png" alt="a great view of the sea above the mountain">
-                        <img src="./assets/images/portfolio/p12.png" alt="a great view of the sea above the mountain">
-                        <img src="./assets/images/portfolio/p13.png" alt="a great view of the sea above the mountain">
-                        <img src="./assets/images/portfolio/p14.png" alt="a great view of the sea above the mountain">
-                        <img src="./assets/images/portfolio/p15.png" alt="a great view of the sea above the mountain">
+                        <img src="./assets/images/portfolio/b1.png" alt="a forest after an apocalypse">
+                        <img src="./assets/images/portfolio/b2.jpg" alt="a waterfall and many rocks">
+                        <img src="./assets/images/portfolio/l1.png" alt="a house on a mountain">
+                        <img src="./assets/images/portfolio/l2.png" alt="sime pink flowers">
+                        <img src="./assets/images/portfolio/l3.png" alt="big rocks with some trees">
+                        <img src="./assets/images/portfolio/s1.png" alt="a waterfall, a lot of tree and a great view from the sky">
+                        <img src="./assets/images/portfolio/s2.png" alt="a cool landscape">
+                        <img src="./assets/images/portfolio/v1.png" alt="inside a town between two big buildings">
+                        <img src="./assets/images/portfolio/v2.png" alt="a great view of the sea above the mountain">
+                        <img src="./assets/images/portfolio/v3.png" alt="a great view of the sea above the mountain">
+                        <img src="./assets/images/portfolio/w1.png" alt="a great view of the sea above the mountain">
+                        <img src="./assets/images/portfolio/w2.png" alt="a great view of the sea above the mountain">
+                        <img src="./assets/images/portfolio/w3.png" alt="a great view of the sea above the mountain">
                       </div>
 
                 </div>
@@ -179,21 +166,19 @@
             <li>
                 <div class="portfolio-items-box">
                     <div class="gallery">
-                        <img src="./assets/images/portfolio/p1.png" alt="a forest after an apocalypse">
-                        <img src="./assets/images/portfolio/P2.jpg" alt="a waterfall and many rocks">
-                        <img src="./assets/images/portfolio/p3.png" alt="a house on a mountain">
-                        <img src="./assets/images/portfolio/p4.png" alt="sime pink flowers">
-                        <img src="./assets/images/portfolio/p5.png" alt="big rocks with some trees">
-                        <img src="./assets/images/portfolio/p6.png" alt="a waterfall, a lot of tree and a great view from the sky">
-                        <img src="./assets/images/portfolio/p7.png" alt="a cool landscape">
-                        <img src="./assets/images/portfolio/p8.png" alt="inside a town between two big buildings">
-                        <img src="./assets/images/portfolio/p9.png" alt="a great view of the sea above the mountain">
-                        <img src="./assets/images/portfolio/p10.png" alt="a great view of the sea above the mountain">
-                        <img src="./assets/images/portfolio/p11.png" alt="a great view of the sea above the mountain">
-                        <img src="./assets/images/portfolio/p12.png" alt="a great view of the sea above the mountain">
-                        <img src="./assets/images/portfolio/p13.png" alt="a great view of the sea above the mountain">
-                        <img src="./assets/images/portfolio/p14.png" alt="a great view of the sea above the mountain">
-                        <img src="./assets/images/portfolio/p15.png" alt="a great view of the sea above the mountain">
+                        <img src="./assets/images/portfolio/b1.png" alt="a forest after an apocalypse">
+                        <img src="./assets/images/portfolio/b2.jpg" alt="a waterfall and many rocks">
+                        <img src="./assets/images/portfolio/l1.png" alt="a house on a mountain">
+                        <img src="./assets/images/portfolio/l2.png" alt="sime pink flowers">
+                        <img src="./assets/images/portfolio/l3.png" alt="big rocks with some trees">
+                        <img src="./assets/images/portfolio/s1.png" alt="a waterfall, a lot of tree and a great view from the sky">
+                        <img src="./assets/images/portfolio/s2.png" alt="a cool landscape">
+                        <img src="./assets/images/portfolio/v1.png" alt="inside a town between two big buildings">
+                        <img src="./assets/images/portfolio/v2.png" alt="a great view of the sea above the mountain">
+                        <img src="./assets/images/portfolio/v3.png" alt="a great view of the sea above the mountain">
+                        <img src="./assets/images/portfolio/w1.png" alt="a great view of the sea above the mountain">
+                        <img src="./assets/images/portfolio/w2.png" alt="a great view of the sea above the mountain">
+                        <img src="./assets/images/portfolio/w3.png" alt="a great view of the sea above the mountain">
                       </div>
 
                 </div>

@@ -13,7 +13,7 @@
     <div class="inner-bann-heading">
         <div class="row">
         <div class="col-md-8 inner-bann-heading">
-                <h1>Crafting Creativity, Shaping Success:  <span class="subheading-clr">Your Design Destination</span></h1>
+                <h1>Crafting Creativity, Shaping Success: Your <span class="subheading-clr">Design Destination</span></h1>
             </div>
             <div class="col-md-4">
             </div>

@@ -13,7 +13,7 @@
     <div class="inner-bann-heading">
         <div class="row">
         <div class="col-md-8 inner-bann-heading">
-                <h1>Lorem ipsum dolor sit amet, consectetur <span class="subheading-clr">Lorem ipsum,</span></h1>
+                <h1>Let's Bring Your Vision to Life: <span class="subheading-clr">Contact Us</span> Today!</h1>
             </div>
             <div class="col-md-4">
             </div>
@@ -31,8 +31,8 @@
                 <div class="contact-page__right">
                     <form action="https://golbalpublishingagency.com/assets/inc/sendemail.php" class="comment-one__form contact-form-validated" novalidate="novalidate">
                         <div class="contact-content">
-                            <h1>Let’s Connect</h1>
-                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae, rerum.</p>
+                            <h1>Let's sync up</h1>
+                            <p>Transform Your Vision into Reality - Get in Touch with Us Now!</p>
                         </div>
                         <div class="color-contact">
                         <div class="row">

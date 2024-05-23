@@ -13,7 +13,7 @@
     <div class="inner-bann-heading">
         <div class="row">
         <div class="col-md-8 inner-bann-heading">
-                <h1>Lorem ipsum dolor sit amet, consectetur <span class="subheading-clr">Lorem ipsum,</span></h1>
+                <h1>Give Your Business Wings with  <span class="subheading-clr">Branding.</span></h1>
             </div>
             <div class="col-md-4">
             </div>
@@ -28,8 +28,8 @@
     <div class="container py-5">
         <div class="row align-items-center">
             <div class="col-md-6 innerban-content">
-                <h2>Branding</h2>
-                <p>McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero<br><br>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard</p>
+                <h2>Put your trust in the Power of Branding</h2>
+                <p>A strong brand identity is essential for standing out and leaving a lasting impression in the cutthroat market of today. Our specialty at Global Design Agency is developing compelling brand stories that connect with your target market. In close collaboration with you, our team of experts will create a unified brand strategy that embodies the goals and core values of your company through visual elements, messages and logo design. With our customized solutions, enhance your brand and watch as your company reaches new heights. Let's aim to create a brand that not only attracts but also inspires loyalty and trust.</p>
                 <div class="col">
                     <div class="row">
                         <div class="col-md-6">
@@ -51,8 +51,8 @@
     <div class="container-fluid">
         <div class="row">
             <div class="col-md-12 text-center py-5">
-                <h2 class="title-heading">Branding Portfolio</h2>
-                <p class="title-p">We are well aware of the competition. That is the reason why we have a fair pricing<br> model. We ensure quality over quantity on each order.</p>   
+                <h2 class="title-heading">Let us Showcase your Brand for you</h2>
+                <p class="title-p">Collabrate with us and watch our branding expertise transforms businesses into <br> unforgettable brands</p>   
             </div>
             <div class="portfolio-items-box">
             <div class="gallery">
@@ -84,7 +84,7 @@
     <div class="container" >
         <div class="row">
     <div class="text-center pb-5">
-        <h2 class="title-heading">Affordable Packages</h2>
+        <h2 class="title-heading">We are not only friendly but also budget-friendly</h2>
         <p class="title-p">We are well aware of the competition. That is the reason why we have a fair pricing<br> model. We ensure quality over quantity on each order.</p>   
         </div>
             <ul class="project-items">

@@ -13,7 +13,7 @@
     <div class="inner-bann-heading">
         <div class="row">
             <div class="col-md-8 inner-bann-heading">
-                <h1>Shaping Positive Perspectives with <span class="subheading-clr">Our Logo Design</span></h1>
+                <h1>Shaping Positive Perspectives with Our <span class="subheading-clr">Logo Design</span></h1>
             </div>
             <div class="col-md-4">
             </div>

@@ -11,9 +11,7 @@
                     <h3 class="">Menu</h3>
                     <ul class="list-style">
                     <li><a href="./about-us.php">About Us</a></li>
-                    <li><a href="#">Portfolio</a></li>
-                    <li><a href="#">Pricing</a></li>
-                    <li><a href="#">Combo Packages</a></li>
+                    <li><a href="./reviews.php">Reviews</a></li>
                     <li><a href="./contact.php">Contact us</a></li>
                     <li><a href="#">Terms & Condition</a></li>
                     <li><a href="#">Privacy Policy</a></li>

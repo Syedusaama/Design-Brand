@@ -26,7 +26,7 @@
                 </div> -->
             </div>
             <div class="col-md-6">
-                <h1 class="banner-h1">EPOWER YOUR BRAND PARTNER <br> WITH US FOR GROWTH</h1>
+                <h1 class="banner-h1">EMPOWER YOUR BRAND PARTNER <br> WITH US FOR GROWTH</h1>
                 <video autoplay loop muted poster="" class="youtube">
                     <source src="./assets/images/main-video.mp4" type="video/mp4">
                     Your browser does not support the video tag.

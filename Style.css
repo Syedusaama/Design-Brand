@@ -320,13 +320,13 @@ header {
     padding-right: 50px;
 }
 
-.dropdown-item:focus, .dropdown-item:hover {
+.dropdown-item:hover {
     color: #fff !important;
-    background-color: #FD5605 !important;
+    background-color: transparent !important;
 }
-.dropdown-menu{
+/* .dropdown-menu{
     padding: 0px !important;
-}
+} */
 .dropdown-item{
     margin-bottom: 5px !important;
     padding: 8px 10px !important;
@@ -358,6 +358,10 @@ header {
     font-weight: 500;
     color: #000;
 }
+.nav-box-p{
+    font-size: 12px;
+    color: #000;
+}
 
 .title-p-white{
     font-size: 20px;
@@ -368,6 +372,24 @@ header {
 /* -----------------------Page Headings Css------------------- */
 
 /* -----------------------Header Css------------------- */
+.nav-box{
+    border: 1px solid #fd5605;
+    padding: 10px;
+    border-radius: 12px;
+    margin: 10px;
+}
+.nav-box:hover{
+    background-color: #fd5605;
+    color: #fff;
+    cursor: pointer;
+    transition: 0.6s ease;
+}
+.nav-box:hover a{
+    color: #fff;
+}
+.nav-box:hover p{
+    color: #fff;
+}
 
 .header-color{
     background-color: #fff;
@@ -392,10 +414,41 @@ header {
     background-color: transparent;
     color: #FD5605;
 }
-
+.dropdown-menu.show {
+    padding: 20px;
+}
+.megamenu {
+    position: relative;
+    background: linear-gradient(240deg, #ffffff, #ffffff00), url(./images/menu-back.png);
+    background-position: -15% bottom, 24% bottom;
+    background-size: 49%, 18%;
+    background-repeat: no-repeat, no-repeat;
+    background-color: #ffffff;
+    width: 800px;
+    border-radius: 12px;
+}
+.megamenu::after {
+    content: "";
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-image: url(./images/donut-3d-7.png);
+    background-position: 110% -23%;
+    background-size: 32%;
+    background-repeat: no-repeat;
+    opacity: 0.5;
+    z-index: -1;
+}
+.dropdown-menu[data-bs-popper] {
+    left: -300px !important;
+}
 /* -----------------------Header Css------------------- */
 
 /* -----------------------Banner Css------------------- */
+
 .logos{
     display: flex;
     flex-direction: column;
@@ -406,7 +459,7 @@ header {
     padding-bottom: 10px;
 }
 .banner-h1{
-    font-size: 48px;
+    font-size: 45px;
     font-weight: bold;
     color: #fff;
 }

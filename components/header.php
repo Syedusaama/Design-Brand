@@ -17,16 +17,46 @@
                     <a class="nav-link" href="./about-us.php">About us</a>
                 </li>
                 <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" >
                     Services
                     </a>
-                    <div class="dropdown-menu megamenu" aria-labelledby="navbarDropdown">
-                    <a class="dropdown-item" href="./logo-design.php">Logo design</a>
-                    <a class="dropdown-item" href="./branding.php">Branding</a>
-                    <a class="dropdown-item" href="./web-design-development.php">Web design & development</a>
-                    <a class="dropdown-item" href="./animated-video.php">Video animation</a>
-                    <a class="dropdown-item" href="./brand-marketing.php">Brand marketing</a>
-                    <a class="dropdown-item" href="./social-media.php">Social Media</a>
+                    <div class="dropdown-menu megamenu" aria-labelledby="navbarDropdown" data-bs-popper="none">
+                        <div class="row">
+                            <div class="col nav-box">
+                            <img src="./assets/images/logos/facebook.png" alt="">
+                            <a class="dropdown-item" href="./logo-design.php">Logo design</a>
+                            <p class="nav-box-p">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Molestiae, magni!</p>
+                            </div>
+                            <div class="col nav-box">
+                            <img src="./assets/images/logos/facebook.png" alt="">
+                            <a class="dropdown-item" href="./logo-design.php">Logo design</a>
+                            <p class="nav-box-p">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Molestiae, magni!</p>
+                            </div>
+                            <div class="col nav-box">
+                            <img src="./assets/images/logos/facebook.png" alt="">
+                            <a class="dropdown-item" href="./logo-design.php">Logo design</a>
+                            <p class="nav-box-p">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Molestiae, magni!</p>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col nav-box">
+                            <img src="./assets/images/logos/facebook.png" alt="">
+                            <a class="dropdown-item" href="./logo-design.php">Logo design</a>
+                            <p class="nav-box-p">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Molestiae, magni!</p>
+                            </div>
+                            <div class="col nav-box">
+                            <img src="./assets/images/logos/facebook.png" alt="">
+                            <a class="dropdown-item" href="./logo-design.php">Logo design</a>
+                            <p class="nav-box-p">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Molestiae, magni!</p>
+                            </div>
+                            <div class="col nav-box">
+                            <img src="./assets/images/logos/facebook.png" alt="">
+                            <a class="dropdown-item" href="./logo-design.php">Logo design</a>
+                            <p class="nav-box-p">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Molestiae, magni!</p>
+                            </div>
+                        </div>
+
+
                     <!-- <div class="dropdown-divider"></div> -->
                     </div>
                 </li>

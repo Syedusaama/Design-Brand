@@ -14,25 +14,25 @@
                 <lord-icon src="https://cdn.lordicon.com/wzwygmng.json" trigger="hover" colors="primary:#fd5605,secondary:#fd5605" style="width:150px;height:150px">
                 </lord-icon>
                 <h4 class="">Design Brief</h4>
-                <p class="">Lorem Ipsum is simply dummy text of the printing and typesetting industry. </p>
+                <p class="">Our design brief outlines your vision and project goals, ensuring a clear direction for our collaboration.</p>
             </div>
             <div class="col-md-3 work-content">
                 <lord-icon src="https://cdn.lordicon.com/rehjpyyh.json" trigger="hover" colors="primary:#fd5605,secondary:#fd5605" style="width:150px;height:150px">
                 </lord-icon>
                 <h4 class="">Sketch</h4>
-                <p class="">Lorem Ipsum is simply dummy text of the printing and typesetting industry. </p>
+                <p class="">In this step, we translate your vision into initial design sketches for further directions.</p>
             </div>
             <div class="col-md-3 work-content">
                 <lord-icon src="https://cdn.lordicon.com/uecgmesg.json" trigger="hover" colors="primary:#fd5605,secondary:#fd5605" style="width:150px;height:150px">
                 </lord-icon>
                 <h4 class="">Revision</h4>
-                <p class="">Lorem Ipsum is simply dummy text of the printing and typesetting industry. </p>
+                <p class="">In this step, we translate your vision into initial design sketches for further directions.</p>
             </div>
             <div class="col-md-3 work-content">
                 <lord-icon src="https://cdn.lordicon.com/ofwxettw.json" trigger="hover" colors="primary:#fd5605,secondary:#fd5605" style="width:150px;height:150px">
                 </lord-icon>
                 <h4 class="">Final Delivery</h4>
-                <p class="">Lorem Ipsum is simply dummy text of the printing and typesetting industry. </p>
+                <p class="">After approval, we ensure delivery of polished designs, ready for implementation.</p>
             </div>
         </div>
     </div>

@@ -415,7 +415,7 @@ header {
 @keyframes focus-in-contract-bck{0%{letter-spacing:1em;transform:translateZ(300px);filter:blur(12px);opacity:0}100%{transform:translateZ(12px);filter:blur(0);opacity:1}}
   
 .main-banner{
-    background-image: url(./assets/images/Main-banner.png);
+    background-image: url(./assets/images/main-ban.png);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;

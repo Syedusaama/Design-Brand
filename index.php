@@ -26,17 +26,24 @@
                 </div> -->
             </div>
             <div class="col-md-6">
-                <h1 class="banner-h1">EPOWER YOUR BRAND <br> PARTNER WITH US FOR GROWTH</h1>
+                <h1 class="banner-h1">EPOWER YOUR BRAND PARTNER <br> WITH US FOR GROWTH</h1>
                 <video autoplay loop muted poster="" class="youtube">
                     <source src="./assets/images/main-video.mp4" type="video/mp4">
                     Your browser does not support the video tag.
                 </video>
                 <img class="banner-hand" src="./assets/images/banner-frame.png" alt="">
+                <div>
                 <a href="./about-us.php" class="banner-btn">Discover More</a>    
-                <img class="shapes1" src="./assets/images/cube_3d_shape.png" alt="">
+                </div>
+                <!-- <img class="shapes1" src="./assets/images/cube_3d_shape.png" alt="">
                 <img class="shapes2" src="./assets/images/cone_3d_shape.png" alt=""> 
-                <img class="shapes3" src="./assets/images/donut_3d_shape.png" alt="">
+                <img class="shapes3" src="./assets/images/donut_3d_shape.png" alt=""> -->
             </div>
+            <!-- <div class="col-md-6">
+                <video autoplay loop muted>
+                <source src="./assets/images/Sequence.mp4" type="video/mp4">
+                </video>
+            </div> -->
             <div class="col-md-3 right-img-container">
               <!-- <div class="col left-shapes">
                     <img class="shapes3" src="./assets/images/donut_3d_shape.png" alt="">

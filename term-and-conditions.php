@@ -8,12 +8,12 @@
 <?php include "./components/header.php"?>
 <!-- Main Header -->
 <!-- Banner -->
-<section class="inner-banner5">
+<section class="term-banner">
     <div>
     <div class="inner-bann-heading">
         <div class="row">
         <div class="col-md-8 inner-bann-heading">
-                <h1>Transform Your Concepts into Captivating Stories with Our Professional <span class="subheading-clr">Video Animation </span>Services</h1>
+                <h1>Term & <span class="subheading-clr">Conditions</span></h1>
             </div>
             <div class="col-md-4">
             </div>

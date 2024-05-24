@@ -13,7 +13,7 @@
     <div class="inner-bann-heading">
         <div class="row">
         <div class="col-md-8 inner-bann-heading">
-                <h1>Design Dreams Delivered: Hear What  <span class="subheading-clr">Our Clients </span>Have to Say!</h1>
+                <h1>Voices Of <span class="subheading-clr">Satisfaction </span>, Real Stories & Real Results </h1>
             </div>
             <div class="col-md-4">
             </div>

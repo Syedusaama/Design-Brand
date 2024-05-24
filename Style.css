@@ -1379,7 +1379,15 @@ ul.tabs-ul-04 i {
 
 /* -----------------------Contact section Css------------------- */
 /* -----------------------Term and condition section Css------------------- */
-
+.term-banner{
+    background-image: url(./assets/images/main-banner.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 300px;
+    padding-bottom: 300px;
+    margin-top: -120px;
+}
 .term-background{
     background-color: #F6F9F8;
     padding: 20px 0px;

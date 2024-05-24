@@ -13,7 +13,7 @@
     <div class="inner-bann-heading">
         <div class="row">
         <div class="col-md-8 inner-bann-heading">
-                <h1>Design Dreams Come True: Follow Us for <span class="subheading-clr">Inspiration!</span></h1>
+                <h1>Unlock the Power of <span class="subheading-clr">Social</span> Let’s Boost Your Online Impact</h1>
             </div>
             <div class="col-md-4">
             </div>

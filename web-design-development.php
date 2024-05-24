@@ -13,7 +13,7 @@
     <div class="inner-bann-heading">
         <div class="row">
         <div class="col-md-8 inner-bann-heading">
-                <h1>Developing Your Online Identity, Bit by Bit - With Our <span class="subheading-clr">Website Design</span> and <span class="subheading-clr">Development<span></h1>
+                <h1>Your Vision, Our <span class="subheading-clr">Code Building</span> Awesome Sites, One Click at a Time</h1>
             </div>
             <div class="col-md-4">
             </div>

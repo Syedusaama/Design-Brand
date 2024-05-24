@@ -11,9 +11,7 @@
     <div class="container">
         <div class="row">
             <div class="col-md-3 work-content">
-                <!-- <lord-icon src="https://cdn.lordicon.com/wzwygmng.json" trigger="hover" colors="primary:#fd5605,secondary:#fd5605" style="width:150px;height:150px">
-                </lord-icon> -->
-                <lord-icon src="https://cdn.lordicon.com/fmonzaoy.json" trigger="loop" delay="2000" colors="primary:#fd5605,secondary:#fd5605" style="width:80px;height:80px">
+                <lord-icon src="https://cdn.lordicon.com/wzwygmng.json" trigger="hover" colors="primary:#fd5605,secondary:#fd5605" style="width:150px;height:150px">
                 </lord-icon>
                 <h4 class="">Design Brief</h4>
                 <p class="">Our design brief outlines your vision and project goals, ensuring a clear direction for our collaboration.</p>

@@ -13,7 +13,7 @@
     <div class="inner-bann-heading">
         <div class="row">
         <div class="col-md-8 inner-bann-heading">
-                <h1>Transform Your Concepts into Captivating Stories with Our Professional <span class="subheading-clr">Video Animation </span>Services</h1>
+                <h1>Lights, Pixels, <span class="subheading-clr">Animations</span>, Crafting Visual Wonders One Frame at a Time</h1>
             </div>
             <div class="col-md-4">
             </div>

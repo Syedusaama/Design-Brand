@@ -273,6 +273,10 @@ button {
 
 
 /*header css*/
+.lord-img-w{
+    width: 80px;
+    height: 80px;
+}
 
 header {
     -webkit-transition: all 0.4s ease-In-out;
@@ -1513,6 +1517,24 @@ ul.tabs-ul-04 i {
 @media only screen and (max-width: 600px) {
 
     /* Header and Banner */
+
+    .dropdown-menu.show{
+        width: 300px !important;
+    }
+    .nav-box{
+        padding: 0px;
+    }
+    .nav-box a{
+        font-size: 11px;
+    }
+    .nav-box-p{
+        font-size: 10px;
+        margin: 0px;
+    }
+    .lord-img-w{
+        width: 40px;
+        height: 40px;
+    }
     .header-color {
         background-color: #fff;
         border-radius: 12px;
@@ -1779,6 +1801,47 @@ ul.tabs-ul-04 i {
 .about-content p{
     font-size: 16px;
 }
+.inner-banner1{
+    padding: 200px 0px;
+}
+.inner-banner2{
+    padding: 200px 0px;
+}
+.inner-banner3{
+    padding: 200px 0px;
+}
+.inner-banner4{
+    padding: 200px 0px;
+}
+.inner-banner5{
+    padding: 200px 0px;
+}
+.inner-banner6{
+    padding: 200px 0px;
+}
+.inner-banner7{
+    padding: 200px 0px;
+}
+.inner-fifth-secbanner{
+    padding: 50px 0px;
+}
+.term-banner{
+    padding: 200px 0px;
+}
+.privacy-banner{
+    padding: 200px 0px;
+}
+.innerpage-rightimg img{
+    min-width: 200px;
+}
+.innerban-content h2{
+    font-size: 30px;
+}
+.innerban-content p{
+    font-size: 16px;
+    padding: 0px
+}
+
 /* -----------------------Inner pages Css------------------- */
 
 

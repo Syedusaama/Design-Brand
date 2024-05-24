@@ -13,7 +13,7 @@
     <div class="inner-bann-heading">
         <div class="row">
         <div class="col-md-8 inner-bann-heading">
-                <h1>Give Your Business Wings with  <span class="subheading-clr">Branding.</span></h1>
+                <h1>Stand Out in the Market with Our Expert <span class="subheading-clr">Branding</span> Services</h1>
             </div>
             <div class="col-md-4">
             </div>

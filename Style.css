@@ -1446,15 +1446,17 @@ ul.tabs-ul-04 i {
     margin: 0 auto;
 }
 .footer-body img{
-    padding-bottom: 20px;
+    padding-bottom: 8px;
 }
 .footer-body p{
     color: #fff;
 }
-
-.footer-inner-box{
-    padding-left: 40px;
+.logotext-box{
+    padding-right: 70px;
 }
+/* .footer-inner-box{
+    padding-left: 40px;
+} */
 .footer-inner-box h3{
     color: #FD5605;
 }

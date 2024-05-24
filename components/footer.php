@@ -1,12 +1,14 @@
 <section class="main-footer">
     <div class="footer-body">
         <div class="row">
-            <div class="col-lg-3">
+            <div class="col-lg-4">
+                <div class="logotext-box">
                 <img src="./assets/images/footer-logo.png" alt="">
                 <p>We're your all-in-one digital team, specializing in branding, marketing, web design, and development. From startups to established businesses, we've got you covered every step of the way.</p>
             </p>
+            </div>
         </div>
-            <div class="col-lg-3">
+            <div class="col-lg-2">
                 <div class="footer-inner-box">
                     <h3 class="">Menu</h3>
                     <ul class="list-style">

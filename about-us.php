@@ -54,7 +54,7 @@
             <img src="./assets/images/about-second.webp" alt="">
             </div>
             <div class="col-md-6 about-content">
-                <h2>Discover Your Design Potential with <br>Global Design Agency!</h2>
+                <h2>Discover Your Design Potential</h2>
                 <p>At Global Design Agency, our mission is to revolutionize digital experiences through inspired design solutions. We empower clients by fostering creativity, forging connections, and surpassing expectations, ensuring they stand out in a dynamic market.We envision leading the way in innovative design solutions, inspiring creativity, and driving digital transformation. At Global Design Agency, we see a future where our exceptional design experiences empower businesses and individuals to thrive and leave a lasting impact.</p>
                 <!-- <h2>Vision</h2>
                 <p>We envision leading the way in innovative design solutions, inspiring creativity, and driving digital transformation. At Global Design Agency, we see a future where our exceptional design experiences empower businesses and individuals to thrive and leave a lasting impact.</p> -->

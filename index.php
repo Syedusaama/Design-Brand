@@ -168,7 +168,7 @@
 <section class="bg-testimonials">
 <div class="container">
     <div class="testimonial-heading">
-        <h2 class="title-heading-white">Your Voice Matters: Feedback that Drives Improvement</h2>
+        <h2 class="title-heading-white">We'd love to hear your feedback!</h2>
     </div>
     <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
         <div class="carousel-inner width">

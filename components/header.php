@@ -23,34 +23,40 @@
                     <div class="dropdown-menu megamenu" aria-labelledby="navbarDropdown" data-bs-popper="none">
                         <div class="row">
                             <div class="col nav-box">
-                            <img src="./assets/images/logos/facebook.png" alt="">
+                            <lord-icon src="https://cdn.lordicon.com/yozrzjer.json" trigger="loop" delay="2000" colors="primary:#fd5605,secondary:#fd5605" style="width:80px;height:80px">
+                            </lord-icon>
                             <a class="dropdown-item" href="./logo-design.php">Logo design</a>
                             <p class="nav-box-p">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Molestiae, magni!</p>
                             </div>
                             <div class="col nav-box">
-                            <img src="./assets/images/logos/facebook.png" alt="">
+                            <lord-icon src="https://cdn.lordicon.com/yozrzjer.json" trigger="loop" delay="2000" colors="primary:#fd5605,secondary:#fd5605" style="width:80px;height:80px">
+                            </lord-icon>
                             <a class="dropdown-item" href="./logo-design.php">Logo design</a>
                             <p class="nav-box-p">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Molestiae, magni!</p>
                             </div>
                             <div class="col nav-box">
-                            <img src="./assets/images/logos/facebook.png" alt="">
+                            <lord-icon src="https://cdn.lordicon.com/yozrzjer.json" trigger="loop" delay="2000" colors="primary:#fd5605,secondary:#fd5605" style="width:80px;height:80px">
+                            </lord-icon>
                             <a class="dropdown-item" href="./logo-design.php">Logo design</a>
                             <p class="nav-box-p">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Molestiae, magni!</p>
                             </div>
                         </div>
                         <div class="row">
                             <div class="col nav-box">
-                            <img src="./assets/images/logos/facebook.png" alt="">
+                            <lord-icon src="https://cdn.lordicon.com/yozrzjer.json" trigger="loop" delay="2000" colors="primary:#fd5605,secondary:#fd5605" style="width:80px;height:80px">
+                            </lord-icon>
                             <a class="dropdown-item" href="./logo-design.php">Logo design</a>
                             <p class="nav-box-p">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Molestiae, magni!</p>
                             </div>
                             <div class="col nav-box">
-                            <img src="./assets/images/logos/facebook.png" alt="">
+                            <lord-icon src="https://cdn.lordicon.com/yozrzjer.json" trigger="loop" delay="2000" colors="primary:#fd5605,secondary:#fd5605" style="width:80px;height:80px">
+                            </lord-icon>
                             <a class="dropdown-item" href="./logo-design.php">Logo design</a>
                             <p class="nav-box-p">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Molestiae, magni!</p>
                             </div>
                             <div class="col nav-box">
-                            <img src="./assets/images/logos/facebook.png" alt="">
+                            <lord-icon src="https://cdn.lordicon.com/yozrzjer.json" trigger="loop" delay="2000" colors="primary:#fd5605,secondary:#fd5605" style="width:80px;height:80px">
+                            </lord-icon>
                             <a class="dropdown-item" href="./logo-design.php">Logo design</a>
                             <p class="nav-box-p">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Molestiae, magni!</p>
                             </div>

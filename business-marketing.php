@@ -13,7 +13,7 @@
     <div class="inner-bann-heading">
         <div class="row">
         <div class="col-md-8 inner-bann-heading">
-                <h1>Transforming Businesses into Icons with Expert  <span class="subheading-clr">Brand Marketing</span></h1>
+                <h1>Transforming Businesses into Icons with Expert  <span class="subheading-clr">Business Marketing</span></h1>
             </div>
             <div class="col-md-4">
             </div>
@@ -28,7 +28,7 @@
     <div class="container py-5">
         <div class="row align-items-center">
             <div class="col-md-6 innerban-content">
-                <h2>OUR BRAND MARAKETING HUB</h2>
+                <h2>OUR BUSINESS MARAKETING HUB</h2>
                 <p>To excel in a competitive market, you need a strategic approach to building your brand and standing out. Creating and maintaining a strong, positive perception of your products or services in consumers' minds is essential. Our brand marketing service is designed to elevate your business and make your brand shine in today's crowded marketplace. We specialize in crafting comprehensive marketing strategies that highlight your unique value and resonate deeply with your target audience.<br>Our team of experts blends creativity with data-driven insights to develop campaigns that drive engagement, increase visibility, and foster customer loyalty. Partner with us to transform your brand's presence and achieve lasting success in your industry. Let us help you tell your story and connect with your audience like never before. </p>
                 <div class="col">
                     <div class="row">

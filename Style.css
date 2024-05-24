@@ -1373,6 +1373,42 @@ ul.tabs-ul-04 i {
 
 /* -----------------------Contact section Css------------------- */
 
+.term-background{
+    background-color: #F6F9F8;
+    padding: 20px 0px;
+}
+.content-area-com{
+    width: 1110px !important;
+    margin: 0 auto;
+}
+
+
+.content-area-com h5{
+    font-size: 30px;
+    font-weight: 600;
+    color: #000;
+    padding: 10px 0px;
+}
+.content-area-com p{
+    font-size: 16px;
+    color: #000;
+    padding: 0px;
+    margin: 0px;
+}
+.ul-tabss{
+    font-size: 16px;
+    padding-bottom: 10px;
+    list-style: none;
+    text-align: left;
+}
+.ul-tabss i {
+    color: #FD5605;
+    padding-right: 8px;
+}
+
+
+
+
 /* -----------------------Footer Css------------------- */
 .main-footer{
     background-image: url(./assets/images/footer-background.png);

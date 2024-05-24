@@ -28,7 +28,7 @@
     <div class="container">
         <div class="row align-items-center ">
             <div class="col-md-6 about-content">
-                <h2>About Global Design Agency</h2>
+                <h2>Designing Beyond Boundaries</h2>
                 <p>Welcome to Global Design Agency, where creativity meets functionality. We are a passionate team of designers, developers, and marketers dedicated to bringing your vision to life. With a focus on innovation and excellence, we strive to exceed expectations and deliver tailored solutions that resonate with your audience. Whether you're a startup looking to establish your brand or an established business seeking to refresh your online presence, we're here to help you navigate the ever-evolving digital landscape. Let's collaborate and create something extraordinary together!</p>
                 <div class="col">
                     <div class="row">
@@ -54,10 +54,10 @@
             <img src="./assets/images/about-second.webp" alt="">
             </div>
             <div class="col-md-6 about-content">
-                <h2>Mission</h2>
-                <p>At Global Design Agency, our mission is to revolutionize digital experiences through inspired design solutions. We empower clients by fostering creativity, forging connections, and surpassing expectations, ensuring they stand out in a dynamic market.</p>
-                <h2>Vision</h2>
-                <p>We envision leading the way in innovative design solutions, inspiring creativity, and driving digital transformation. At Global Design Agency, we see a future where our exceptional design experiences empower businesses and individuals to thrive and leave a lasting impact.</p>
+                <h2>Discover Your Design Potential with <br>Global Design Agency!</h2>
+                <p>At Global Design Agency, our mission is to revolutionize digital experiences through inspired design solutions. We empower clients by fostering creativity, forging connections, and surpassing expectations, ensuring they stand out in a dynamic market.We envision leading the way in innovative design solutions, inspiring creativity, and driving digital transformation. At Global Design Agency, we see a future where our exceptional design experiences empower businesses and individuals to thrive and leave a lasting impact.</p>
+                <!-- <h2>Vision</h2>
+                <p>We envision leading the way in innovative design solutions, inspiring creativity, and driving digital transformation. At Global Design Agency, we see a future where our exceptional design experiences empower businesses and individuals to thrive and leave a lasting impact.</p> -->
                 <div class="col">
                     <div class="row">
                         <div class="col-md-6">
@@ -80,7 +80,7 @@
     <div class="container py-5">
         <div class="row align-items-center">
             <div class="col-md-6 about-content">
-                <h2>Our Team</h2>
+                <h2>Meet Our Dynamic Design Crew</h2>
                 <p>Step into the world of Global Design Agency, where creativity flourishes and innovation thrives. Meet the Family Behind the Brand – a close-knit team of passionate creatives and tech enthusiasts united by our mission to redefine design excellence. With expertise spanning design, development, and marketing, we bring diverse perspectives to every project, ensuring a fresh and dynamic approach. Together, we collaborate seamlessly to bring your vision to life, crafting exceptional experiences that captivate and inspire. Get to know the brilliant minds driving our design magic, and join us on a journey of creativity, innovation, and boundless possibilities.</p>
                 <div class="col">
                     <div class="row">

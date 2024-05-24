@@ -26,7 +26,7 @@
                 </div> -->
             </div>
             <div class="col-md-6">
-                <h1 class="banner-h1">EMPOWER YOUR BRAND PARTNER <br> WITH US FOR GROWTH</h1>
+                <h1 class="banner-h1">Design A Digital Brand That <br> Meets Your Needs.</h1>
                 <video autoplay loop muted poster="" class="youtube">
                     <source src="./assets/images/main-video.mp4" type="video/mp4">
                     Your browser does not support the video tag.
@@ -59,7 +59,7 @@
 <section class="service-sec">
     <div class="container">
             <div class="col">
-                <h2 class="sercvice-heading">Shape Tomorrow: Conceptualize, <br>Evolve, Innovate</h2>
+                <h2 class="sercvice-heading">Your One Stop Shop For All <br>Creative Solutions</h2>
             </div>
         <div class="row text-center">  
             <div class="col-md-12">
@@ -122,7 +122,7 @@
     </div>
     <div class="container">
         <div class="row text-center">
-        <h2 class="title-heading-white">Our Work Approach</h2>
+        <h2 class="title-heading-white">A Comprehensive Look at Our <br>Work Process.</h2>
         <p class="title-p-white">Experience Our Design Journey: Our work approach emphasizes top-notch work, teamwork, and attention to <br> detail, ensuring each project exceeds expectations.</p>
     </div>
     </div>

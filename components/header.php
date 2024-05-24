@@ -23,41 +23,41 @@
                     <div class="dropdown-menu megamenu" aria-labelledby="navbarDropdown" data-bs-popper="none">
                         <div class="row">
                             <div class="col nav-box">
-                            <lord-icon src="https://cdn.lordicon.com/yozrzjer.json" trigger="loop" delay="2000" colors="primary:#fd5605,secondary:#fd5605" style="width:80px;height:80px">
+                            <lord-icon src="https://cdn.lordicon.com/cyzqwrdz.json" trigger="loop" delay="2000" colors="primary:#fd5605,secondary:#fd5605" style="width:80px;height:80px">
                             </lord-icon>
                             <a class="dropdown-item" href="./logo-design.php">Logo design</a>
                             <p class="nav-box-p">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Molestiae, magni!</p>
                             </div>
                             <div class="col nav-box">
-                            <lord-icon src="https://cdn.lordicon.com/yozrzjer.json" trigger="loop" delay="2000" colors="primary:#fd5605,secondary:#fd5605" style="width:80px;height:80px">
+                            <lord-icon src="https://cdn.lordicon.com/pcqicutp.json" trigger="loop" delay="2000" colors="primary:#fd5605,secondary:#fd5605" style="width:80px;height:80px">
                             </lord-icon>
-                            <a class="dropdown-item" href="./logo-design.php">Logo design</a>
+                            <a class="dropdown-item" href="./branding.php">Branding</a>
                             <p class="nav-box-p">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Molestiae, magni!</p>
                             </div>
                             <div class="col nav-box">
-                            <lord-icon src="https://cdn.lordicon.com/yozrzjer.json" trigger="loop" delay="2000" colors="primary:#fd5605,secondary:#fd5605" style="width:80px;height:80px">
+                            <lord-icon src="https://cdn.lordicon.com/hpiamgxt.json" trigger="loop" delay="2000" colors="primary:#fd5605,secondary:#fd5605" style="width:80px;height:80px">
                             </lord-icon>
-                            <a class="dropdown-item" href="./logo-design.php">Logo design</a>
+                            <a class="dropdown-item" href="./web-design-development.php">Web design & development</a>
                             <p class="nav-box-p">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Molestiae, magni!</p>
                             </div>
                         </div>
                         <div class="row">
                             <div class="col nav-box">
-                            <lord-icon src="https://cdn.lordicon.com/yozrzjer.json" trigger="loop" delay="2000" colors="primary:#fd5605,secondary:#fd5605" style="width:80px;height:80px">
+                            <lord-icon src="https://cdn.lordicon.com/zvdplphk.json" trigger="loop" delay="2000" colors="primary:#fd5605,secondary:#fd5605" style="width:80px;height:80px">
                             </lord-icon>
-                            <a class="dropdown-item" href="./logo-design.php">Logo design</a>
+                            <a class="dropdown-item" href="./animated-video.php">Video animation</a>
                             <p class="nav-box-p">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Molestiae, magni!</p>
                             </div>
                             <div class="col nav-box">
-                            <lord-icon src="https://cdn.lordicon.com/yozrzjer.json" trigger="loop" delay="2000" colors="primary:#fd5605,secondary:#fd5605" style="width:80px;height:80px">
+                            <lord-icon src="https://cdn.lordicon.com/yxkxolvq.json" trigger="loop" delay="2000" colors="primary:#fd5605,secondary:#fd5605" style="width:80px;height:80px">
                             </lord-icon>
-                            <a class="dropdown-item" href="./logo-design.php">Logo design</a>
+                            <a class="dropdown-item" href="./business-marketing.php">Business marketing</a>
                             <p class="nav-box-p">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Molestiae, magni!</p>
                             </div>
                             <div class="col nav-box">
-                            <lord-icon src="https://cdn.lordicon.com/yozrzjer.json" trigger="loop" delay="2000" colors="primary:#fd5605,secondary:#fd5605" style="width:80px;height:80px">
+                            <lord-icon src="https://cdn.lordicon.com/gtcpmyhg.json" trigger="loop" delay="2000" colors="primary:#fd5605,secondary:#fd5605" style="width:80px;height:80px">
                             </lord-icon>
-                            <a class="dropdown-item" href="./logo-design.php">Logo design</a>
+                            <a class="dropdown-item" href="./social-media.php">Social Media</a>
                             <p class="nav-box-p">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Molestiae, magni!</p>
                             </div>
                         </div>

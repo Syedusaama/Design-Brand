@@ -2,7 +2,7 @@
     <div class="container" >
         <div class="row">
     <div class="text-center">
-        <h2 class="title-heading">Value-Packed Solutions</h2>
+        <h2 class="title-heading">Professionally made designs without <br>breaking the bank</h2>
         <p class="title-p">In a competitive field, our fair pricing model reflects our commitment to quality. With each project,<br>we prioritize excellence over volume, ensuring your satisfaction every time.</p>   
         </div>
     <ul class="tabnav-projects">

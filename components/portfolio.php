@@ -2,7 +2,7 @@
     <div class="container-fluid" >
         <div class="row">
     <div class="text-center">
-        <h2 class="title-heading">Our Latest Projects</h2>
+        <h2 class="title-heading">Check Out Our Most Recent Designs</h2>
         <p class="title-p">Browse through our latest design projects, demonstrating our commitment to creativity,<br>  innovation, and client satisfaction.</p>   
         </div>
     <ul class="tabnav-projects">

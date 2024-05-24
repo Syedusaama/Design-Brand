@@ -26,7 +26,7 @@
                     <li><a href="./branding.php">Branding</a></li>
                     <li><a href="./web-design-development.php">Web design & development</a></li>
                     <li><a href="./animated-video.php">Video animation</a></li>
-                    <li><a href="./brand-marketing.php">Business marketing</a></li>
+                    <li><a href="./business-marketing.php">Business marketing</a></li>
                     <li><a href="./social-media.php">Social Media</a></li>
                     </ul>
                 </div>

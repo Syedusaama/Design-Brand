@@ -26,7 +26,7 @@
 
 <!-- Term Section -->
 <section class="term-background">
-<div class="mt-50 mb-100">
+<div class="">
     <div class="container content-area-com">
         <div class="row ">
             <p>The following terms and conditions apply to projects undertaken by <a href="#">www.globaldesignagency.com</a></p>  

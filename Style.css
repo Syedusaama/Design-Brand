@@ -1405,7 +1405,7 @@ ul.tabs-ul-04 i {
     margin: 0;
 }
 .content-area-com p{
-    font-size: 16px;
+    font-size: 18px;
     color: #000;
     padding: 0px;
     margin: 0px;
@@ -1419,6 +1419,17 @@ ul.tabs-ul-04 i {
     padding-right: 8px;
 }
 /* -----------------------Term and condition section Css------------------- */
+/* -----------------------Privacy section Css------------------- */
+
+
+.privacy-section{
+    background-color: #F6F9F8;
+    padding: 20px 0px;
+}
+
+
+/* -----------------------Privacy section Css------------------- */
+
 
 /* -----------------------Footer Css------------------- */
 .main-footer{

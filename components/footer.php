@@ -13,8 +13,8 @@
                     <li><a href="./about-us.php">About Us</a></li>
                     <li><a href="./reviews.php">Reviews</a></li>
                     <li><a href="./contact.php">Contact us</a></li>
-                    <li><a href="#">Terms & Condition</a></li>
-                    <li><a href="#">Privacy Policy</a></li>
+                    <li><a href="./term-and-conditions.php">Terms & Condition</a></li>
+                    <li><a href="./privacy-policy.php">Privacy Policy</a></li>
                     </ul>
                 </div>
             </div>

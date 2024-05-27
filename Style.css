@@ -1118,10 +1118,20 @@ ul.tabs-ul-04 i {
 .form_banner .grp button {
     width: 100%;
     background: #FD5605;
+    border: 1px solid #FD5605;
     color: #fff;
     padding: 6px 0;
     border-radius: 10px;
-    font-size: 25px;
+    font-size: 18px;
+    text-transform: uppercase;
+    font-weight: bold !important;
+    transition: 0.6s;
+}
+.form_banner .grp button:hover{
+    background: #fff;
+    color: #FD5605;
+    border: 0px;
+    border-bottom: 5px solid #FD5605 !important;
 }
 .inner-banner1{
     background-image: url(./assets/images/services/branding.png);

@@ -14,6 +14,7 @@
             <div class="row align-items-center">
                 <div class="col-md-7 inner-bann-heading">
                     <h1>Crafting Iconic <span class="subheading-clr">Logo</span> That Define Your Brand</h1>
+                    <p>At Global Design Agency, we specialize in creating iconic logos that define your brand identity. Our expert designers create visually stunning and memorable logos that connect your brand with your audience and help you stand out from the competition. Let us help you make a lasting first impression.</p>
                 </div>
                 <div class="col-md-5">
                     <!-- form -->
@@ -51,7 +52,7 @@
         <div class="row align-items-center">
             <div class="col-md-6 innerban-content">
                 <h2>Logo Design</h2>
-                <p>Discover the transformative touch of our seasoned designers as they meticulously craft logos that capture the essence of your brand. With our collaborative approach, we invite you to delve into the world of logo design, exploring innovative concepts and strategies tailored to elevate your business to unprecedented heights of recognition and success.</p>
+                <p>Capture the essence of your brand with our bespoke logo design service. In today's dynamic market, a distinctive logo is the cornerstone of your brand identity. Our seasoned team collaborates closely with you to understand your vision, values, and target audience. Whether you're a burgeoning startup or a seasoned corporation, we tailor our approach to suit your unique requirements. From minimalist and modern to intricate and illustrative, we breathe life into your brand through captivating visuals. Prioritizing originality and creativity, we ensure that your logo stands out amidst competitors. With meticulous attention to detail and a commitment to excellence, we deliver timeless designs that resonate with your audience. Elevate your brand identity with our unparalleled logo design service. Let's embark on this creative journey together.</p>
                 <div class="col">
                     <div class="row">
                         <div class="col-md-6">

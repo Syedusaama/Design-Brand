@@ -14,6 +14,7 @@
         <div class="row align-items-center">
         <div class="col-md-7 inner-bann-heading">
                 <h1>Lights, Pixels, <span class="subheading-clr">Animations</span>, Crafting Visual Wonders One Frame at a Time</h1>
+                <p>Global Design Agency, we create visual wonders one frame at a time. Our talented animators produce captivating video content that tells your story with creativity and flair. Elevate your brand’s message with stunning animations that captivate and engage masses.</p>
             </div>
             <div class="col-md-5">
             <!-- form -->
@@ -51,7 +52,7 @@
         <div class="row align-items-center">
             <div class="col-md-6 innerban-content">
                 <h2>VIDEO ANIMATION HUB</h2>
-                <p>Do you have an immaculate imagination and often come up with out-of-the-box concepts that would mesmerize others? What need a way to materialize your thoughts and a platform to transform your creative ideas into a consumable medium? Our team of skilled video animators is dedicated to bringing your visions to life with creativity and precision. From engaging infomercials and dynamic promotional content to immersive storytelling animations, we offer a comprehensive range of services tailored to your unique needs. Focusing on quality and innovation, we ensure each video animation is visually stunning and effectively communicates your message. Let us help you captivate your audience and elevate your brand with our professional video animation services.</p>
+                <p>Welcome to our world of video animation and design, where imagination takes flight and storytelling comes alive. In today's visually-driven world, video content reigns supreme, captivating audiences and conveying messages with unparalleled impact. Our skilled team specializes in crafting mesmerizing animations and designs that not only capture attention but also leave a lasting impression. From concept development to final production, we infuse creativity and innovation into every frame, tailoring our approach to suit your unique needs and objectives. Whether you're looking to explain a complex idea, promote a product, or simply entertain your audience, we have the expertise to bring your vision to life. With a keen eye for detail and a commitment to excellence, we deliver animations and designs that stand out amidst the digital noise. Elevate your brand and engage your audience like never before with our bespoke video animation and design services. Let's embark on this creative journey together and make your vision a reality.</p>
                 <div class="col">
                     <div class="row">
                         <div class="col-md-6">

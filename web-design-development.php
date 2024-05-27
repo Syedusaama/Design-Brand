@@ -14,6 +14,7 @@
         <div class="row align-items-center">
         <div class="col-md-7 inner-bann-heading">
                 <h1>Your Vision, Our <span class="subheading-clr">Code Building</span> Awesome Sites, One Click at a Time</h1>
+                <p>At Global Design Agency, we build awesome websites that bring your ideas to life. Our skilled developers and designers collaborate to create user-friendly, responsive, and visually engaging sites, ensuring an exceptional online experience for your audience.</p>
             </div>
             <div class="col-md-5">
             <!-- form -->
@@ -51,7 +52,7 @@
         <div class="row align-items-center">
             <div class="col-md-6 innerban-content">
                 <h2>We Boost Your Online Presence</h2>
-                <p>Your website is the foundation of your brand's identity in the digital age. Our specialty at Global Design Agency is creating user-friendly, engaging web experiences that enthrall users and produce amazing outcomes. Our skilled team is committed to realizing your vision, from sophisticated and contemporary designs to strong and user-friendly functionality. We customize our solutions to meet your specific aims and objectives, whether you're starting from scratch or redesigning an old website. You can rely on us to create a website that looks amazing and produces noticeable commercial results. Together, let's craft a digital masterpiece that distinguishes your company in the online marketplace.</p>
+                <p>Welcome to our world of web development and design, where innovation meets functionality to create stunning digital experiences. In today's digital age, your website serves as the virtual storefront for your business, making a strong first impression paramount. Our expert team combines cutting-edge design principles with robust development techniques to craft websites that not only look beautiful but also perform seamlessly across all devices. From intuitive user interfaces to engaging experiences, we prioritize user-centric design to ensure maximum engagement and conversion. Whether you're a startup looking to establish your online presence or a seasoned enterprise seeking a website revamp, we tailor our solutions to meet your unique needs and objectives. With a focus on clean code, optimized performance, and scalability, we build websites that impress and drive results. Elevate your online presence, stand out in the digital landscape with our bespoke web development, and design services. Let's bring your vision to life and create a digital masterpiece together.</p>
                 <div class="col">
                     <div class="row">
                         <div class="col-md-6">

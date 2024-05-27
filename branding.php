@@ -14,6 +14,7 @@
         <div class="row align-items-center">
         <div class="col-md-7 inner-bann-heading">
                 <h1>Stand Out in the Market with Our Expert <span class="subheading-clr">Branding</span> Services</h1>
+                <p>From developing a unique brand voice to creating cohesive visual elements. We do it all here at Global Design Agency. Our experienced team ensures your brand communicates its core values effectively. Collaborate with Global Design Agency to build a brand that captures attention and fosters loyalty.</p>
             </div>
             <div class="col-md-5">
             <!-- form -->
@@ -51,7 +52,7 @@
         <div class="row align-items-center">
             <div class="col-md-6 innerban-content">
                 <h2>Put your trust in the Power of Branding</h2>
-                <p>A strong brand identity is essential for standing out and leaving a lasting impression in the cutthroat market of today. Our specialty at Global Design Agency is developing compelling brand stories that connect with your target market. In close collaboration with you, our team of experts will create a unified brand strategy that embodies the goals and core values of your company through visual elements, messages and logo design. With our customized solutions, enhance your brand and watch as your company reaches new heights. Let's aim to create a brand that not only attracts but also inspires loyalty and trust.</p>
+                <p>Discover our comprehensive branding service, where we shape your vision into a captivating brand identity. In today's competitive landscape, a strong brand is essential for success. Our dedicated team collaborates closely with you to understand your goals, values, and target audience, ensuring every aspect of your brand reflects your unique identity. From crafting memorable logos to defining brand guidelines and developing compelling messaging, we offer a holistic approach to brand building. Whether you're a startup seeking to establish your presence or a seasoned company in need of a brand refresh, we tailor our services to meet your specific needs. With a keen eye for detail and a commitment to excellence, we create brands that stand out and resonate with your audience. Elevate your brand's presence and leave a lasting impression with our unparalleled branding service. Let's embark on this journey together and unlock the full potential of your brand.</p>
                 <div class="col">
                     <div class="row">
                         <div class="col-md-6">

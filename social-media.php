@@ -14,6 +14,7 @@
         <div class="row align-items-center">
         <div class="col-md-7 inner-bann-heading">
                 <h1>Unlock the Power of <span class="subheading-clr">Social</span> Let’s Boost Your Online Impact</h1>
+                <p>At the Global Design Agency, our expert team will boost your online presence through targeted strategies, engaging content and effective campaigns. Connect with your audience, increase your reach, and build a vibrant online presence with our social media services.</p>
             </div>
             <div class="col-md-5">
             <!-- form -->
@@ -51,7 +52,7 @@
         <div class="row align-items-center">
             <div class="col-md-6 innerban-content">
                 <h2>Social Media</h2>
-                <p>Welcome to our vibrant social media community, where creativity flourishes and design inspiration abounds! Dive into our world as we share captivating visuals, insightful tips, and behind-the-scenes peeks into our creative process. Whether you're a seasoned designer or an aspiring creative, our page is your go-to destination for all things design. Join us as we explore the latest trends, spark meaningful conversations, and celebrate the boundless possibilities of design. Together, let's unleash our imaginations, inspire one another, and embark on an exciting journey of creativity and discovery. Follow along and be a part of our thriving design community!</p>
+                <p>Welcome to the digital frontier of social media, where connections are forged, and brands come to life. In today's interconnected world, social media has become the cornerstone of digital marketing strategies. Our expert team specializes in harnessing the power of social platforms to elevate your brand's presence and engage with your audience on a deeper level. From crafting compelling content and managing communities to executing targeted ad campaigns, we offer comprehensive solutions tailored to your brand's unique needs. Whether you're aiming to increase brand awareness, drive website traffic, or boost conversions, we have the expertise and tools to help you achieve your goals. With a keen understanding of social algorithms, trends, and analytics, we ensure that your brand stays relevant and resonates with your audience. Elevate your social media presence and unlock new opportunities for growth with our bespoke services. Let's collaborate and embark on this journey to digital success together.</p>
                 <div class="col">
                     <div class="row">
                         <div class="col-md-6">

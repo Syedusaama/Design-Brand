@@ -14,6 +14,7 @@
         <div class="row align-items-center">
         <div class="col-md-7 inner-bann-heading">
                 <h1>Experience Growth As You’ve Never Before With Our <span class="subheading-clr">Business Marketing</span> Expertise</h1>
+                <p>Global Design Agency offers strategic marketing solutions tailored to your needs, driving results and maximizing your ROI. Let us help you reach new heights and achieve your business goals.</p>
             </div>
             <div class="col-md-5">
             <!-- form -->
@@ -51,7 +52,7 @@
         <div class="row align-items-center">
             <div class="col-md-6 innerban-content">
                 <h2>OUR BUSINESS MARAKETING HUB</h2>
-                <p>To excel in a competitive market, you need a strategic approach to building your brand and standing out. Creating and maintaining a strong, positive perception of your products or services in consumers' minds is essential. Our brand marketing service is designed to elevate your business and make your brand shine in today's crowded marketplace. We specialize in crafting comprehensive marketing strategies that highlight your unique value and resonate deeply with your target audience.<br>Our team of experts blends creativity with data-driven insights to develop campaigns that drive engagement, increase visibility, and foster customer loyalty. Partner with us to transform your brand's presence and achieve lasting success in your industry. Let us help you tell your story and connect with your audience like never before. </p>
+                <p>Welcome to the forefront of business marketing, where strategy meets innovation to propel your brand to new heights. In today's competitive landscape, effective marketing is essential for success. Our experienced team specializes in crafting tailored solutions designed to elevate your brand and drive tangible results. From comprehensive market research and strategic planning to impactful execution across various channels, we offer a holistic approach. Whether you're a startup aiming to establish your presence or an established enterprise seeking to expand your reach, we have the expertise to meet your goals. With a focus on creativity, analytics, and cutting-edge techniques, we help you connect with your target audience, build meaningful relationships, and achieve sustainable growth. Elevate your marketing efforts and stand out in the crowded marketplace with our bespoke services. Let's collaborate and embark on this journey to success together.</p>
                 <div class="col">
                     <div class="row">
                         <div class="col-md-6">

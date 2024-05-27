@@ -1084,13 +1084,13 @@ ul.tabs-ul-04 i {
 
 /* -----------------------Services section Css------------------- */
 .form_banner {
-    padding: 30px 30px;
-    background-color: #d3d3d34d;
-    border-radius: 20px;
+    padding: 40px 25px;
+    background-color: #d3d3d38f;
+    border-radius: 26px;
 }
 .form_banner h3 {
     text-align: center;
-    color: #fff;
+    color: #000000;
     font-size: 30px;
 }
 .form_banner .grp {
@@ -1816,6 +1816,18 @@ ul.tabs-ul-04 i {
 
 /* Footer section */
 /* -----------------------Inner pages Css------------------- */
+.form_banner h3{
+    font-size: 20px;
+}
+.form_banner .grp input{
+    font-size: 12px;
+}
+.form_banner .grp textarea{
+    font-size: 12px;
+}
+.form_banner .grp button{
+    font-size: 18px;
+}
 .inner-first-secbanner{
     padding: 20px 0px;
 }

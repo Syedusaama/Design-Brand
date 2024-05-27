@@ -1,6 +1,7 @@
 <section>
     <header>
     <!-- header -->
+
         <div class="main-header">
         <nav class=" header-color navbar navbar-expand-lg navbar-light bg-light">
             <a href="./assets/images/logo.png" class="navbar-brand logo" href="#"><img src="./assets/images/logo.png" alt=""></a>  

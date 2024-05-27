@@ -9,6 +9,26 @@
 <!-- Main Header -->
 
 <!-- Main Banner -->
+<div class="custom-cursor" id="customCursor"></div>
+    <script>
+        const cursor = document.getElementById('customCursor');
+
+        document.addEventListener('mousemove', function(e) {
+            cursor.style.left = e.clientX + 'px';
+            cursor.style.top = e.clientY + 'px';
+        });
+
+        document.addEventListener('mousedown', function() {
+            cursor.style.width = '30px'; /* Diameter when clicked */
+            cursor.style.height = '30px'; /* Diameter when clicked */
+        });
+
+        document.addEventListener('mouseup', function() {
+            cursor.style.width = '10px'; /* Initial diameter */
+            cursor.style.height = '10px'; /* Initial diameter */
+        });
+    </script>
+    </script>
 <section class="banner">
     <div class="main-banner">
         <div class="row">
@@ -236,7 +256,7 @@
 <?php include "./components/footer.php"?>
 <!-- Footer Section -->
 
-// Get the image element
+<!-- // Get the image element -->
 <script>
 const gifElement = document.getElementById('gifImage');
 

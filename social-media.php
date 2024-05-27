@@ -11,13 +11,13 @@
 <section class="inner-banner3">
     <div>
     <div class="inner-bann-heading">
-        <div class="row">
+        <div class="row align-items-center">
         <div class="col-md-7 inner-bann-heading">
                 <h1>Unlock the Power of <span class="subheading-clr">Social</span> Let’s Boost Your Online Impact</h1>
             </div>
             <div class="col-md-5">
-                                    <!-- form -->
-                                    <div class="form_banner">
+            <!-- form -->
+            <div class="form_banner">
                 <form class="form-get-quote" action="javascript:void(0)">
                     <h3>We will always provide the best service.</h3>
                     <div class="grp">

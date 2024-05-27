@@ -26,18 +26,12 @@
                 </div> -->
             </div>
             <div class="col-md-6">
+                <div class="banner-hand-img">
                 <h1 class="banner-h1">Design A Digital Brand That <br> Meets Your Needs.</h1>
-                <video autoplay loop muted poster="" class="youtube">
-                    <source src="./assets/images/main-video.mp4" type="video/mp4">
-                    Your browser does not support the video tag.
-                </video>
-                <img class="banner-hand" src="./assets/images/banner-frame.png" alt="">
-                <div>
+                <img  id="gifImage" src="./assets/images/main-ban-vid.gif" alt="GIF Image">
+                <script src="script.js"></script>
                 <a href="./about-us.php" class="banner-btn">Discover More</a>    
-                </div>
-                <!-- <img class="shapes1" src="./assets/images/cube_3d_shape.png" alt="">
-                <img class="shapes2" src="./assets/images/cone_3d_shape.png" alt=""> 
-                <img class="shapes3" src="./assets/images/donut_3d_shape.png" alt=""> -->
+                </div>    
             </div>
             <!-- <div class="col-md-6">
                 <video autoplay loop muted>
@@ -241,6 +235,21 @@
 <!-- Footer Section -->
 <?php include "./components/footer.php"?>
 <!-- Footer Section -->
+
+// Get the image element
+<script>
+const gifElement = document.getElementById('gifImage');
+
+// Function to restart the GIF
+function restartGif() {
+    // Create a new URL object to force the browser to reload the image
+    const gifUrl = gifElement.src.split('?')[0];
+    gifElement.src = gifUrl + '?' + new Date().getTime();
+}
+
+// Set the interval to restart the GIF every 5 seconds (5000 milliseconds)
+setInterval(restartGif, 7000);
+</script>
 
 <script src="./assets/js/jquery.js"></script>
 <script src="./assets/js/custom.js"></script>

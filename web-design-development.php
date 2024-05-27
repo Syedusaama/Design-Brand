@@ -11,13 +11,13 @@
 <section class="inner-banner4">
     <div>
     <div class="inner-bann-heading">
-        <div class="row">
+        <div class="row align-items-center">
         <div class="col-md-7 inner-bann-heading">
                 <h1>Your Vision, Our <span class="subheading-clr">Code Building</span> Awesome Sites, One Click at a Time</h1>
             </div>
             <div class="col-md-5">
-                                    <!-- form -->
-                                    <div class="form_banner">
+            <!-- form -->
+            <div class="form_banner">
                 <form class="form-get-quote" action="javascript:void(0)">
                     <h3>We will always provide the best service.</h3>
                     <div class="grp">

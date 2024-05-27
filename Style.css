@@ -1083,7 +1083,46 @@ ul.tabs-ul-04 i {
 /* -----------------------About section Css------------------- */
 
 /* -----------------------Services section Css------------------- */
-
+.form_banner {
+    padding: 30px 20px;
+    background-color: #d3d3d34d;
+    border-radius: 20px;
+}
+.form_banner h3 {
+    text-align: center;
+    color: #fff;
+    font-size: 30px;
+}
+.form_banner .grp {
+    width: 100%;
+    margin: 0 0 15px 0;
+}
+.form_banner .grp textarea {
+    padding: 5px 10px;
+    width: 100%;
+    height: 70px;
+    color: #686a6f;
+    background-color: #f4f5f8;
+    border: 1px solid #f4f5f8;
+    border-radius: 10px;
+}
+.form_banner .grp input {
+    padding: 5px 10px;
+    width: 100%;
+    height: 45px;
+    color: #686a6f;
+    background-color: #f4f5f8;
+    border: 1px solid #f4f5f8;
+    border-radius: 10px;
+}
+.form_banner .grp button {
+    width: 100%;
+    background: #FD5605;
+    color: #fff;
+    padding: 6px 0;
+    border-radius: 10px;
+    font-size: 28px;
+}
 .inner-banner1{
     background-image: url(./assets/images/services/branding.png);
     background-position: center center;
@@ -1847,6 +1886,22 @@ ul.tabs-ul-04 i {
 
 }
 
+@media only screen and (max-width : 1600px) {
+    .youtube {
+        position: relative;
+        width: 63vh;
+        bottom: 8vh;
+        margin-bottom: -51%;
+    }
+}
+@media only screen and (max-width : 1920px) {
+    .youtube {
+        position: relative;
+        width: 56vh;
+        bottom: 13vh;
+        margin-bottom: -51%;
+    }
+}
 
 /* Services tab section */
 

@@ -70,7 +70,7 @@
 <!-- First Section -->
 
 <!-- Second Section -->
-<section class="inner-second-secbanner">
+<!-- <section class="inner-second-secbanner">
     <div class="container-fluid">
         <div class="row">
             <div class="col-md-12 text-center py-5">
@@ -95,7 +95,7 @@
         </div>
     </div>
     </div>
-</section>
+</section> -->
 
 
  <!-- Second Section -->

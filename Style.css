@@ -1866,6 +1866,9 @@ ul.tabs-ul-04 i {
     padding: 0px 40px;
     font-size: 25px;
 }
+.inner-bann-heading p{
+    display: none;
+}
 .about-left img{
     min-width: 300px;
 }
@@ -1879,34 +1882,43 @@ ul.tabs-ul-04 i {
     font-size: 16px;
 }
 .inner-banner1{
-    padding: 200px 0px;
+    padding-top: 200px;
+    padding-bottom: 50px;
 }
 .inner-banner2{
-    padding: 200px 0px;
+        padding-top: 200px;
+    padding-bottom: 50px;
 }
 .inner-banner3{
-    padding: 200px 0px;
+        padding-top: 200px;
+    padding-bottom: 50px;
 }
 .inner-banner4{
-    padding: 200px 0px;
+        padding-top: 200px;
+    padding-bottom: 50px;
 }
 .inner-banner5{
-    padding: 200px 0px;
+        padding-top: 200px;
+    padding-bottom: 50px;
 }
 .inner-banner6{
-    padding: 200px 0px;
+        padding-top: 200px;
+    padding-bottom: 50px;
 }
 .inner-banner7{
-    padding: 200px 0px;
+        padding-top: 200px;
+    padding-bottom: 50px;
 }
 .inner-fifth-secbanner{
     padding: 50px 0px;
 }
 .term-banner{
-    padding: 200px 0px;
+    padding-top: 200px;
+    padding-bottom: 50px;
 }
 .privacy-banner{
-    padding: 200px 0px;
+    padding-top: 200px;
+    padding-bottom: 50px;
 }
 .innerpage-rightimg img{
     min-width: 200px;

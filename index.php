@@ -9,7 +9,7 @@
 <!-- Main Header -->
 
 <!-- Main Banner -->
-<div class="custom-cursor" id="customCursor"></div>
+<!-- <div class="custom-cursor" id="customCursor"></div>
     <script>
         const cursor = document.getElementById('customCursor');
 
@@ -28,7 +28,7 @@
             cursor.style.height = '10px'; /* Initial diameter */
         });
     </script>
-    </script>
+    </script> -->
 <section class="banner">
     <div class="main-banner">
         <div class="row">

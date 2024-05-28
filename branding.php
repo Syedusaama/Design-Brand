@@ -88,6 +88,9 @@
                 <img src="./assets/images/portfolio/branding/b7.png" alt="inside a town between two big buildings">
                 <img src="./assets/images/portfolio/branding/b8.png" alt="a great view of the sea above the mountain">
                 <img src="./assets/images/portfolio/branding/b9.png" alt="a house on a mountain">
+                <img src="./assets/images/portfolio/branding/b10.png" alt="a house on a mountain">
+                <img src="./assets/images/portfolio/branding/b11.png" alt="a house on a mountain">
+                <img src="./assets/images/portfolio/branding/b12.png" alt="a house on a mountain">
               </div>
         </div>
     </div>

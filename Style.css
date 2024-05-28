@@ -1616,7 +1616,7 @@ ul.tabs-ul-04 i {
     }
     .main-banner{
         padding-top: 250px;
-        padding-bottom: 100px;
+        padding-bottom: 0px;
     }
     .creative-img{
         display: none;

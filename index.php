@@ -48,11 +48,8 @@
             <div class="col-md-6">
                 <div class="banner-hand-img">
                 <h1 class="banner-h1">Design A Digital Brand That <br> Meets Your Needs.</h1>
-                <div class="img-button">
                 <img  id="gifImage" src="./assets/images/main-ban-vid.gif" alt="GIF Image">
-                <script src="script.js"></script>
-                <a href="./about-us.php" class="banner-btn">Discover More</a>    
-                </div>
+                <script src="script.js"></script>   
                 </div>    
             </div>
             <!-- <div class="col-md-6">

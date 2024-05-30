@@ -336,7 +336,11 @@ header {
     padding-right: 50px;
 }
 
-.dropdown-item:hover {
+.dropdown-item:focus, .dropdown-item:hover {
+    color: #000000 !important;
+    background-color: transparent !important;
+}
+.dropdown-item:hover{
     color: #fff !important;
     background-color: transparent !important;
 }

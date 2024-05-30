@@ -87,10 +87,10 @@
                 <img src="./assets/images/portfolio/branding/b6.png" alt="a cool landscape">
                 <img src="./assets/images/portfolio/branding/b7.png" alt="inside a town between two big buildings">
                 <img src="./assets/images/portfolio/branding/b8.png" alt="a great view of the sea above the mountain">
-                <img src="./assets/images/portfolio/branding/b9.png" alt="a house on a mountain">
+                <!-- <img src="./assets/images/portfolio/branding/b9.png" alt="a house on a mountain">
                 <img src="./assets/images/portfolio/branding/b10.png" alt="a house on a mountain">
                 <img src="./assets/images/portfolio/branding/b11.png" alt="a house on a mountain">
-                <img src="./assets/images/portfolio/branding/b12.png" alt="a house on a mountain">
+                <img src="./assets/images/portfolio/branding/b12.png" alt="a house on a mountain"> -->
               </div>
         </div>
     </div>
@@ -115,7 +115,7 @@
                         </div>
                         <div class="project-item-body">
                             <h5>Instent Basic </h5>
-                            <h4>$99</h4>
+                            <!-- <h4>$99</h4> -->
                             <ul class="tabs-ul-01">
                             <li><i class="fa-solid fa-check"></i>1 Logo Design Concepts</li>
                             <li><i class="fa-solid fa-check"></i>By 1 Experienced Designer</li>
@@ -137,7 +137,7 @@
                         </div>
                         <div class="project-item-body">
                             <h5>Instent Basic </h5>
-                            <h4>$99</h4>
+                            <!-- <h4>$99</h4> -->
                             <ul class="tabs-ul-01">
                             <li><i class="fa-solid fa-check"></i>1 Logo Design Concepts</li>
                             <li><i class="fa-solid fa-check"></i>By 1 Experienced Designer</li>
@@ -159,7 +159,7 @@
                         </div>
                         <div class="project-item-body">
                             <h5>Instent Basic </h5>
-                            <h4>$99</h4>
+                            <!-- <h4>$99</h4> -->
                             <ul class="tabs-ul-01">
                             <li><i class="fa-solid fa-check"></i>1 Logo Design Concepts</li>
                             <li><i class="fa-solid fa-check"></i>By 1 Experienced Designer</li>

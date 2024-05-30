@@ -14,7 +14,7 @@
         <div class="row align-items-center">
         <div class="col-md-7 inner-bann-heading">
                 <h1>Lights, Pixels, <span class="subheading-clr">Animations</span>, Crafting Visual Wonders One Frame at a Time</h1>
-                <p>Global Design Agency, we create visual wonders one frame at a time. Our talented animators produce captivating video content that tells your story with creativity and flair. Elevate your brand’s message with stunning animations that captivate and engage masses.</p>
+                <!-- <p>Global Design Agency, we create visual wonders one frame at a time. Our talented animators produce captivating video content that tells your story with creativity and flair. Elevate your brand’s message with stunning animations that captivate and engage masses.</p> -->
             </div>
             <div class="col-md-5">
             <!-- form -->
@@ -115,7 +115,7 @@
                         </div>
                         <div class="project-item-body">
                             <h5>Instent Basic </h5>
-                            <h4>$99</h4>
+                            <!-- <h4>$99</h4> -->
                             <ul class="tabs-ul-01">
                             <li><i class="fa-solid fa-check"></i>1 Logo Design Concepts</li>
                             <li><i class="fa-solid fa-check"></i>By 1 Experienced Designer</li>
@@ -137,7 +137,7 @@
                         </div>
                         <div class="project-item-body">
                             <h5>Instent Basic </h5>
-                            <h4>$99</h4>
+                            <!-- <h4>$99</h4> -->
                             <ul class="tabs-ul-01">
                             <li><i class="fa-solid fa-check"></i>1 Logo Design Concepts</li>
                             <li><i class="fa-solid fa-check"></i>By 1 Experienced Designer</li>
@@ -159,7 +159,7 @@
                         </div>
                         <div class="project-item-body">
                             <h5>Instent Basic </h5>
-                            <h4>$99</h4>
+                            <!-- <h4>$99</h4> -->
                             <ul class="tabs-ul-01">
                             <li><i class="fa-solid fa-check"></i>1 Logo Design Concepts</li>
                             <li><i class="fa-solid fa-check"></i>By 1 Experienced Designer</li>

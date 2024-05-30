@@ -263,24 +263,7 @@
 <!-- Contact Section -->
 <?php include "./components/contact.php"?>
 <!-- Contact Section -->
-<div class="wrapper">
-        <div class="container py-5">
-            <div class="row py-5">
-                <div class="col-md-3 right-side-panel d-flex align-items-center">
-                </div>
-                <div class="col-md-6 d-flex align-items-center justify-content-center">
-                    <div class="youtube-back">
-                        <video autoplay="" muted="" controls="" poster="./Assets/images/poster.png" class="youtube">
-                            <source src="./Assets/images/main-video.mp4" type="video/mp4">
-                            Your browser does not support the video tag.
-                        </video>
-                    </div>
-                </div>
-                <div class="col-md-3 right-side-panel d-flex align-items-center">
-                </div>
-            </div>
-        </div>
-    </div>
+
 <!-- Footer Section -->
 <?php include "./components/footer.php"?>
 <!-- Footer Section -->

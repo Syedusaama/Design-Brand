@@ -13,7 +13,7 @@
         <div class="inner-bann-heading">
             <div class="row align-items-center">
                 <div class="col-md-7 inner-bann-heading">
-                    <h1>Get Your Story Perfectly Told With the Help of Our Professional <span class="subheading-clr">Book Writing </span>Services</h1>
+                    <h1>Perfect Your Story with Our Professional <span class="subheading-clr">Book Writing </span>Services</h1>
                     <p>Your story, our expertise. Our professional writing services can help you turn your ideas into an engaging book. Our talented writers and editors are committed to bringing your vision to life. Let’s create something extraordinary together!</p>
                 </div>
                 <div class="col-md-5">

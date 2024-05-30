@@ -13,7 +13,7 @@
     <div class="inner-bann-heading">
         <div class="row align-items-center">
         <div class="col-md-7 inner-bann-heading">
-                <h1>Experience Growth As You’ve Never Before With Our <span class="subheading-clr">Business Marketing</span> Expertise</h1>
+                <h1>Achieve Explosive Growth with Our Expert <span class="subheading-clr">Business Marketing</span></h1>
                 <p>Global Design Agency offers strategic marketing solutions tailored to your needs, driving results and maximizing your ROI. Let us help you reach new heights and achieve your business goals.</p>
             </div>
             <div class="col-md-5">

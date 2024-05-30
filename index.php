@@ -29,6 +29,7 @@
         });
     </script>
     </script> -->
+
 <section class="banner">
     <div class="main-banner">
         <div class="row">
@@ -45,13 +46,25 @@
                     <img class="shapes2" src="./assets/images/cone_3d_shape.png" alt="">
                 </div> -->
             </div>
-            <div class="col-md-6">
+            <!-- <div class="col-md-6">
                 <div class="banner-hand-img">
                 <h1 class="banner-h1">Design A Digital Brand That <br> Meets Your Needs.</h1>
                 <img  id="gifImage" src="./assets/images/main-ban-vid.gif" alt="GIF Image">
                 <script src="script.js"></script>   
                 </div>    
+            </div> -->
+
+            <div class="col-md-6 align-items-center justify-content-center">
+                            <div>
+                <h1 class="banner-h1">Design A Digital Brand That <br> Meets Your Needs.</h1>
             </div>
+                    <div class="youtube-back">
+                        <video autoplay="" muted="" controls="" loop="" poster="./Assets/images/poster.png" class="youtube">
+                            <source src="./Assets/images/main-video.mp4" type="video/mp4">
+                            Your browser does not support the video tag.
+                        </video>
+                    </div>
+                </div>
             <!-- <div class="col-md-6">
                 <video autoplay loop muted>
                 <source src="./assets/images/aaaaa.mp4" type="video/mp4">
@@ -250,7 +263,24 @@
 <!-- Contact Section -->
 <?php include "./components/contact.php"?>
 <!-- Contact Section -->
-
+<div class="wrapper">
+        <div class="container py-5">
+            <div class="row py-5">
+                <div class="col-md-3 right-side-panel d-flex align-items-center">
+                </div>
+                <div class="col-md-6 d-flex align-items-center justify-content-center">
+                    <div class="youtube-back">
+                        <video autoplay="" muted="" controls="" poster="./Assets/images/poster.png" class="youtube">
+                            <source src="./Assets/images/main-video.mp4" type="video/mp4">
+                            Your browser does not support the video tag.
+                        </video>
+                    </div>
+                </div>
+                <div class="col-md-3 right-side-panel d-flex align-items-center">
+                </div>
+            </div>
+        </div>
+    </div>
 <!-- Footer Section -->
 <?php include "./components/footer.php"?>
 <!-- Footer Section -->

@@ -13,7 +13,7 @@
         <div class="inner-bann-heading">
             <div class="row align-items-center">
                 <div class="col-md-7 inner-bann-heading">
-                    <h1>Visually Stunning Aesthetically Compelling Expert <span class="subheading-clr">Book Cover </span> Designs at the Global Design Agency</h1>
+                    <h1>Aesthetically Pleasing <span class="subheading-clr">Book Cover </span> Designs at the Global Design Agency</h1>
                     <p>Discover the unparalleled visual brilliance and aesthetic excellence of our expertly crafted book cover designs at the Global Design Agency. With meticulous attention to detail and a passion for creativity, our team of designers will transform your book into a captivating masterpiece.</p>
                 </div>
                 <div class="col-md-5">

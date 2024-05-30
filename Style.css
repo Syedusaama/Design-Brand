@@ -12,8 +12,6 @@
     z-index: 9999; 
     transform: translate(-50%, -50%); 
 } */
-
-
 /* Main Banner CSS */
 ::selection {
     background: #FD5605;
@@ -479,7 +477,7 @@ header {
     display: flex;
     flex-direction: column;
     max-width: 40px;
-    padding-bottom: 100px;
+    padding-bottom: 20px;
 }
 .logos img{
     padding-bottom: 10px;
@@ -488,6 +486,7 @@ header {
     font-size: 45px;
     font-weight: bold;
     color: #fff;
+    padding-bottom: 50px;
 }
 .focus-in-contract-bck, h1{animation:focus-in-contract-bck 1s cubic-bezier(.25,.46,.45,.94) both}
 
@@ -500,7 +499,7 @@ header {
     background-size: cover;
     margin-top: -153px;
     padding-top: 190px;
-    /* padding-bottom: 200px; */
+    padding-bottom: 136px;
     text-align: center;
     line-height: 0px;
 }
@@ -524,11 +523,11 @@ header {
 }
 .creative-img{
     width: 200px;
-    margin-bottom: -240px;
+    margin-bottom: -290px;
 }
 
 .design-img{
-    margin-bottom: -70px;
+    margin-bottom: -200px;
     margin-left: -170px;
 }
 .shapes1{
@@ -1573,28 +1572,33 @@ ul.tabs-ul-04 i {
 }
 
 /* -----------------------Footer Css------------------- */
-
+.wrapper {
+    position: relative;
+    background-image: url(./images/public-tab.png);
+    background-size: cover;
+    background-position: right;
+    background-repeat: no-repeat;
+    padding: 40px 0 30px;
+  }
 .youtube {
     position: relative;
-    width: 63vh;
-    bottom: 8vh;
-    /* z-index: 1; */
-    margin-bottom: -51%;
-  }
+    width: 528px;
+    height: 273px;
+    z-index: 99;
+}
+
   .youtube-back::after {
     content: " ";
     position: absolute;
     background: url(./assets/images/banner-frame.png) 0 0 / cover;
-    width: 100%;
-    height: 100%;
-    left: 0%;
-    top: 30%;
+    width: 510px;
+    height: 417px;
+    left: 0px;
+    top: 313px;
     right: 0;
     margin: auto;
-    z-index: 2;
-  }
-
-
+    z-index: 99;
+}
 /* Mobile Opitimise */
 
 @media only screen and (max-width: 600px) {
@@ -1951,7 +1955,7 @@ ul.tabs-ul-04 i {
 
 }
 
-@media only screen and (max-width : 1600px) {
+/* @media only screen and (max-width : 1600px) {
 
     .youtube {
         position: relative;
@@ -1968,7 +1972,7 @@ ul.tabs-ul-04 i {
         bottom: 13vh;
         margin-bottom: -51%;
     }
-}
+} */
 
 /* Services tab section */
 

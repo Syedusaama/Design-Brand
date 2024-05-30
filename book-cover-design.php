@@ -8,7 +8,7 @@
 <?php include "./components/header.php"?>
 <!-- Main Header -->
 
-<section class="inner-banner2">
+<section class="inner-banner9">
     <div>
         <div class="inner-bann-heading">
             <div class="row align-items-center">
@@ -51,7 +51,7 @@
     <div class="container py-5">
         <div class="row align-items-center">
             <div class="col-md-6 innerban-content">
-                <h2>Book </h2>
+                <h2>Book Cover Design</h2>
                 <p>Capture the essence of your brand with our bespoke logo design service. In today's dynamic market, a distinctive logo is the cornerstone of your brand identity. Our seasoned team collaborates closely with you to understand your vision, values, and target audience. Whether you're a burgeoning startup or a seasoned corporation, we tailor our approach to suit your unique requirements. From minimalist and modern to intricate and illustrative, we breathe life into your brand through captivating visuals. Prioritizing originality and creativity, we ensure that your logo stands out amidst competitors. With meticulous attention to detail and a commitment to excellence, we deliver timeless designs that resonate with your audience. Elevate your brand identity with our unparalleled logo design service. Let's embark on this creative journey together.</p>
                 <div class="col">
                     <div class="row">
@@ -74,7 +74,7 @@
     <div class="container-fluid">
         <div class="row">
             <div class="col-md-12 text-center py-5">
-                <h2 class="title-heading">Logo Portfolio</h2>
+                <h2 class="title-heading">Book Cover Portfolio</h2>
                 <p class="title-p">In the virtual world teeming with competition, we stand out with our fair pricing model, prioritizing quality over quantity in every order. <br>Your satisfaction is our driving force, ensuring excellence with every project.</p>   
             </div>
             <div class="portfolio-items-box">

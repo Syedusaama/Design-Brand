@@ -79,18 +79,18 @@
             </div>
             <div class="portfolio-items-box">
             <div class="gallery">
-                <img src="./assets/images/portfolio/logo/l1.png" alt="a forest after an apocalypse">
-                <img src="./assets/images/portfolio/logo/l2.png" alt="a great view of the sea above the mountain">
-                <img src="./assets/images/portfolio/logo/l3.png" alt="a great view of the sea above the mountain">
-                <img src="./assets/images/portfolio/logo/l4.png" alt="a waterfall and many rocks">
-                <img src="./assets/images/portfolio/logo/l5.png" alt="sime pink flowers">
-                <img src="./assets/images/portfolio/logo/l6.png" alt="a cool landscape">
-                <img src="./assets/images/portfolio/logo/l7.png" alt="inside a town between two big buildings">
-                <img src="./assets/images/portfolio/logo/l8.png" alt="a great view of the sea above the mountain">
-                <img src="./assets/images/portfolio/logo/l9.png" alt="a house on a mountain">
-                <img src="./assets/images/portfolio/logo/l10.png" alt="a house on a mountain">
-                <img src="./assets/images/portfolio/logo/l11.png" alt="a house on a mountain">
-                <img src="./assets/images/portfolio/logo/l12.png" alt="a house on a mountain">
+                <img src="./assets/images/portfolio/logo/c1.png" alt="a forest after an apocalypse">
+                <img src="./assets/images/portfolio/logo/c2.png" alt="a great view of the sea above the mountain">
+                <img src="./assets/images/portfolio/logo/c3.png" alt="a great view of the sea above the mountain">
+                <img src="./assets/images/portfolio/logo/c4.png" alt="a waterfall and many rocks">
+                <img src="./assets/images/portfolio/logo/c5.png" alt="sime pink flowers">
+                <img src="./assets/images/portfolio/logo/c6.png" alt="a cool landscape">
+                <img src="./assets/images/portfolio/logo/c7.png" alt="inside a town between two big buildings">
+                <img src="./assets/images/portfolio/logo/c8.png" alt="a great view of the sea above the mountain">
+                <img src="./assets/images/portfolio/logo/c9.png" alt="a house on a mountain">
+                <img src="./assets/images/portfolio/logo/c10.png" alt="a house on a mountain">
+                <img src="./assets/images/portfolio/logo/c11.png" alt="a house on a mountain">
+                <img src="./assets/images/portfolio/logo/c12.png" alt="a house on a mountain">
               </div>
         </div>
     </div>

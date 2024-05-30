@@ -39,7 +39,7 @@
                     <h3 class="">Quick Links</h3>
                     <ul class="list-style">
                     <li><a href="#">1999 Broadway, Denver, CO 80202, USA</a></li>
-                    <li><a href="#">info@globalpublishingagency.com</a></li>
+                    <li><a href="#">info@globaldesignagency.com</a></li>
                     <li><a href="#">562-614-1989</a></li>
                     <img src="./assets/images/US-Payments-2.png" alt="">
                     </ul>

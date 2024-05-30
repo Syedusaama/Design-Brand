@@ -79,8 +79,6 @@
                             <div class="col">
                             </div>
                         </div>
-
-                    <!-- <div class="dropdown-divider"></div> -->
                     </div>
                 </li>
                 <li class="nav-item">

@@ -1601,6 +1601,9 @@ ul.tabs-ul-04 i {
     margin: auto;
     /* z-index: 2; */
 }
+.banner-hand-img{
+    display: none;
+}
 /* Mobile Opitimise */
 
 @media only screen and (max-width: 600px) {
@@ -1637,7 +1640,7 @@ ul.tabs-ul-04 i {
     }
     .main-banner{
         padding-top: 200px;
-        padding-bottom: 61px;
+        padding-bottom: 0px;
     }
     .creative-img{
         display: none;
@@ -1655,15 +1658,20 @@ ul.tabs-ul-04 i {
         display: none;
     }
     .youtube{
-        width: 340px;
+        width: 280px;
         height: 197px;
         margin-top: 20px;
+        display: none;
     }
     .youtube-back::after {
         width: 355px;
         height: 266px;
         left: 0px;
         top: 325px;
+        display: none;
+    }
+    .banner-hand-img{
+        display: block;
     }
     .banner-hand{
         display: none;

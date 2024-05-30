@@ -63,6 +63,10 @@
                             <source src="./Assets/images/main-video.mp4" type="video/mp4">
                             Your browser does not support the video tag.
                         </video>
+                        <div class="banner-hand-img">
+                <img  id="gifImage" src="./assets/images/main-ban-vid.gif" alt="GIF Image">
+                <script src="script.js"></script>   
+                </div> 
                     </div>
                 </div>
             <!-- <div class="col-md-6">

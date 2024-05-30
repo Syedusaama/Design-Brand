@@ -31,6 +31,8 @@
                     <li><a href="./animated-video.php">Video animation</a></li>
                     <li><a href="./business-marketing.php">Business marketing</a></li>
                     <li><a href="./social-media.php">Social Media</a></li>
+                    <li><a href="./book-cover-design.php">Book Cover Design</a></li>
+                    <li><a href="./book-writing.php">Book Writing</a></li>
                     </ul>
                 </div>
             </div>

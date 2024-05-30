@@ -59,8 +59,8 @@
                 <h1 class="banner-h1">Design A Digital Brand That <br> Meets Your Needs.</h1>
             </div>
                     <div class="youtube-back">
-                        <video autoplay="" muted="" controls="" loop="" poster="./Assets/images/poster.png" class="youtube">
-                            <source src="./Assets/images/main-video.mp4" type="video/mp4">
+                        <video autoplay="" muted="" controls="" loop="" poster="./assets/images/poster.png" class="youtube">
+                            <source src="./assets/images/main-video.mp4" type="video/mp4">
                             Your browser does not support the video tag.
                         </video>
                         <div class="banner-hand-img">

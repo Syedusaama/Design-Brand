@@ -289,7 +289,7 @@ button {
 /*header css*/
 .lord-img-w{
     width: 60px;
-    height: 70px;
+    height: 60px;
 }
 
 header {
@@ -1222,7 +1222,7 @@ ul.tabs-ul-04 i {
     margin-top: -120px;
 }
 .inner-banner9{
-    background-image: url(./assets/images/services/animated-video.png);
+    background-image: url(./assets/images/services/book-cover.png);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -1231,7 +1231,7 @@ ul.tabs-ul-04 i {
     margin-top: -120px;
 }
 .inner-banner10{
-    background-image: url(./assets/images/services/animated-video.png);
+    background-image: url(./assets/images/services/book-writing.png);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -1603,9 +1603,6 @@ ul.tabs-ul-04 i {
 
     .dropdown-menu.show{
         width: 300px !important;
-    }
-    .nav-box{
-        padding: 0px;
     }
     .nav-box a{
         font-size: 11px;

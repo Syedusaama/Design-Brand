@@ -3,7 +3,8 @@
         <div class="row">
             <div class="col-lg-4">
                 <div class="logotext-box">
-                <img src="./assets/images/footer-logo.png" alt="">
+                <a href="./index.php" class="navbar-brand logo" href="#"><img src="./assets/images/footer-logo.png" alt=""></a>      
+                <!-- <img src="./assets/images/footer-logo.png" alt=""> -->
                 <p>We're your all-in-one digital team, specializing in branding, marketing, web design, and development. From startups to established businesses, we've got you covered every step of the way.</p>
             </p>
             </div>

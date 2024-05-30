@@ -62,7 +62,7 @@
                 </div>
             </div>
             <div class="col-md-6 innerpage-rightimg">
-            <img src="./assets/images/services/first-section/logo.png" alt="">
+            <img src="./assets/images/services/first-section/book-cover.png" alt="">
             </div>
         </div>
     </div>

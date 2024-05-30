@@ -51,7 +51,7 @@
     <div class="container py-5">
         <div class="row align-items-center">
             <div class="col-md-6 innerban-content">
-                <h2>Logo Design</h2>
+                <h2>Book </h2>
                 <p>Capture the essence of your brand with our bespoke logo design service. In today's dynamic market, a distinctive logo is the cornerstone of your brand identity. Our seasoned team collaborates closely with you to understand your vision, values, and target audience. Whether you're a burgeoning startup or a seasoned corporation, we tailor our approach to suit your unique requirements. From minimalist and modern to intricate and illustrative, we breathe life into your brand through captivating visuals. Prioritizing originality and creativity, we ensure that your logo stands out amidst competitors. With meticulous attention to detail and a commitment to excellence, we deliver timeless designs that resonate with your audience. Elevate your brand identity with our unparalleled logo design service. Let's embark on this creative journey together.</p>
                 <div class="col">
                     <div class="row">

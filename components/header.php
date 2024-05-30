@@ -67,13 +67,13 @@
                             <div class="col nav-box">
                             <lord-icon class="lord-img-w" src="https://cdn.lordicon.com/lenjvibx.json" trigger="loop" delay="2000" colors="primary:#fd5605,secondary:#fd5605">
                             </lord-icon>
-                            <a class="dropdown-item" href="./animated-video.php">Book Cover Design</a>
+                            <a class="dropdown-item" href="./book-cover-design.php">Book Cover Design</a>
                             <p class="nav-box-p">A cover design that transforms stories into stunning books</p>
                             </div>
                             <div class="col nav-box">
                             <lord-icon class="lord-img-w" src="https://cdn.lordicon.com/ghhwiltn.json" trigger="loop" delay="2000" colors="primary:#fd5605,secondary:#fd5605">
                             </lord-icon>
-                            <a class="dropdown-item" href="./business-marketing.php">Book Writing</a>
+                            <a class="dropdown-item" href="./book-writing.php">Book Writing</a>
                             <p class="nav-box-p">Professional Book Writing Turns Your Vision into Words</p>
                             </div>
                             <div class="col">

@@ -7,29 +7,6 @@
 <!-- Main Header -->
 <?php include "./components/header.php"?>
 <!-- Main Header -->
-
-<!-- Main Banner -->
-<!-- <div class="custom-cursor" id="customCursor"></div>
-    <script>
-        const cursor = document.getElementById('customCursor');
-
-        document.addEventListener('mousemove', function(e) {
-            cursor.style.left = e.clientX + 'px';
-            cursor.style.top = e.clientY + 'px';
-        });
-
-        document.addEventListener('mousedown', function() {
-            cursor.style.width = '30px'; /* Diameter when clicked */
-            cursor.style.height = '30px'; /* Diameter when clicked */
-        });
-
-        document.addEventListener('mouseup', function() {
-            cursor.style.width = '10px'; /* Initial diameter */
-            cursor.style.height = '10px'; /* Initial diameter */
-        });
-    </script>
-    </script> -->
-
 <section class="banner">
     <div class="main-banner">
         <div class="row">
@@ -41,43 +18,23 @@
                     <a href="www.linkinden.com"><img src="./assets/images/logos/linkinden.png" alt=""></a>
                 </div>
                 <img class="creative-img" src="./assets/images/Creative.png" alt="">
-                <!-- <div class="col left-shapes">
-                    <img class="shapes1" src="./assets/images/cube_3d_shape.png" alt="">
-                    <img class="shapes2" src="./assets/images/cone_3d_shape.png" alt="">
-                </div> -->
             </div>
-            <!-- <div class="col-md-6">
-                <div class="banner-hand-img">
-                <h1 class="banner-h1">Design A Digital Brand That <br> Meets Your Needs.</h1>
-                <img  id="gifImage" src="./assets/images/main-ban-vid.gif" alt="GIF Image">
-                <script src="script.js"></script>   
-                </div>    
-            </div> -->
-
             <div class="col-md-6 align-items-center justify-content-center">
-                            <div>
+            <div>
                 <h1 class="banner-h1">Design A Digital Brand That <br> Meets Your Needs.</h1>
             </div>
-                    <div class="youtube-back">
+                <div class="youtube-back">
                         <video autoplay="" muted="" controls="" loop="" poster="./assets/images/poster.png" class="youtube">
                             <source src="./assets/images/main-video.mp4" type="video/mp4">
                             Your browser does not support the video tag.
                         </video>
                         <div class="banner-hand-img">
-                <img  id="gifImage" src="./assets/images/main-ban-vid.gif" alt="GIF Image">
-                <script src="script.js"></script>   
-                </div> 
-                    </div>
+                            <img  id="gifImage" src="./assets/images/main-ban-vid.gif" alt="GIF Image">
+                            <script src="script.js"></script>   
+                        </div> 
                 </div>
-            <!-- <div class="col-md-6">
-                <video autoplay loop muted>
-                <source src="./assets/images/aaaaa.mp4" type="video/mp4">
-                </video>
-            </div> -->
+                </div>
             <div class="col-md-3 right-img-container">
-              <!-- <div class="col left-shapes">
-                    <img class="shapes3" src="./assets/images/donut_3d_shape.png" alt="">
-                </div>  -->
                 <img class="design-img" src="./assets/images/Design.png" alt="">
             </div>
         </div>

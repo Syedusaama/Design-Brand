@@ -14,6 +14,7 @@
         <div class="row">
         <div class="col-md-8 inner-bann-heading">
                 <h1>We're Passionate About <span class="subheading-clr">Design</span></h1>
+                <p>With an unwavering passion for creativity and innovation, we go above and beyond to provide stellar services that are tailored to each client's specific needs. From concept to execution, we put our heart and soul into every project, ensuring that our clients get nothing but the best.</p>
             </div>
             <div class="col-md-4">
             </div>

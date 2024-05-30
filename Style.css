@@ -1634,8 +1634,8 @@ ul.tabs-ul-04 i {
         padding: 8px 30px;
     }
     .main-banner{
-        padding-top: 250px;
-        padding-bottom: 0px;
+        padding-top: 200px;
+        padding-bottom: 61px;
     }
     .creative-img{
         display: none;
@@ -1653,7 +1653,15 @@ ul.tabs-ul-04 i {
         display: none;
     }
     .youtube{
-        display: none;
+        width: 340px;
+        height: 197px;
+        margin-top: 20px;
+    }
+    .youtube-back::after {
+        width: 355px;
+        height: 266px;
+        left: 0px;
+        top: 325px;
     }
     .banner-hand{
         display: none;

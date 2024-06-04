@@ -68,7 +68,32 @@
     </div>
 </section>
 <!-- First Section -->
+<div class="gallery1">
+        <img src="./assets/images/portfolio/animated/sc.png" data-video="video1.mp4" alt="Video 1">
+        <img src="thumbnail2.jpg" data-video="video2.mp4" alt="Video 2">
+        <img src="thumbnail3.jpg" data-video="video3.mp4" alt="Video 3">
+        <img src="thumbnail4.jpg" data-video="video4.mp4" alt="Video 4">
+        <img src="thumbnail5.jpg" data-video="video5.mp4" alt="Video 5">
+        <img src="thumbnail6.jpg" data-video="video6.mp4" alt="Video 6">
+        <img src="thumbnail7.jpg" data-video="video7.mp4" alt="Video 7">
+        <img src="thumbnail8.jpg" data-video="video8.mp4" alt="Video 8">
+        <img src="thumbnail9.jpg" data-video="video9.mp4" alt="Video 9">
+        <img src="thumbnail10.jpg" data-video="video10.mp4" alt="Video 10">
+        <img src="thumbnail11.jpg" data-video="video11.mp4" alt="Video 11">
+        <img src="thumbnail12.jpg" data-video="video12.mp4" alt="Video 12">
+    </div>
 
+    <!-- The Modal -->
+    <div id="videoModal" class="modal">
+        <div class="modal-content">
+            <span class="close">&times;</span>
+            <video id="modalVideo" controls>
+                <source src="" type="video/mp4">
+                Your browser does not support the video tag.
+            </video>
+    </div>
+
+</div>
 <!-- Second Section -->
 <section class="inner-second-secbanner">
     <div class="container-fluid">
@@ -79,17 +104,7 @@
             </div>
             <div class="portfolio-items-box">
             <div class="gallery">
-            <button id="openModalBtn">Open Video</button>
-                <!-- The Modal -->
-                <div id="videoModal" class="modal">
-                    <div class="modal-content">
-                        <span class="close">&times;</span>
-                        <video controls>
-                            <source src="assets/images/aaaaa.mp4" type="video/mp4">
-                            Your browser does not support the video tag.
-                        </video>
-                    </div>
-                </div>
+
                 <img src="./assets/images/earth.webp" alt="a forest after an apocalypse">
                 <img src="./assets/images/portfolio/v2.png" alt="a great view of the sea above the mountain">
                 <img src="./assets/images/portfolio/w2.png" alt="a great view of the sea above the mountain">

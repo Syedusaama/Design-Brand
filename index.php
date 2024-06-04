@@ -228,7 +228,7 @@
 <!-- Footer Section -->
 <?php include "./components/footer.php"?>
 <!-- Footer Section -->
-
+<script src="./assets/js/script.js"></script>
 <!-- // Get the image element -->
 <script>
 const gifElement = document.getElementById('gifImage');
@@ -243,7 +243,7 @@ function restartGif() {
 // Set the interval to restart the GIF every 5 seconds (5000 milliseconds)
 setInterval(restartGif, 7000);
 </script>
-<script src="./script.js"></script>
+
 <script src="./assets/js/jquery.js"></script>
 <script src="./assets/js/custom.js"></script>
 <script>

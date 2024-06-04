@@ -1,20 +1,21 @@
-#openModalBtn {
-    background-color: #ff4757;
-    border: none;
-    color: white;
-    padding: 15px 30px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 16px;
-    margin: 4px 2px;
-    cursor: pointer;
-    border-radius: 12px;
-    transition: background-color 0.3s ease;
+.gallery1 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
 }
 
-#openModalBtn:hover {
-    background-color: #ff6b81;
+.gallery1 img {
+    width: 150px;
+    height: 100px;
+    object-fit: cover;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: transform 0.3s ease;
+}
+
+.gallery1 img:hover {
+    transform: scale(1.05);
 }
 
 /* Modal styles */

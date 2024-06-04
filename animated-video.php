@@ -79,6 +79,17 @@
             </div>
             <div class="portfolio-items-box">
             <div class="gallery">
+            <button id="openModalBtn">Open Video</button>
+                <!-- The Modal -->
+                <div id="videoModal" class="modal">
+                    <div class="modal-content">
+                        <span class="close">&times;</span>
+                        <video controls>
+                            <source src="assets/images/aaaaa.mp4" type="video/mp4">
+                            Your browser does not support the video tag.
+                        </video>
+                    </div>
+                </div>
                 <img src="./assets/images/earth.webp" alt="a forest after an apocalypse">
                 <img src="./assets/images/portfolio/v2.png" alt="a great view of the sea above the mountain">
                 <img src="./assets/images/portfolio/w2.png" alt="a great view of the sea above the mountain">

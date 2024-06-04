@@ -1,3 +1,84 @@
+#openModalBtn {
+    background-color: #ff4757;
+    border: none;
+    color: white;
+    padding: 15px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 12px;
+    transition: background-color 0.3s ease;
+}
+
+#openModalBtn:hover {
+    background-color: #ff6b81;
+}
+
+/* Modal styles */
+.modal {
+    display: none; /* Hidden by default */
+    position: fixed;
+    z-index: 1; /* Sit on top */
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgba(0, 0, 0, 0.8); /* Black w/ opacity */
+    justify-content: center;
+    align-items: center;
+    backdrop-filter: blur(10px);
+    animation: fadeIn 0.5s;
+}
+
+.modal-content {
+    background-color: #1c1c1c;
+    color: white;
+    margin: auto;
+    padding: 0;
+    border: none;
+    width: 80%;
+    max-width: 800px;
+    border-radius: 10px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+    animation: slideIn 0.5s;
+    overflow: hidden;
+}
+
+.close {
+    color: white;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+    padding: 10px;
+}
+
+.close:hover,
+.close:focus {
+    color: #ff6b81;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+video {
+    width: 100%;
+}
+
+@keyframes fadeIn {
+    from {opacity: 0;}
+    to {opacity: 1;}
+}
+
+@keyframes slideIn {
+    from {transform: translateY(-50px);}
+    to {transform: translateY(0);}
+}
+
+
+
 /*Main Css */
 /* body {
     cursor: none;

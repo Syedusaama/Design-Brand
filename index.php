@@ -12,30 +12,30 @@
         <div class="row">
             <div class="col-md-3 img-container">
                 <div class="col logos">
-                    <a href="www.facebook.com"><img src="./assets/images/logos/facebook.png" alt=""></a>
-                    <a href="www.instagram.com"><img src="./assets/images/logos/instagram.png" alt=""></a>
-                    <a href="www.twitter.com"><img src="./assets/images/logos/twitter.png" alt=""></a>
-                    <a href="www.linkinden.com"><img src="./assets/images/logos/linkinden.png" alt=""></a>
+                    <a href="www.facebook.com"><img src="./assets/images/logos/facebook.webp" alt=""></a>
+                    <a href="www.instagram.com"><img src="./assets/images/logos/instagram.webp" alt=""></a>
+                    <a href="www.twitter.com"><img src="./assets/images/logos/twitter.webp" alt=""></a>
+                    <a href="www.linkinden.com"><img src="./assets/images/logos/linkinden.webp" alt=""></a>
                 </div>
-                <img class="creative-img" src="./assets/images/Creative.png" alt="">
+                <img class="creative-img" src="./assets/images/Creative.webp" alt="">
             </div>
             <div class="col-md-6 align-items-center justify-content-center">
             <div>
-                <h1 class="banner-h1">Design A Digital Brand That <br> Meets Your Needs.</h1>
+                <h1 class="banner-h1">Design A Digital Brand That <br> Meets Your Needs</h1>
             </div>
                 <div class="youtube-back">
-                        <video autoplay="" muted="" controls="" loop="" poster="./assets/images/poster.png" class="youtube">
+                        <video autoplay="" muted="" controls="" loop="" poster="./assets/images/poster.webp" class="youtube">
                             <source src="./assets/images/main-video.mp4" type="video/mp4">
                             Your browser does not support the video tag.
                         </video>
                         <div class="banner-hand-img">
-                            <img  id="gifImage" src="./assets/images/main-ban-vid.gif" alt="GIF Image">
+                            <img id="gifImage" src="http://localhost/design-brand/assets/images/main-ban-vid.gif?1717514819130" alt="GIF Image">
                             <script src="script.js"></script>   
                         </div> 
                 </div>
                 </div>
             <div class="col-md-3 right-img-container">
-                <img class="design-img" src="./assets/images/Design.png" alt="">
+                <img class="design-img" src="./assets/images/Design.webp" alt="">
             </div>
         </div>
     </div>
@@ -52,42 +52,58 @@
             <div class="col-md-12">
                 <div class="row">
                     <div class="col sevice-body">
-                        <a href="./branding.php" target=”_blank”><img src="./assets/images/branding.png" alt="">
+                        <a href="./branding.php" target=”_blank”><img src="./assets/images/branding.webp" alt="">
                         <h2>Branding</h2>
-                        <p>Craft Your Unique Brand: Discover the essence of your brand with our design website. Join forces with us to create a standout identity that deeply connects with your audience. Together, let's transform your vision into reality.</p>
+                        <p>Discover the essence of your brand with our design website. Join forces with us to create a standout identity that deeply connects with your audience. Together, let's transform your vision into reality.</p>
                             </a>
                     </div>
                     <div class="col sevice-body">
-                        <a href="./logo-design.php" target=”_blank”><img src="./assets/images/logo-design.png" alt="">
+                        <a href="./logo-design.php" target=”_blank”><img src="./assets/images/logo-design.webp" alt="">
                         <h2>Logo Design</h2>
                         <p>Designing logos that capture your brand's essence is our specialty. Let's collaborate to create one that not only stands out but also speaks volumes about your brand. Enhance your brand's identity and leave a lasting impression with our expert design services.</p>
                             </a>
                     </div>
                     <div class="col sevice-body">
-                        <a href="./social-media.php" target=”_blank”><img src="./assets/images/social-media.png" alt="">
+                        <a href="./social-media.php" target=”_blank”><img src="./assets/images/social-media.webp" alt="">
                         <h2>Social Media</h2>
-                        <p>Expand Your Brand's Influence: Dive into social media with us. Our expert team crafts engaging content to spark conversations and drive your brand forward. Together, let's cultivate a loyal community and elevate your brand's impact online.</p>
+                        <p>Dive into social media with us. Our expert team crafts engaging content to spark conversations and drive your brand forward. Together, let's cultivate a loyal community and elevate your brand's impact online.</p>
                             </a>
                     </div>
                 </div>
                 <div class="row">
                     <div class="col sevice-body">
-                        <a href="./web-design-development.php" target=”_blank”><img src="./assets/images/Web Design-Development.png" alt="">
+                        <a href="./web-design-development.php" target=”_blank”><img src="./assets/images/Web Design-Development.webp" alt="">
                         <h2>Web Design And Development</h2>
-                        <p>Empower Your Online Presence: Explore our design website for cutting-edge web design and development. Together, let's craft a digital platform that speaks volumes about your brand and captivates your audience. Ready to make your mark online?</p>
+                        <p>Explore our design website for cutting-edge web design and development. Together, let's craft a digital platform that speaks volumes about your brand and captivates your audience. Ready to make your mark online?</p>
                             </a>
                     </div>
                     <div class="col sevice-body">
-                        <a href="./animated-video.php" target=”_blank”><img src="./assets/images/Animated-Video.png" alt="">
+                        <a href="./animated-video.php" target=”_blank”><img src="./assets/images/Animated-Video.webp" alt="">
                         <h2>Animated Video</h2>
-                        <p>Animate Your Narrative: Explore animated video with our design website. We specialize in crafting captivating visuals that breathe life into your story. Let's collaborate to create an unforgettable animated experience for your brand.</p>
+                        <p>Explore animated video with our design website. We specialize in crafting captivating visuals that breathe life into your story. Let's collaborate to create an unforgettable animated experience for your brand.</p>
                             </a>
                     </div>
                     <div class="col sevice-body">
-                        <a href="./brand-marketing.php" target=”_blank”><img src="./assets/images/Brand-Marketing.png" alt="">
+                        <a href="./brand-marketing.php" target=”_blank”><img src="./assets/images/Brand-Marketing.webp" alt="">
                         <h2>Brand Marketing</h2>
-                        <p>Elevate Your Brand's Reach: Explore brand marketing with our design website. From strategic campaigns to engaging content, we'll enhance your brand's visibility and resonance. Let's collaborate on a tailored strategy to propel your brand forward online.</p>
+                        <p>Explore brand marketing with our design website. From strategic campaigns to engaging content, we'll enhance your brand's visibility and resonance. Let's collaborate on a tailored strategy to propel your brand forward online.</p>
                             </a>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col sevice-body">
+                        <a href="./book-cover-design.php" target=”_blank”><img src="./assets/images/book-design.webp" alt="">
+                        <h2>Book Cover Design</h2>
+                        <p>Trust us with the visual representation of your literary masterpiece. Our talented designers will create a stunning cover that captures the essence of your book and compels readers to explore its pages. Let's work together to make your book stand out on the shelves and leave a lasting impression on your audience.</p>
+                        </a>
+                    </div>
+                    <div class="col sevice-body">
+                        <a href="./animated-video.php" target=”_blank”><img src="./assets/images/book-writing.webp" alt="">
+                        <h2>Book Writing</h2>
+                        <p>Allow our experienced team to walk you through the process of bringing your book to life. From refining your ideas to creating compelling narratives, we are here to help you turn your vision into a captivating story. Join us on this exciting journey toward making your dreams of becoming an author a reality.</p>
+                        </a>
+                    </div>
+                    <div class="col sevice-body-lastcoln">
                     </div>
                 </div>
             </div>
@@ -104,7 +120,7 @@
 <section class="work-backgroud">
     <div>
         <div class="premium-img">
-            <img src="./assets/images/Premium.png" alt="">
+            <img src="./assets/images/Premium.webp" alt="">
         </div>
     </div>
     <div class="container">
@@ -228,29 +244,6 @@
 <!-- Footer Section -->
 <?php include "./components/footer.php"?>
 <!-- Footer Section -->
-<script src="./assets/js/script.js"></script>
-<!-- // Get the image element -->
-<script>
-const gifElement = document.getElementById('gifImage');
-
-// Function to restart the GIF
-function restartGif() {
-    // Create a new URL object to force the browser to reload the image
-    const gifUrl = gifElement.src.split('?')[0];
-    gifElement.src = gifUrl + '?' + new Date().getTime();
-}
-
-// Set the interval to restart the GIF every 5 seconds (5000 milliseconds)
-setInterval(restartGif, 7000);
-</script>
-
-<script src="./assets/js/jquery.js"></script>
-<script src="./assets/js/custom.js"></script>
-<script>
-    new WOW().init();
-</script>
-<script src="https://cdn.lordicon.com/lordicon.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
 
 </body>
 </html>

@@ -25,12 +25,12 @@
                         <img src="./assets/images/portfolio/branding/b2.png" alt="a waterfall and many rocks">
                         <img src="./assets/images/portfolio/l2.png" alt="sime pink flowers">
                         <img src="./assets/images/portfolio/social-media/s2.png" alt="a cool landscape">
-                        <img src="./assets/images/portfolio/v1.png" alt="inside a town between two big buildings">
+                        <img src="./assets/images/portfolio/animated/sc7.webp" data-video="assets/images/portfolio/animated/video7.mp4" alt="Video 7">
                         <img src="./assets/images/portfolio/web/w1.png" alt="a great view of the sea above the mountain">
                         <img src="./assets/images/portfolio/l1.png" alt="a house on a mountain">
                         <img src="./assets/images/portfolio/social-media/s1.png" alt="a waterfall, a lot of tree and a great view from the sky">
                         <img src="./assets/images/portfolio/l3.png" alt="big rocks with some trees">
-                        <img src="./assets/images/portfolio/web/w3.png" alt="a great view of the sea above the mountain">
+                        <img src="./assets/images/portfolio/animated/sc12.webp" data-video="assets/images/portfolio/animated/video12.mp4" alt="Video 12">
                       </div>
                 </div>
             </li>
@@ -79,9 +79,6 @@
                 </div>
             </li>
         </ul>
-            <div class="tabs-btn text-center">
-            <a href="#" class="main-btn">Load More</a>
-            </div>
     </div>
     <div class="box-port4">
         <ul class="portfolio-items">
@@ -124,7 +121,6 @@
                         <img src="./assets/images/portfolio/web/w11.png" alt="a house on a mountain">
                         <img src="./assets/images/portfolio/web/w12.png" alt="a house on a mountain">
                       </div>
-
                 </div>
             </li>
         </ul>
@@ -133,21 +129,20 @@
         <ul class="portfolio-items">
             <li>
                 <div class="portfolio-items-box">
-                    <div class="gallery">
-                        <img src="./assets/images/portfolio/s1.png" alt="a waterfall, a lot of tree and a great view from the sky">
-                        <img src="./assets/images/portfolio/s2.png" alt="a cool landscape">
-                        <img src="./assets/images/portfolio/v1.png" alt="inside a town between two big buildings">
-                        <img src="./assets/images/portfolio/v2.png" alt="a great view of the sea above the mountain">
-                        <img src="./assets/images/portfolio/w1.png" alt="a great view of the sea above the mountain">
-                        <img src="./assets/images/portfolio/w2.png" alt="a great view of the sea above the mountain">
-                        <img src="./assets/images/portfolio/w3.png" alt="a great view of the sea above the mountain">
-                        <img src="./assets/images/portfolio/b1.png" alt="a forest after an apocalypse">
-                        <img src="./assets/images/portfolio/b2.png" alt="a waterfall and many rocks">
-                        <img src="./assets/images/portfolio/l1.png" alt="a house on a mountain">
-                        <img src="./assets/images/portfolio/l2.png" alt="sime pink flowers">
-                        <img src="./assets/images/portfolio/l3.png" alt="big rocks with some trees">
-                      </div>
-
+                    <div class="gallery1">
+                    <img src="./assets/images/portfolio/animated/sc1.webp" data-video="assets/images/portfolio/animated/video1.mp4" alt="Video 1">
+                    <img src="./assets/images/portfolio/animated/sc2.webp" data-video="assets/images/portfolio/animated/video2.mp4" alt="Video 2">
+                    <img src="./assets/images/portfolio/animated/sc3.webp" data-video="assets/images/portfolio/animated/video3.mp4" alt="Video 3">
+                    <img src="./assets/images/portfolio/animated/sc4.webp" data-video="assets/images/portfolio/animated/video4.mp4" alt="Video 4">
+                    <img src="./assets/images/portfolio/animated/sc5.webp" data-video="assets/images/portfolio/animated/video5.mp4" alt="Video 5">
+                    <img src="./assets/images/portfolio/animated/sc6.webp" data-video="assets/images/portfolio/animated/video6.mp4" alt="Video 6">
+                    <img src="./assets/images/portfolio/animated/sc7.webp" data-video="assets/images/portfolio/animated/video7.mp4" alt="Video 7">
+                    <img src="./assets/images/portfolio/animated/sc8.webp" data-video="assets/images/portfolio/animated/video8.mp4" alt="Video 8">
+                    <img src="./assets/images/portfolio/animated/sc9.webp" data-video="assets/images/portfolio/animated/video9.mp4" alt="Video 9">
+                    <img src="./assets/images/portfolio/animated/sc10.webp" data-video="assets/images/portfolio/animated/video10.mp4" alt="Video 10">
+                    <img src="./assets/images/portfolio/animated/sc11.webp" data-video="assets/images/portfolio/animated/video11.mp4" alt="Video 11">
+                    <img src="./assets/images/portfolio/animated/sc12.webp" data-video="assets/images/portfolio/animated/video12.mp4" alt="Video 12">
+                    </div>
                 </div>
             </li>
         </ul>

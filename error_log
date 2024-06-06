@@ -1,0 +1,1 @@
+[28-May-2024 23:10:00 UTC] PHP Parse error:  syntax error, unexpected 'print_r' (T_STRING), expecting ';' or ',' in /home/globaldesignsage/public_html/sendmail.php on line 12

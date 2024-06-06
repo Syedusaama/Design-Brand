@@ -13,31 +13,12 @@
     <div class="inner-bann-heading">
         <div class="row align-items-center">
         <div class="col-md-7 inner-bann-heading">
-                <h1>Unlock the Power of <span class="subheading-clr">Social</span> Let’s Boost Your Online Impact</h1>
+                <h1>Unlock the Power of <span class="subheading-clr">Social Media</span> Boost Your Impact Online</h1>
                 <p>At the Global Design Agency, our expert team will boost your online presence through targeted strategies, engaging content and effective campaigns. Connect with your audience, increase your reach, and build a vibrant online presence with our social media services.</p>
             </div>
             <div class="col-md-5">
             <!-- form -->
-            <div class="form_banner">
-                <form class="form-get-quote" action="javascript:void(0)">
-                    <h3>We will always provide the best service.</h3>
-                    <div class="grp">
-                        <input type="text" name="quote[name]" placeholder="Your Name" required="">
-                    </div>
-                    <div class="grp">
-                        <input type="email" name="quote[email]" placeholder="Email Address" required="">
-                    </div>
-                    <div class="grp">
-                        <input type="text" name="quote[phone]" placeholder="Phone Number" required="">
-                    </div>
-                    <div class="grp">
-                        <textarea name="quote[message]" placeholder="I am looking for..."></textarea>
-                    </div>
-                    <div class="grp">
-                        <button class="btn-title">Submit</button>
-                    </div>
-                </form>
-                </div>
+            <?php include "./components/banner.php"?>
                 <!-- form -->
             </div>
         </div>
@@ -194,11 +175,9 @@
 <?php include "./components/footer.php"?>
 <!-- Footer Section -->
 
-<script src="/assets/js/jquery.js"></script>
-<script src="/assets/js/custom.js"></script>
-<script>
-    new WOW().init();
-</script>
-<script src="https://cdn.lordicon.com/lordicon.js"></script>
+
+
+
+
 </body>
 </html>

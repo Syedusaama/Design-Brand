@@ -13,31 +13,12 @@
     <div class="inner-bann-heading">
         <div class="row align-items-center">
         <div class="col-md-7 inner-bann-heading">
-                <h1>Experience Growth As You’ve Never Before With Our <span class="subheading-clr">Business Marketing</span> Expertise</h1>
+                <h1>Achieve Explosive Growth with Our Expert <span class="subheading-clr">Business Marketing</span></h1>
                 <p>Global Design Agency offers strategic marketing solutions tailored to your needs, driving results and maximizing your ROI. Let us help you reach new heights and achieve your business goals.</p>
             </div>
             <div class="col-md-5">
             <!-- form -->
-            <div class="form_banner">
-                <form class="form-get-quote" action="javascript:void(0)">
-                    <h3>We will always provide the best service.</h3>
-                    <div class="grp">
-                        <input type="text" name="quote[name]" placeholder="Your Name" required="">
-                    </div>
-                    <div class="grp">
-                        <input type="email" name="quote[email]" placeholder="Email Address" required="">
-                    </div>
-                    <div class="grp">
-                        <input type="text" name="quote[phone]" placeholder="Phone Number" required="">
-                    </div>
-                    <div class="grp">
-                        <textarea name="quote[message]" placeholder="I am looking for..."></textarea>
-                    </div>
-                    <div class="grp">
-                        <button class="btn-title">Submit</button>
-                    </div>
-                </form>
-                </div>
+            <?php include "./components/banner.php"?>
                 <!-- form -->
             </div>
         </div>
@@ -69,38 +50,6 @@
 </section>
 <!-- First Section -->
 
-<!-- Second Section -->
-<!-- <section class="inner-second-secbanner">
-    <div class="container-fluid">
-        <div class="row">
-            <div class="col-md-12 text-center py-5">
-                <h2 class="title-heading">OUR BRAND MARKETING SHOWCASE</h2>
-                <p class="title-p">To stand out in the competitive market, we operate on a fair pricing model. <br> Our commitment is to provide stellar service, prioritizing quality over quantity in every project, to ensure ultimate satisfaction.</p>   
-            </div>
-            <div class="portfolio-items-box">
-            <div class="gallery">
-                <img src="./assets/images/portfolio/b1.png" alt="a forest after an apocalypse">
-                <img src="./assets/images/portfolio/v2.png" alt="a great view of the sea above the mountain">
-                <img src="./assets/images/portfolio/w2.png" alt="a great view of the sea above the mountain">
-                <img src="./assets/images/portfolio/b2.png" alt="a waterfall and many rocks">
-                <img src="./assets/images/portfolio/l2.png" alt="sime pink flowers">
-                <img src="./assets/images/portfolio/s2.png" alt="a cool landscape">
-                <img src="./assets/images/portfolio/v1.png" alt="inside a town between two big buildings">
-                <img src="./assets/images/portfolio/w1.png" alt="a great view of the sea above the mountain">
-                <img src="./assets/images/portfolio/l1.png" alt="a house on a mountain">
-                <img src="./assets/images/portfolio/s1.png" alt="a waterfall, a lot of tree and a great view from the sky">
-                <img src="./assets/images/portfolio/l3.png" alt="big rocks with some trees">
-                <img src="./assets/images/portfolio/w3.png" alt="a great view of the sea above the mountain">
-              </div>
-        </div>
-    </div>
-    </div>
-</section> -->
-
-
- <!-- Second Section -->
-
-
 <!-- Third section-->
 <section class="inner-third-secbanner">
     <div class="container" >
@@ -117,7 +66,7 @@
                         </div>
                         <div class="project-item-body">
                             <h5>Instent Basic </h5>
-                            <h4>$99</h4>
+                            <!-- <h4>$99</h4> -->
                             <ul class="tabs-ul-01">
                             <li><i class="fa-solid fa-check"></i>1 Logo Design Concepts</li>
                             <li><i class="fa-solid fa-check"></i>By 1 Experienced Designer</li>
@@ -139,7 +88,7 @@
                         </div>
                         <div class="project-item-body">
                             <h5>Instent Basic </h5>
-                            <h4>$99</h4>
+                            <!-- <h4>$99</h4> -->
                             <ul class="tabs-ul-01">
                             <li><i class="fa-solid fa-check"></i>1 Logo Design Concepts</li>
                             <li><i class="fa-solid fa-check"></i>By 1 Experienced Designer</li>
@@ -161,7 +110,7 @@
                         </div>
                         <div class="project-item-body">
                             <h5>Instent Basic </h5>
-                            <h4>$99</h4>
+                            <!-- <h4>$99</h4> -->
                             <ul class="tabs-ul-01">
                             <li><i class="fa-solid fa-check"></i>1 Logo Design Concepts</li>
                             <li><i class="fa-solid fa-check"></i>By 1 Experienced Designer</li>
@@ -194,11 +143,7 @@
 <?php include "./components/footer.php"?>
 <!-- Footer Section -->
 
-<script src="/assets/js/jquery.js"></script>
-<script src="/assets/js/custom.js"></script>
-<script>
-    new WOW().init();
-</script>
-<script src="https://cdn.lordicon.com/lordicon.js"></script>
+
+
 </body>
 </html>

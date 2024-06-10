@@ -18,26 +18,7 @@
             </div>
             <div class="col-md-5">
             <!-- form -->
-            <div class="form_banner">
-                <form class="form-get-quote" action="javascript:void(0)">
-                    <h3>We will always provide the best service.</h3>
-                    <div class="grp">
-                        <input type="text" name="quote[name]" placeholder="Your Name" required="">
-                    </div>
-                    <div class="grp">
-                        <input type="email" name="quote[email]" placeholder="Email Address" required="">
-                    </div>
-                    <div class="grp">
-                        <input type="text" name="quote[phone]" placeholder="Phone Number" required="">
-                    </div>
-                    <div class="grp">
-                        <textarea name="quote[message]" placeholder="I am looking for..."></textarea>
-                    </div>
-                    <div class="grp">
-                        <button class="btn-title">Submit</button>
-                    </div>
-                </form>
-                </div>
+            <?php include "./components/banner.php"?>
                 <!-- form -->
             </div>
         </div>
@@ -52,7 +33,7 @@
         <div class="row align-items-center">
             <div class="col-md-6 innerban-content">
                 <h2>We Boost Your Online Presence</h2>
-                <p>Welcome to our world of web development and design, where innovation meets functionality to create stunning digital experiences. In today's digital age, your website serves as the virtual storefront for your business, making a strong first impression paramount. Our expert team combines cutting-edge design principles with robust development techniques to craft websites that not only look beautiful but also perform seamlessly across all devices. From intuitive user interfaces to engaging experiences, we prioritize user-centric design to ensure maximum engagement and conversion. Whether you're a startup looking to establish your online presence or a seasoned enterprise seeking a website revamp, we tailor our solutions to meet your unique needs and objectives. With a focus on clean code, optimized performance, and scalability, we build websites that impress and drive results. Elevate your online presence, stand out in the digital landscape with our bespoke web development, and design services. Let's bring your vision to life and create a digital masterpiece together.</p>
+                <p>Welcome to our world of web development and design, where innovation meets functionality to create stunning digital experiences. In today's digital age, your website is your virtual storefront, making a strong first impression crucial. Our expert team combines cutting-edge design principles with robust development techniques to craft beautiful, seamless websites. From intuitive user interfaces to engaging experiences, we prioritize user-centric design for maximum engagement and conversion. Whether you're a startup or an established enterprise, we tailor our solutions to meet your unique needs. With clean code, optimized performance, and scalability, we build websites that impress and drive results. Elevate your online presence with our bespoke web development and design services. Let's bring your vision to life and create a digital masterpiece together.</p>
                 <div class="col">
                     <div class="row">
                         <div class="col-md-6">
@@ -114,7 +95,7 @@
                         </div>
                         <div class="project-item-body">
                             <h5>Instent Basic </h5>
-                            <h4>$99</h4>
+                            <!-- <h4>$99</h4> -->
                             <ul class="tabs-ul-01">
                             <li><i class="fa-solid fa-check"></i>1 Logo Design Concepts</li>
                             <li><i class="fa-solid fa-check"></i>By 1 Experienced Designer</li>
@@ -136,7 +117,7 @@
                         </div>
                         <div class="project-item-body">
                             <h5>Instent Basic </h5>
-                            <h4>$99</h4>
+                            <!-- <h4>$99</h4> -->
                             <ul class="tabs-ul-01">
                             <li><i class="fa-solid fa-check"></i>1 Logo Design Concepts</li>
                             <li><i class="fa-solid fa-check"></i>By 1 Experienced Designer</li>
@@ -158,7 +139,7 @@
                         </div>
                         <div class="project-item-body">
                             <h5>Instent Basic </h5>
-                            <h4>$99</h4>
+                            <!-- <h4>$99</h4> -->
                             <ul class="tabs-ul-01">
                             <li><i class="fa-solid fa-check"></i>1 Logo Design Concepts</li>
                             <li><i class="fa-solid fa-check"></i>By 1 Experienced Designer</li>
@@ -191,11 +172,8 @@
 <?php include "./components/footer.php"?>
 <!-- Footer Section -->
 
-<script src="/assets/js/jquery.js"></script>
-<script src="/assets/js/custom.js"></script>
-<script>
-    new WOW().init();
-</script>
-<script src="https://cdn.lordicon.com/lordicon.js"></script>
+
+
+
 </body>
 </html>

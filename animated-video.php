@@ -14,30 +14,11 @@
         <div class="row align-items-center">
         <div class="col-md-7 inner-bann-heading">
                 <h1>Lights, Pixels, <span class="subheading-clr">Animations</span>, Crafting Visual Wonders One Frame at a Time</h1>
-                <p>Global Design Agency, we create visual wonders one frame at a time. Our talented animators produce captivating video content that tells your story with creativity and flair. Elevate your brand’s message with stunning animations that captivate and engage masses.</p>
+                <!-- <p>Global Design Agency, we create visual wonders one frame at a time. Our talented animators produce captivating video content that tells your story with creativity and flair. Elevate your brand’s message with stunning animations that captivate and engage masses.</p> -->
             </div>
             <div class="col-md-5">
             <!-- form -->
-            <div class="form_banner">
-                <form class="form-get-quote" action="javascript:void(0)">
-                    <h3>We will always provide the best service.</h3>
-                    <div class="grp">
-                        <input type="text" name="quote[name]" placeholder="Your Name" required="">
-                    </div>
-                    <div class="grp">
-                        <input type="email" name="quote[email]" placeholder="Email Address" required="">
-                    </div>
-                    <div class="grp">
-                        <input type="text" name="quote[phone]" placeholder="Phone Number" required="">
-                    </div>
-                    <div class="grp">
-                        <textarea name="quote[message]" placeholder="I am looking for..."></textarea>
-                    </div>
-                    <div class="grp">
-                        <button class="btn-title">Submit</button>
-                    </div>
-                </form>
-                </div>
+            <?php include "./components/banner.php"?>
                 <!-- form -->
             </div>
         </div>
@@ -78,20 +59,20 @@
                 <p class="title-p">To effectively tackle the ever-growing competition, we adopt a fair pricing model that prioritizes quality over quantity in every project. <br> Our ultimate goal is your satisfaction, which we strive to achieve by providing stellar services.</p>   
             </div>
             <div class="portfolio-items-box">
-            <div class="gallery">
-                <img src="./assets/images/earth.webp" alt="a forest after an apocalypse">
-                <img src="./assets/images/portfolio/v2.png" alt="a great view of the sea above the mountain">
-                <img src="./assets/images/portfolio/w2.png" alt="a great view of the sea above the mountain">
-                <img src="./assets/images/portfolio/b2.png" alt="a waterfall and many rocks">
-                <img src="./assets/images/portfolio/l2.png" alt="sime pink flowers">
-                <img src="./assets/images/portfolio/s2.png" alt="a cool landscape">
-                <img src="./assets/images/portfolio/v1.png" alt="inside a town between two big buildings">
-                <img src="./assets/images/portfolio/w1.png" alt="a great view of the sea above the mountain">
-                <img src="./assets/images/portfolio/l1.png" alt="a house on a mountain">
-                <img src="./assets/images/portfolio/s1.png" alt="a waterfall, a lot of tree and a great view from the sky">
-                <img src="./assets/images/portfolio/l3.png" alt="big rocks with some trees">
-                <img src="./assets/images/portfolio/w3.png" alt="a great view of the sea above the mountain">
-              </div>
+            <div class="gallery1">
+                    <img src="./assets/images/portfolio/animated/sc1.webp" data-video="assets/images/portfolio/animated/video1.mp4" alt="Video 1">
+                    <img src="./assets/images/portfolio/animated/sc2.webp" data-video="assets/images/portfolio/animated/video2.mp4" alt="Video 2">
+                    <img src="./assets/images/portfolio/animated/sc3.webp" data-video="assets/images/portfolio/animated/video3.mp4" alt="Video 3">
+                    <img src="./assets/images/portfolio/animated/sc4.webp" data-video="assets/images/portfolio/animated/video4.mp4" alt="Video 4">
+                    <img src="./assets/images/portfolio/animated/sc5.webp" data-video="assets/images/portfolio/animated/video5.mp4" alt="Video 5">
+                    <img src="./assets/images/portfolio/animated/sc6.webp" data-video="assets/images/portfolio/animated/video6.mp4" alt="Video 6">
+                    <img src="./assets/images/portfolio/animated/sc7.webp" data-video="assets/images/portfolio/animated/video7.mp4" alt="Video 7">
+                    <img src="./assets/images/portfolio/animated/sc8.webp" data-video="assets/images/portfolio/animated/video8.mp4" alt="Video 8">
+                    <img src="./assets/images/portfolio/animated/sc9.webp" data-video="assets/images/portfolio/animated/video9.mp4" alt="Video 9">
+                    <img src="./assets/images/portfolio/animated/sc10.webp" data-video="assets/images/portfolio/animated/video10.mp4" alt="Video 10">
+                    <img src="./assets/images/portfolio/animated/sc11.webp" data-video="assets/images/portfolio/animated/video11.mp4" alt="Video 11">
+                    <img src="./assets/images/portfolio/animated/sc12.webp" data-video="assets/images/portfolio/animated/video12.mp4" alt="Video 12">
+                    </div>
         </div>
     </div>
     </div>
@@ -115,7 +96,7 @@
                         </div>
                         <div class="project-item-body">
                             <h5>Instent Basic </h5>
-                            <h4>$99</h4>
+                            <!-- <h4>$99</h4> -->
                             <ul class="tabs-ul-01">
                             <li><i class="fa-solid fa-check"></i>1 Logo Design Concepts</li>
                             <li><i class="fa-solid fa-check"></i>By 1 Experienced Designer</li>
@@ -137,7 +118,7 @@
                         </div>
                         <div class="project-item-body">
                             <h5>Instent Basic </h5>
-                            <h4>$99</h4>
+                            <!-- <h4>$99</h4> -->
                             <ul class="tabs-ul-01">
                             <li><i class="fa-solid fa-check"></i>1 Logo Design Concepts</li>
                             <li><i class="fa-solid fa-check"></i>By 1 Experienced Designer</li>
@@ -159,7 +140,7 @@
                         </div>
                         <div class="project-item-body">
                             <h5>Instent Basic </h5>
-                            <h4>$99</h4>
+                            <!-- <h4>$99</h4> -->
                             <ul class="tabs-ul-01">
                             <li><i class="fa-solid fa-check"></i>1 Logo Design Concepts</li>
                             <li><i class="fa-solid fa-check"></i>By 1 Experienced Designer</li>
@@ -192,11 +173,8 @@
 <?php include "./components/footer.php"?>
 <!-- Footer Section -->
 
-<script src="/assets/js/jquery.js"></script>
-<script src="/assets/js/custom.js"></script>
-<script>
-    new WOW().init();
-</script>
-<script src="https://cdn.lordicon.com/lordicon.js"></script>
+
+
+
 </body>
 </html>
